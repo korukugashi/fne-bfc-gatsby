@@ -1,0 +1,136 @@
+@import "~bulma/sass/utilities/initial-variables"
+
+$fne-red: #c90c0f
+$fne-red-invert: #fff
+
+$primary: $fne-red
+$primary-invert: $fne-red-invert
+$body-color: #50596c
+$strong-color: #50596c
+$body-size: 18px
+$link: $fne-red
+
+@import "~bulma"
+
+@font-face
+    font-family: 'Sohoma'
+    src: url('../fonts/sohomalight.eot')
+    src: url("../fonts/sohomalight.eot?#iefix") format("embedded-opentype"), url("../fonts/sohomalight.woff2") format("woff2"), url("../fonts/sohomalight.woff") format("woff"), url("../fonts/sohomalight.ttf") format("truetype"), url("../fonts/sohomalight.svg") format("svg")
+    font-weight: 300
+    font-style: normal
+
+@font-face
+    font-family: 'Sohoma'
+    src: url('../fonts/sohomaextrabold.eot')
+    src: url("../fonts/sohomaextrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/sohomaextrabold.woff2") format("woff2"), url("../fonts/sohomaextrabold.woff") format("woff"), url("../fonts/sohomaextrabold.ttf") format("truetype"), url("../fonts/sohomaextrabold.svg") format("svg")
+    font-weight: 800
+    font-style: normal
+
+@font-face
+    font-family: 'Saira'
+    src: url('../fonts/SairaExtraCondensed-ExtraBold.eot')
+    src: url("../fonts/SairaExtraCondensed-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/SairaExtraCondensed-ExtraBold.woff2") format("woff2"), url("../fonts/SairaExtraCondensed-ExtraBold.woff") format("woff")
+    font-weight: 800
+    font-style: normal
+
+.sohoma
+    font-family: Sohoma
+
+.saira
+    font-family: Saira, sans-serif
+
+h2
+    @extend .title
+    @extend .is-3
+    @extend .sohoma
+
+    margin-top: 2rem
+
+address
+    font-style: normal
+
+p
+    margin: 1rem 0
+    @extend .has-text-justified
+
+.has-text-centered p
+    @extend .has-text-centered
+
+h1
+    @extend .title
+    @extend .is-1
+    @extend .sohoma
+    text-align: center
+    font-weight: normal
+
+html.has-navbar-fixed-top, body.has-navbar-fixed-top
+    padding-top: 80px
+
+.header
+    svg
+        margin-bottom: 0
+        position: absolute
+    
+    .logo
+        position: relative
+        @extend .saira
+    
+        div
+            position: absolute
+            font-size: 1.2rem
+    
+    .navbar
+        @extend .has-shadow
+    
+    .navbar-item,.navbar-link
+        font-weight: bold
+        color: $primary
+        font-size: 0.9rem
+            
+.navbar-dropdown
+    .navbar-item
+        color: $body-color
+        font-weight: normal
+
+.box
+    box-shadow: 0 10px 45px -9px rgba(0,0,0,.1)
+    border: 0
+
+    h1
+        font-size: 1.1rem
+        text-align: left
+
+.banner-catch
+    a
+        color: #fff
+
+#herisson2
+    .red
+        fill: #910508
+
+#herisson
+    .red
+        fill: $fne-red
+
+.banner-catch
+    @extend .sohoma
+    text-decoration: none !important
+
+    span
+        font-size: 1.5rem
+        padding: 4px 5px
+        background: #c90c0fcc
+
+.home-articles
+    article
+        @extend .box
+
+    h1
+        @extend .title
+        font-size: 1rem
+        margin: 0.5rem 0 0
+        color: #222
+        text-align: left
+
+    date
+        font-size: 0.6rem

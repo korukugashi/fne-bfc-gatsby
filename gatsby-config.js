@@ -1,24 +1,66 @@
 module.exports = {
-  plugins: [
-    {
-      resolve: `gatsby-theme-blog`,
-      options: {},
-    },
-  ],
-  // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
-    social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
-      },
-    ],
+    title: `FNE BFC - France Nature Environnement Bourgogne Franche-Comté`,
+    description: `FNE BFC fédération des associations de protection de la Nature et de l'environnement en Bourgogne Franche-Comté`,
+    author: `@FNEasso`,
+    lang: `fr`,
+    siteUrl: `https://www.fne-bfc.fr`
   },
+  plugins: [
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `backgrounds`,
+        path: `${__dirname}/src/bg`,
+      },
+    },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `fne-bfc`,
+        short_name: `FNE-BFC`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#c90c0f`,
+        display: `minimal-ui`,
+        icon: `src/images/herisson.svg`, // This path is relative to the root of the site.
+      },
+    },
+    // this (optional) plugin enables Progressive Web App + Offline functionality
+    // To learn more, visit: https://gatsby.dev/offline
+    // `gatsby-plugin-offline`,
+    {
+      resolve: 'gatsby-plugin-svgr',
+      options: {
+        prettier: true,         // use prettier to format JS code output (default)
+        svgo: false,             // use svgo to optimize SVGs (default)
+      },
+    },
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
+      options: {
+        //develop: true, // Activates purging in npm run develop
+        printRejected: true,
+        whitelist: ['has-text-weight-bold'],
+      },
+    }, // must be after other CSS plugins
+  ],
 }

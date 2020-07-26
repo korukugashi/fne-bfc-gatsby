@@ -1,0 +1,66 @@
+import React from "react"
+import Obfuscate from 'react-obfuscate'
+
+import Layout from "../../components/layout"
+import SEO from "../../components/seo"
+
+const Join = () => (
+  <Layout>
+    <SEO
+      title="Adhérer"
+      description="Contribuez à la protection de la nature et l'environnement en adhérant à l'association régionale"
+    />
+    <section className="hero is-primary">
+      <div className="hero-body">
+        <div className="container has-text-centered">
+          <h1>Devenez adhérent et parlez de nous autour de vous !</h1>
+          <p>
+            Pour agir, France Nature Environnement Bourgogne Franche-Comté a
+            besoin de bénévoles et d’adhérents.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section className="section" id="adherer">
+      <div className="container">
+        <h1>Adhérer</h1>
+        <p>
+          Aidez-nous à continuer notre combat pour un{" "}
+          <strong>environnement sain</strong> et une{" "}
+          <strong>nature préservée</strong>.
+        </p>
+        <p>
+          Association ou particulier, vous pouvez adhérer à l’une des
+          associations locales, à l’une des fédérations départementales ou bien
+          encore directement à la fédération régionale !
+        </p>
+        <p>
+          Votre adhésion vous permettra de recevoir régulièrement des
+          informations.
+        </p>
+        <h2>Associations</h2>
+        <p>
+          Les associations souhaitant adhérer/renouveler leur adhésion à FNE BFC
+          sont priées de nous contacter par email à <Obfuscate email="contact@fne-bfc.fr" />.
+        </p>
+        <h2>Particuliers : adhésion en ligne</h2>
+        <p className="is-italic">
+          <span className="has-text-weight-bold">NB :</span> le don à HelloAsso
+          est renseigné par défaut à 2.35€, mais vous pouvez cliquer sur
+          "modifier" et le mettre à 0€ si vous ne souhaitez pas laisser de
+          pourboire à HelloAsso.
+        </p>
+        <iframe
+          id="haWidget"
+          allowtransparency="true"
+          scrolling="auto"
+          src="https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/adhesions/test/widget"
+          style={{ width: "100%", height: 850, border: "none" }}
+          title="Adhésion en ligne FNE-BFC"
+        ></iframe>
+      </div>
+    </section>
+  </Layout>
+)
+
+export default Join

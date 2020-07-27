@@ -25,22 +25,50 @@ const Contact = () => (
           {`.team li.girl{background-image:url(${girlIcon})}`}
           {`.team div{font-family:Saira;font-size:1.1rem}`}
         </style>
+        <h2>Administrateurs</h2>
         <ul className="team" style={{ marginTop: "3rem" }}>
           <li>
             <div>Hervé Bellimaz</div> Président
           </li>
           <li className="girl">
-            <div>Annette LAPALUS</div> Vice présidente
-          </li>
-          <li>
-            <div>Jean-Pierre DUPLUS</div> Trésorière
+            <div>Annette Lapalus</div> Vice présidente
           </li>
           <li>
             <div>Gérard Groubatch</div> Secrétaire
           </li>
           <li>
-            <div>Patrick Bourque</div> Administrateur
+            <div>Jean-Pierre Duplus</div> Trésorier
           </li>
+          <li>
+            <div>Patrick Laden</div> Trésorier adjoint
+          </li>
+          <li>
+            <div>Pascal Blain</div> Porte parole
+          </li>
+          <li>
+            <div>Patrick Bourque</div> RH et lien réseau
+          </li>
+          <li className="girl">
+            <div>Michèle Durand Migeon</div> Administratrice
+          </li>
+          <li>
+            <div>Jean-Yves Chalumeaux</div> Administrateur
+          </li>
+          <li className="girl">
+            <div>Joëlle Pienoz</div> Administratrice
+          </li>
+          <li className="girl">
+            <div>Martine Petit</div> Administratrice
+          </li>
+          <li className="girl">
+            <div>Gisèle Daclin</div> Administratrice
+          </li>
+          <li className="girl">
+            <div>Nicole Sicard</div> Administratrice
+          </li>
+        </ul>
+        <h2>Salariés</h2>
+        <ul className="team" style={{ marginTop: "3rem" }}>
           <li className="girl">
             <div>Marjorie Tourette</div> Salariée
           </li>
@@ -48,13 +76,12 @@ const Contact = () => (
             <div>Séverine Guyot</div> Salariée
           </li>
           <li>
+            <div>Pierre Pécriaux</div> Salarié
+          </li>
+          <li>
             <div>Maxence BELLE</div> Salarié
           </li>
         </ul>
-        <p>
-          Ainsi que des bénévoles répartis sur la région Bourgogne Franche-Comté
-          !
-        </p>
       </div>
     </section>
   </Layout>

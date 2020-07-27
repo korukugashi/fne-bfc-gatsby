@@ -1,5 +1,5 @@
 import React from "react"
-import Obfuscate from 'react-obfuscate'
+import Obfuscate from "react-obfuscate"
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
@@ -27,23 +27,22 @@ const Join = () => (
         <p>
           Aidez-nous à continuer notre combat pour un{" "}
           <strong>environnement sain</strong> et une{" "}
-          <strong>nature préservée</strong>.
+          <strong>nature préservée</strong>. Votre adhésion vous permettra de
+          recevoir régulièrement des informations.
         </p>
         <p>
-          Association ou particulier, vous pouvez adhérer à l’une des
-          associations locales, à l’une des fédérations départementales ou bien
-          encore directement à la fédération régionale !
-        </p>
-        <p>
-          Votre adhésion vous permettra de recevoir régulièrement des
-          informations.
+          <b>Nous guidons les demandes d'adhésion vers les structures
+          départementales de FNE BFC.</b> Des exceptions existent quand elles sont
+          dûment motivées et sont plutôt le fait de considérations historiques
+          concernant le réseau.
         </p>
         <h2>Associations</h2>
         <p>
           Les associations souhaitant adhérer/renouveler leur adhésion à FNE BFC
-          sont priées de nous contacter par email à <Obfuscate email="contact@fne-bfc.fr" />.
+          sont priées de nous contacter par email à{" "}
+          <Obfuscate email="contact@fne-bfc.fr" />.
         </p>
-        <h2>Particuliers : adhésion en ligne</h2>
+        <h2>Particuliers</h2>
         <p className="is-italic">
           <span className="has-text-weight-bold">NB :</span> le don à HelloAsso
           est renseigné par défaut à 2.35€, mais vous pouvez cliquer sur

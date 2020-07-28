@@ -1,4 +1,5 @@
 import React from "react"
+import Obfuscate from 'react-obfuscate';
 
 import Layout from "../../../components/layout"
 import SEO from "../../../components/seo"
@@ -28,58 +29,59 @@ const Contact = () => (
         <h2>Administrateurs</h2>
         <ul className="team" style={{ marginTop: "3rem" }}>
           <li>
-            <div>Hervé Bellimaz</div> Président
+            <Obfuscate element="div">Hervé Bellimaz</Obfuscate> Président
           </li>
           <li className="girl">
-            <div>Annette Lapalus</div> Vice présidente
+            <Obfuscate element="div">Annette Lapalus</Obfuscate> Vice présidente
           </li>
           <li>
-            <div>Gérard Groubatch</div> Secrétaire
+            <Obfuscate element="div">Gérard Groubatch</Obfuscate> Secrétaire
           </li>
           <li>
-            <div>Jean-Pierre Duplus</div> Trésorier
+            <Obfuscate element="div">Jean-Pierre Duplus</Obfuscate> Trésorier
           </li>
           <li>
-            <div>Patrick Laden</div> Trésorier adjoint
+            <Obfuscate element="div">Patrick Laden</Obfuscate> Trésorier adjoint
           </li>
           <li>
-            <div>Pascal Blain</div> Porte parole
+            <Obfuscate element="div">Pascal Blain</Obfuscate> Porte parole
           </li>
           <li>
-            <div>Patrick Bourque</div> RH et lien réseau
+            <Obfuscate element="div">Patrick Bourque</Obfuscate> RH et lien réseau
           </li>
           <li className="girl">
-            <div>Michèle Durand Migeon</div> Administratrice
+            <Obfuscate element="div">Michèle Durand Migeon</Obfuscate> Administratrice
           </li>
           <li>
-            <div>Jean-Yves Chalumeaux</div> Administrateur
+            <Obfuscate element="div">Jean-Yves Chalumeaux</Obfuscate> Administrateur
           </li>
           <li className="girl">
-            <div>Joëlle Pienoz</div> Administratrice
+            <Obfuscate element="div">Joëlle Pienoz</Obfuscate> Administratrice
           </li>
           <li className="girl">
-            <div>Martine Petit</div> Administratrice
+            <Obfuscate element="div">Martine Petit</Obfuscate> Administratrice
           </li>
           <li className="girl">
-            <div>Gisèle Daclin</div> Administratrice
+            <Obfuscate element="div">Gisèle Daclin</Obfuscate> Administratrice
           </li>
           <li className="girl">
-            <div>Nicole Sicard</div> Administratrice
+            <Obfuscate element="div">Nicole Sicard</Obfuscate> Administratrice
           </li>
         </ul>
         <h2>Salariés</h2>
         <ul className="team" style={{ marginTop: "3rem" }}>
           <li className="girl">
-            <div>Marjorie Tourette</div> Salariée
+            <Obfuscate element="div">Marjorie Tourette</Obfuscate> Débat public
+          </li>
+          <li>
+            <Obfuscate element="div">Pierre Pécriaux</Obfuscate> Débat public
+          </li>
+          
+          <li>
+            <Obfuscate element="div">Maxence Belle</Obfuscate> Biodiversit'haies
           </li>
           <li className="girl">
-            <div>Séverine Guyot</div> Salariée
-          </li>
-          <li>
-            <div>Pierre Pécriaux</div> Salarié
-          </li>
-          <li>
-            <div>Maxence BELLE</div> Salarié
+            <Obfuscate element="div">Peggy Gougeon</Obfuscate> Secrétariat
           </li>
         </ul>
       </div>

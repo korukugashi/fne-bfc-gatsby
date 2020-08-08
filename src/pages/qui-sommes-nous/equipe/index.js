@@ -81,7 +81,7 @@ const Contact = () => (
             <Obfuscate element="div">Maxence Belle</Obfuscate> Biodiversit'haies
           </li>
           <li className="girl">
-            <Obfuscate element="div">Peggy Gougeon</Obfuscate> Secrétariat
+            <Obfuscate element="div">Peggy Bernard</Obfuscate> Secrétariat
           </li>
         </ul>
       </div>

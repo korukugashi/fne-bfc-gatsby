@@ -32,6 +32,8 @@ const Layout = ({ children }) => {
           © FNE BFC {new Date().getFullYear()}
           { ' - ' }
           <Link to="/mentions-legales/">Mentions légales</Link>
+          { ' - ' }
+          <Link to="/contact/">Contactez-nous</Link>
         </div>
       </footer>
     </>

@@ -70,22 +70,10 @@ const Header = class extends React.Component {
                       L'équipe
                     </Link>
                     <Link className="navbar-item" to="/qui-sommes-nous/reseau-fne/">
-                      Le réseau FNE
+                      Le réseau FNE BFC
                     </Link>
-                  </div>
-                </div>
-
-                <div className="navbar-item has-dropdown is-hoverable">
-                  <Link className="navbar-link" to="/nos-programmes/">
-                    Nos programmes
-                  </Link>
-    
-                  <div className="navbar-dropdown">
-                    <Link className="navbar-item" to="/nos-programmes/debat-public/">
-                      Débat public
-                    </Link>
-                    <Link className="navbar-item" to="/nos-programmes/biodiversit-haies/">
-                      Biodiversit'haies
+                    <Link className="navbar-item" to="/qui-sommes-nous/soutiens/">
+                      On les soutient...
                     </Link>
                   </div>
                 </div>
@@ -99,11 +87,15 @@ const Header = class extends React.Component {
                     <Link className="navbar-item" to="/nos-actions/">
                       Thématiques de travail
                     </Link>
+                    <hr className="navbar-divider"></hr>
+                    <Link className="navbar-item" to="/nos-actions/debat-public/">
+                      Débat public
+                    </Link>
+                    <Link className="navbar-item" to="/nos-actions/biodiversit-haies/">
+                      Biodiversit'haies
+                    </Link>
                     <Link className="navbar-item" to="/nos-actions/sentinelles-de-la-nature/">
                       Sentinelles de la nature
-                    </Link>
-                    <Link className="navbar-item" to="/nos-actions/coquelicots/">
-                      Coquelicots
                     </Link>
                     <Link className="navbar-item" to="/nos-actions/cartes-vertes/">
                       Cartes vertes
@@ -126,16 +118,16 @@ const Header = class extends React.Component {
                     <Link className="navbar-item" to="/nous-rejoindre/don/">
                       Faire un don
                     </Link>
-                    <Link className="navbar-item" to="/nous-rejoindre/devenir-benevole/">
-                      Devenir bénévole
+                    <Link className="navbar-item" to="/nous-rejoindre/participer/">
+                      Agir avec nous
                     </Link>
-                    <Link className="navbar-item" to="/nous-rejoindre/participer-a-une-action/">
-                      Participer à une action
+                    <Link className="navbar-item" to="/contact/">
+                      Nous contacter
                     </Link>
                   </div>
                 </div>
                 
-                <Link className="navbar-item" to="/contact/">Contact</Link>
+                <Link className="navbar-item" to="/documentation/">Documentation</Link>
                 <Link className="button is-small is-primary" to="/nous-rejoindre/don/" style={{ position: 'relative', top: '0.8rem', marginLeft: '1rem' }}>Faire un don</Link>
               </div>
             </div>

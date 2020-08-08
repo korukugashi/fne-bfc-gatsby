@@ -53,6 +53,11 @@ p
     margin: 1rem 0
     @extend .has-text-justified
 
+ul
+    padding-left: 2rem
+li
+    list-style-type: circle
+
 .has-text-centered p
     @extend .has-text-centered
 
@@ -145,6 +150,9 @@ footer
             min-height: 387px
     a
         color: $body-color
+    
+    .tag
+        font-size: 0.6rem
 
 .agenda
     a
@@ -161,3 +169,9 @@ footer
 .hero.is-primary
     strong
         color: #fff
+
+.filter-action
+    a
+        color: #000
+        &:hover
+            color: $primary

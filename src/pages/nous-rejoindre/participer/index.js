@@ -14,7 +14,7 @@ const Join = () => (
     <section className="hero is-primary">
       <div className="hero-body">
         <div className="container has-text-centered">
-          <h1>Devenir bénévole</h1>
+          <h1>Agir avec FNE BFC</h1>
         </div>
       </div>
     </section>
@@ -24,7 +24,6 @@ const Join = () => (
           Vous voulez rejoindre une association de protection de
           l’environnement&nbsp;?
         </h2>
-
         <p>
           FNE Bourgogne Franche-Comté, ses fédérations et ses associations
           membres accueillent toute l’année de nouveaux bénévoles.

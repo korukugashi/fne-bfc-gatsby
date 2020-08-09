@@ -1,0 +1,37 @@
+backend:
+  name: git-gateway
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "actions"
+    label: "Actions"
+    folder: "src/pages/nos-actions"
+    create: true
+    slug: "{{year}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "action-post"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Image de présentation", name: "featuredimage", widget: image}
+      - {label: "Article", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/qui-sommes-nous/equipe/index.md"
+        label: "Equipe"
+        name: "team"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "team-page"}
+          - {label: "Tags", name: "tags", widget: "list"}

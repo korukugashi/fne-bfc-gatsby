@@ -62,5 +62,6 @@ module.exports = {
         whitelist: ['has-text-weight-bold'],
       },
     }, // must be after other CSS plugins
+    'gatsby-plugin-netlify-cms', // must be after other CSS plugins, make sure to keep it last in the array
   ],
 }

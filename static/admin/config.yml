@@ -1,5 +1,8 @@
 backend:
-  name: git-gateway
+  name: proxy
+  proxy_url: http://localhost:8081/api/v1
+  #name: git-gateway
+  repo: korukugashi/fne-bfc-gatsby
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
@@ -8,10 +11,23 @@ backend:
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
+site_url: https://fne-bfc.netlify.app/
+locale: 'fr'
+#publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
 collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/qui-sommes-nous/index.md"
+        label: "L'association"
+        name: "association"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "association-page"}
+          - {label: "Contenu de la page", name: "body", widget: "markdown"}
+
   - name: "actions"
     label: "Actions"
     folder: "src/pages/nos-actions"
@@ -20,18 +36,44 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "action-post"}
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Date de publication", name: "date", widget: "datetime", pickerUtc: false, dateFormat: "DD/MM/YYYY", timeFormat: "HH:mm"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image de présentation", name: "featuredimage", widget: image}
+      - {label: "Image de présentation", name: "featuredimage", widget: image, required: false}
       - {label: "Article", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
-
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "src/pages/qui-sommes-nous/equipe/index.md"
-        label: "Equipe"
-        name: "team"
+      - label: "Tags"
+        name: "tags"
+        widget: "relation"
+        collection: "actionstags"
+        searchFields: ["label"]
+        valueField: "label"
+        displayFields: ["label"]
+        multiple: true
+  
+  - label: "Tags (actions)"
+    name: "actionstags"
+    create: true
+    folder: "src/pages/nos-actions/tags"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "actions-tags"}
+      - {label: "Libellé", name: label, widget: string}
+      - {name: image, label: Icône, widget: image}
+  
+  - name: team
+    label: "Équipe"
+    folder: "src/pages/qui-sommes-nous/equipe"
+    fields:
+      - { name: title, label: "Titre", default: "L'équipe de FNE BFC" }
+      - name: admins
+        label: Administrateurs
+        widget: list
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "team-page"}
-          - {label: "Tags", name: "tags", widget: "list"}
+          - { name: name, label: "Prénom et nom de l'administrateur" }
+          - { name: fonction, label: "Fonction" }
+          - { name: photo, label: "Photo de l'administrateur", widget: image}
+      - name: salaries
+        label: Salariés
+        widget: list
+        fields:
+          - { name: name, label: "Prénom et nom du salarié" }
+          - { name: fonction, label: "Fonction" }
+          - { name: photo, label: "Photo du salarié", widget: image}

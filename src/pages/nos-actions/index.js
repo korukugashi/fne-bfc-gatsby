@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
+import MenuActions from "../../components/menuactions"
 
 const Join = () => (
   <Layout>
@@ -16,7 +17,10 @@ const Join = () => (
       </div>
     </section>
     <section className="section">
-      <div className="container-fluid"></div>
+      <div className="container-fluid">
+        <h2 className="mt-0">Les programmes</h2>
+        <MenuActions />
+      </div>
     </section>
   </Layout>
 )

@@ -1,8 +1,10 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+
 import { ReactComponent as Herisson}  from "../images/herisson.svg"
 import { ReactComponent as BandeauRouge}  from "../images/bandeau-rouge.svg"
+import MenuActions from "../components/menuactions"
 
 const Header = class extends React.Component {
   constructor(props) {
@@ -84,21 +86,7 @@ const Header = class extends React.Component {
                   </Link>
     
                   <div className="navbar-dropdown">
-                    <Link className="navbar-item" to="/nos-actions/debat-public/">
-                      Débat public
-                    </Link>
-                    <Link className="navbar-item" to="/nos-actions/biodiversit-haies/">
-                      Biodiversit'haies
-                    </Link>
-                    <Link className="navbar-item" to="/nos-actions/sentinelles-de-la-nature/">
-                      Sentinelles de la nature
-                    </Link>
-                    <Link className="navbar-item" to="/nos-actions/cartes-vertes/">
-                      Cartes vertes
-                    </Link>
-                    <Link className="navbar-item" to="/nos-actions/juridique/">
-                      Juridique
-                    </Link>
+                    <MenuActions />
                   </div>
                 </div>
 
@@ -109,10 +97,7 @@ const Header = class extends React.Component {
     
                   <div className="navbar-dropdown">
                     <Link className="navbar-item" to="/nous-rejoindre/">
-                      Adhésion
-                    </Link>
-                    <Link className="navbar-item" to="/nous-rejoindre/don/">
-                      Faire un don
+                      Adhérer
                     </Link>
                     <Link className="navbar-item" to="/nous-rejoindre/participer/">
                       Agir avec nous

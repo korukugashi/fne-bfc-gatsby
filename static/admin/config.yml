@@ -18,18 +18,20 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "src/pages/qui-sommes-nous/index.md"
-        label: "L'association"
-        name: "association"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "association-page"}
-          - {label: "Contenu de la page", name: "body", widget: "markdown"}
+  - label: "Agenda"
+    name: "agenda"
+    create: true
+    folder: "src/pages/agenda/events"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "agenda"}
+      - {label: "Date", name: "date", widget: "datetime", pickerUtc: false, dateFormat: "DD/MM/YYYY", timeFormat: "HH:mm"}
+      - {label: "Titre", name: title, widget: string}
+      - {label: "Lieu", name: location, widget: string}
+      - {label: "Horaires / durée", name: duration, widget: string}
+      - {label: "Informations complémentaires", name: "body", widget: "markdown", required: false}
 
   - name: "actions"
-    label: "Actions"
+    label: "Actions (actus)"
     folder: "src/pages/nos-actions"
     create: true
     slug: "{{year}}-{{slug}}"
@@ -48,6 +50,23 @@ collections:
         valueField: "label"
         displayFields: ["label"]
         multiple: true
+
+  - name: "programmes"
+    label: "Actions (programmes)"
+    folder: "src/pages/nos-actions/programmes"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "programmes"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Article", name: "body", widget: "markdown"}
+      - label: "Tags (actus liées)"
+        name: "tags"
+        widget: "relation"
+        collection: "actionstags"
+        searchFields: ["label"]
+        valueField: "label"
+        displayFields: ["label"]
+        multiple: true
   
   - label: "Tags (actions)"
     name: "actionstags"
@@ -57,7 +76,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "actions-tags"}
       - {label: "Libellé", name: label, widget: string}
       - {name: image, label: Icône, widget: image}
-  
+
   - label: "Associations régionales"
     name: "reseauassos"
     create: true
@@ -88,18 +107,6 @@ collections:
       - {label: "Lien site", name: url, widget: string, required: false}
       - {name: image, label: Logo, widget: image, required: false}
   
-  - label: "Agenda"
-    name: "agenda"
-    create: true
-    folder: "src/pages/agenda/events"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "agenda"}
-      - {label: "Date", name: "date", widget: "datetime", pickerUtc: false, dateFormat: "DD/MM/YYYY", timeFormat: "HH:mm"}
-      - {label: "Titre", name: title, widget: string}
-      - {label: "Lieu", name: location, widget: string}
-      - {label: "Horaires / durée", name: duration, widget: string}
-      - {label: "Informations complémentaires", name: "body", widget: "markdown", required: false}
-  
   - name: team
     label: "Équipe"
     folder: "src/pages/qui-sommes-nous/equipe"
@@ -119,3 +126,23 @@ collections:
           - { name: name, label: "Prénom et nom du salarié" }
           - { name: fonction, label: "Fonction" }
           - { name: photo, label: "Photo du salarié", widget: image}
+  
+  - label: "Documents"
+    name: "documents"
+    create: true
+    folder: "src/pages/documentation/documents"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "documents"}
+      - {label: "Date", name: "date", widget: "datetime", pickerUtc: false, dateFormat: "DD/MM/YYYY", timeFormat: "HH:mm"}
+      - {label: "Titre", name: title, widget: string}
+      - {label: "Fichier", name: file, widget: "file"}
+  
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/qui-sommes-nous/index.md"
+        label: "L'association"
+        name: "association"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "association-page"}
+          - {label: "Contenu de la page", name: "body", widget: "markdown"}

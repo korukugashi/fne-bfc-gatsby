@@ -20,7 +20,7 @@ const PersonTemplate = ({ person, index }) => (
 
 const PersonListTemplate = ({ title, personlist }) => (
   <>
-    <h2 style={{ marginTop: 0 }}>{title}</h2>
+    <h2>{title}</h2>
     <ul className="team">
       {personlist &&
         personlist.map((person, index) => (
@@ -40,7 +40,7 @@ const TeamTemplate = ({ admins, salaries }) => {
           </div>
         </div>
       </section>
-      <section className="section">
+      <section className="section pt-2">
         <div className="container has-text-centered">
           <style type="text/css">
             {`.team li{display:inline-block;width:180px;margin:20px 5px;font-size:1rem;font-family:Sohoma}`}

@@ -58,6 +58,36 @@ collections:
       - {label: "Libellé", name: label, widget: string}
       - {name: image, label: Icône, widget: image}
   
+  - label: "Associations régionales"
+    name: "reseauassos"
+    create: true
+    folder: "src/pages/reseau-fne/assos"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "reseau-assos"}
+      - {label: "Libellé", name: label, widget: string}
+      - {label: "Lien site", name: url, widget: string, required: false}
+      - {name: image, label: Logo, widget: image, required: false}
+  
+  - label: "Fédérations départementales"
+    name: "reseaufedes"
+    create: true
+    folder: "src/pages/reseau-fne/fedes"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "reseau-fedes"}
+      - {label: "Libellé", name: label, widget: string}
+      - {label: "Lien site", name: url, widget: string, required: false}
+      - {name: image, label: Logo, widget: image, required: false}
+  
+  - label: "Soutiens"
+    name: "soutiens"
+    create: true
+    folder: "src/pages/soutiens/collectifs"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "soutiens"}
+      - {label: "Libellé", name: label, widget: string}
+      - {label: "Lien site", name: url, widget: string, required: false}
+      - {name: image, label: Logo, widget: image, required: false}
+  
   - name: team
     label: "Équipe"
     folder: "src/pages/qui-sommes-nous/equipe"

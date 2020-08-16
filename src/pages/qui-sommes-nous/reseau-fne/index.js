@@ -2,8 +2,10 @@ import React from "react"
 
 import Layout from "../../../components/layout"
 import SEO from "../../../components/seo"
+import AssosTemplate from "../../../components/assos"
+import FedesTemplate from "../../../components/fedes"
 
-const Contact = () => (
+const Reseau = () => (
   <Layout>
     <SEO
       title="Le réseau FNE"
@@ -17,28 +19,18 @@ const Contact = () => (
       </div>
     </section>
     <section className="section">
-      <div className="container has-text-centered">
+      <div className="container has-text-centered no-bullet">
         <h2>Fédérations départementales</h2>
         <ul>
-          <li>FNE 25-90 (antennes de Besançon et Belfort)</li>
-          <li>FNE 70 Haute-Saône</li>
-          <li>FNE 21 Côte d'Or</li>
-          <li>CAPEN (FNE 71) Saône-et-Loire</li>
-          <li>JNE (FNE 39) Jura</li>
+        <FedesTemplate />
         </ul>
         <h2>Associations régionales</h2>
         <ul>
-          <li>CPEPESC</li>
-          <li>Patrimoine et Environnement</li>
-          <li>CPIE de Brussey</li>
-          <li>ADEB</li>
-          <li>Interbio</li>
-          <li>vergers vivants</li>
-          <li>AOMSL</li>
+          <AssosTemplate />
         </ul>
       </div>
     </section>
   </Layout>
 )
 
-export default Contact
+export default Reseau

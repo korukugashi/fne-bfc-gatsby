@@ -88,6 +88,18 @@ collections:
       - {label: "Lien site", name: url, widget: string, required: false}
       - {name: image, label: Logo, widget: image, required: false}
   
+  - label: "Agenda"
+    name: "agenda"
+    create: true
+    folder: "src/pages/agenda/events"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "agenda"}
+      - {label: "Date", name: "date", widget: "datetime", pickerUtc: false, dateFormat: "DD/MM/YYYY", timeFormat: "HH:mm"}
+      - {label: "Titre", name: title, widget: string}
+      - {label: "Lieu", name: location, widget: string}
+      - {label: "Horaires / durée", name: duration, widget: string}
+      - {label: "Informations complémentaires", name: "body", widget: "markdown", required: false}
+  
   - name: team
     label: "Équipe"
     folder: "src/pages/qui-sommes-nous/equipe"

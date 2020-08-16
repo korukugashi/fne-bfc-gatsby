@@ -2,12 +2,12 @@ import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 import BackgroundSlider from "gatsby-image-background-slider"
-import { MdSchedule, MdRoom } from "react-icons/md"
 
 import Filters from "../components/filters"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import NewsPreview from "../components/newspreview"
+import AgendaPreview from "../components/agendapreview"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -92,38 +92,7 @@ const IndexPage = () => {
                     AGENDA
                   </h1>
                   <div>
-                    <Link to="/agenda/" className="columns event">
-                      <div className="column is-3 day">
-                        <time dateTime="2020-06-20" className="is-size-2 saira">
-                          20 <small className="is-size-6">juin</small>
-                        </time>
-                      </div>
-                      <div className="column is-size-7">
-                        <h2 className="is-size-6">Sortie Nature</h2>
-                        <time dateTime="08:00">
-                          <MdSchedule /> 8h00 - 12h00
-                        </time>
-                        <address>
-                          <MdRoom /> Roches de Nans
-                        </address>
-                      </div>
-                    </Link>
-                    <Link to="/agenda/" className="columns event">
-                      <div className="column is-3 day">
-                        <time dateTime="2020-07-07" className="is-size-2 saira">
-                          07 <small className="is-size-6">juillet</small>
-                        </time>
-                      </div>
-                      <div className="column is-size-7">
-                        <h2 className="is-size-6">Sigogne s’envole !</h2>
-                        <time dateTime="2020-08-31">
-                          <MdSchedule /> Tout l'été
-                        </time>
-                        <address>
-                          <MdRoom /> Evènement virtuel
-                        </address>
-                      </div>
-                    </Link>
+                    <AgendaPreview />
                     <div className="has-text-right is-size-7 columns event">
                       <Link to="/agenda/" className="column">Voir plus &gt;</Link>
                     </div>

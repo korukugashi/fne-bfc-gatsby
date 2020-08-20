@@ -43,7 +43,7 @@ export default function ActionPost({ data }) {
       />
       <section className="section action pt-3">
         <div className="container is-fluid">
-          <div className="columns">
+          <div className="columns is-variable is-5">
             <div className="column">
               <div className="columns is-vcentered">
                 {data.markdownRemark.frontmatter.featuredimage ? (

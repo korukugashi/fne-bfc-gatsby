@@ -1,8 +1,9 @@
 ---
 templateKey: programmes
 title: Biodiversit'haies
-description: Texte de description BH
+description: Favoriser la biodiversité à l'échelle d'un territoire
 featuredimage: /img/logo-bh-calibri.png
+onHome: true
 tags:
   - Haies et arbres têtards
   - Castor

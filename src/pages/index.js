@@ -8,6 +8,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import NewsPreview from "../components/newspreview"
 import AgendaPreview from "../components/agendapreview"
+import ProgPrev from "../components/progprev"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -64,10 +65,10 @@ const IndexPage = () => {
         style={{ paddingTop: "2rem", background: "#e7e7f2" }}
       >
         <div className="container-fluid">
+          <h2 className="is-size-4 mt-0 mb-5">Thématiques</h2>
+          <Filters />
           <div className="columns">
             <div className="column is-three-quarters-tablet">
-              <h2 className="is-size-4 mt-0 mb-3">Thématiques</h2>
-              <Filters />
               <NewsPreview />
               <div className="has-text-centered">
                 <a href="/" className="button is-primary">
@@ -79,7 +80,7 @@ const IndexPage = () => {
               <aside>
                 <article
                   className="box agenda"
-                  style={{ background: "#c61512" }}
+                  style={{ marginTop: 23, background: "#c61512" }}
                 >
                   <h1
                     className="title saira has-text-centered"
@@ -99,60 +100,7 @@ const IndexPage = () => {
                   </div>
                   
                 </article>
-                <article className="box">
-                  <h1 className="title" style={{ marginBottom: "0.5rem" }}>
-                    Débat public
-                  </h1>
-                  <div
-                    className="columns is-2 is-variable"
-                    style={{ marginBottom: 0 }}
-                  >
-                    <div className="column is-4">
-                      <Link to="/nos-programmes/debat-public/">
-                        <Img
-                          fluid={data.debatImg.childImageSharp.fluid}
-                          objectFit="cover"
-                          objectPosition="50% 50%"
-                          alt="Débat public"
-                        />
-                      </Link>
-                    </div>
-                    <div className="column is-size-7 is-size-6-fullhd is-size-6-mobile">
-                      Favoriser le dialogue environnemental sur notre territoire
-                    </div>
-                  </div>
-                  <div className="has-text-right saira">
-                    <Link to="/nos-programmes/debat-public/">
-                      Découvrir &gt;{" "}
-                    </Link>
-                  </div>
-                </article>
-                <article className="box">
-                  <h1 className="title" style={{ marginBottom: "0.5rem" }}>
-                    Biodiversit'haies
-                  </h1>
-                  <div
-                    className="columns is-2 is-variable"
-                    style={{ marginBottom: 0 }}
-                  >
-                    <div className="column is-4">
-                      <Link to="/nos-programmes/biodiversit-haies/">
-                        <Img
-                          fluid={data.haieImg.childImageSharp.fluid}
-                          objectFit="cover"
-                          objectPosition="50% 50%"
-                          alt="Haie champêtre"
-                        />
-                      </Link>
-                    </div>
-                    <div className="column is-size-7 is-size-6-fullhd is-size-6-mobile">
-                      Favoriser la biodiversité à l’échelle d’un territoire
-                    </div>
-                  </div>
-                  <div className="has-text-right saira">
-                    <Link to="/">Découvrir &gt; </Link>
-                  </div>
-                </article>
+                <ProgPrev />
               </aside>
             </div>
           </div>

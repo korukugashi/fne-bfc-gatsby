@@ -42,7 +42,7 @@ export default function Programme({ data }) {
       />
       <section className="section action pt-3">
         <div className="container is-fluid">
-          <div className="columns">
+          <div className="columns is-variable is-5">
             <div className="column">
               <h1 className="has-text-left is-size-2">
                 {data.markdownRemark.frontmatter.title}

@@ -48,8 +48,8 @@ const Filters = () => {
     }
   `)
   return (
-    <section className="section pt-0 pb-2" id="actions">
-      <div className="container">
+    <section className="section pt-0 pb-3" id="actions">
+      <div className="container-fluid">
         <ul className="is-size-6 columns is-multiline is-vcentered filter-action pl-0">
           {data.allMarkdownRemark.edges &&
             data.allMarkdownRemark.edges.map(tag => (

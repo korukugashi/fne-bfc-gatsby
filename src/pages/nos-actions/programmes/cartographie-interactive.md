@@ -1,8 +1,10 @@
 ---
 templateKey: programmes
 title: Cartographie interactive
+description: texte description CV
+featuredimage: /img/logo_sentinelles_nature-fne.png
 tags:
-  - Cartographie interactive
+  - Territoire
 ---
 ## Sentinelles de la nature
 

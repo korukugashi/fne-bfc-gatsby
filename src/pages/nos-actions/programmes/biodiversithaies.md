@@ -1,6 +1,8 @@
 ---
 templateKey: programmes
 title: Biodiversit'haies
+description: Texte de description BH
+featuredimage: /img/logo-bh-calibri.png
 tags:
   - Haies et arbres têtards
   - Castor

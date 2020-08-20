@@ -3,7 +3,7 @@ import { useStaticQuery, Link, graphql } from "gatsby"
 
 export const MenuActionsTemplate = prog => {
   return (
-    <Link className="navbar-item" to="/nos-actions/">
+    <Link className="navbar-item" to={prog.slug}>
       {prog.title}
     </Link>
   )
@@ -18,6 +18,9 @@ const MenuActions = () => {
       ) {
         edges {
           node {
+            fields {
+              slug
+            }
             frontmatter {
               title
             }
@@ -30,7 +33,7 @@ const MenuActions = () => {
   return (
     <>
       {data.allMarkdownRemark.edges.map(prog => (
-        <MenuActionsTemplate {...prog.node.frontmatter} />
+        <MenuActionsTemplate {...{slug: prog.node.fields.slug, ...prog.node.frontmatter}} />
       ))}
     </>
   )

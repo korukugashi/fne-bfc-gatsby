@@ -8,7 +8,6 @@ description: >
   Daniel, 74 ans, habitant du Doubs, sur l’évolution de nos rivières.
 featuredimage: /img/hérimoncourt-le-gland-inondation.webp
 tags:
-  - Biodiversité
   - Eau
 ---
 La rubrique “C’était mieux avant ?” de SOS LRC présente les observations de Daniel, 74 ans, habitant du Doubs, sur l’évolution de nos rivières.

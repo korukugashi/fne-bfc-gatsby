@@ -44,6 +44,41 @@ exports.createPages = ({ graphql, actions }) => {
         })
       })
     )
+    resolve(
+      graphql(
+        `{
+          allMarkdownRemark(
+            filter: { frontmatter: { templateKey: { eq: "programmes" } } }
+          ) {
+            edges {
+              node {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  tags
+                }
+              }
+            }
+          }
+        }`
+      ).then(result => {
+        if (result.errors) {
+          reject(result.errors)
+        }
+
+        result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+          createPage({
+            path: node.fields.slug,
+            component: path.resolve(`./src/components/programme.js`),
+            context: {
+              slug: node.fields.slug,
+              tags: node.frontmatter.tags
+            },
+          })
+        })
+      })
+    )
   })
 }
 

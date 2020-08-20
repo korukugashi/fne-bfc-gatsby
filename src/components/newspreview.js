@@ -9,7 +9,7 @@ export const NewsPreviewTemplate = news => {
   const date = moment(news.date)
   return (
     <div className="column is-half-tablet is-one-third-desktop">
-      <Link to="/">
+      <Link to={news.slug}>
         <article>
           <div>
             <h1 className="mt-0">{news.title}</h1>
@@ -41,6 +41,9 @@ const NewsPreview = () => {
       ) {
         edges {
           node {
+            fields {
+              slug
+            }
             frontmatter {
               title
               date
@@ -63,7 +66,7 @@ const NewsPreview = () => {
   return (
     <div className="columns home-articles is-multiline mt-2">
       {data.allMarkdownRemark.edges.map(news => (
-        <NewsPreviewTemplate {...news.node.frontmatter} />
+        <NewsPreviewTemplate {...{slug: news.node.fields.slug, ...news.node.frontmatter}} />
       ))}
     </div>
   )

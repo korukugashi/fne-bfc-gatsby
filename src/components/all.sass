@@ -158,6 +158,19 @@ footer
     
     .tag
         font-size: 0.6rem
+    
+    p
+        hyphens: auto
+.action
+    time
+        font-size: 0.8rem
+        color: #555
+        font-weight: bold
+    .tags
+        display: inherit
+        span
+            font-size: 0.8rem
+            margin-left: 1rem
 
 .agenda
     a
@@ -192,3 +205,18 @@ footer
 .no-bullet
     li
         list-style-type: none
+
+.recent-actions
+    li
+        border-top: 1px solid #aaa
+        padding: 0.5rem 0.5rem
+        text-align: justify
+        hyphens: auto
+        a
+            color: #333 !important
+        time
+            font-size: 0.6rem
+            margin-right: 0.2rem
+            color: #000
+        &:hover
+            background: #eee

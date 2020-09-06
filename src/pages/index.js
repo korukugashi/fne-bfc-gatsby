@@ -1,6 +1,5 @@
 import React from "react"
-import { useStaticQuery, Link, graphql } from "gatsby"
-import Img from "gatsby-image"
+import { Link, graphql } from "gatsby"
 import BackgroundSlider from "gatsby-image-background-slider"
 
 import Filters from "../components/filters"
@@ -10,37 +9,7 @@ import NewsPreview from "../components/newspreview"
 import AgendaPreview from "../components/agendapreview"
 import ProgPrev from "../components/progprev"
 
-const IndexPage = () => {
-  const data = useStaticQuery(graphql`
-    query {
-      backgrounds: allFile(
-        filter: { sourceInstanceName: { eq: "backgrounds" } }
-      ) {
-        nodes {
-          relativePath
-          childImageSharp {
-            fluid(maxWidth: 4000, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-      }
-      debatImg: file(relativePath: { eq: "debat.png" }) {
-        childImageSharp {
-          fluid(maxWidth: 125) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
-      haieImg: file(relativePath: { eq: "haie.png" }) {
-        childImageSharp {
-          fluid(maxWidth: 125) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
-    }
-  `)
+export default function IndexPage({ data, location }) {
   return (
     <Layout>
       <SEO
@@ -51,30 +20,28 @@ const IndexPage = () => {
         <BackgroundSlider query={data} callbacks={{}} />
         <p
           className="banner-catch"
-          style={{ marginTop: "20rem", marginBottom: "2rem", marginLeft: '2rem' }}
+          style={{
+            marginTop: "20rem",
+            marginBottom: "2rem",
+            marginLeft: "2rem",
+          }}
         >
           <Link to="/qui sommes-nous/">
             <span>Partout où la nature a besoin de nous</span>
           </Link>
         </p>
       </div>
-      
 
       <section
         className="section"
         style={{ paddingTop: "2rem", background: "#e7e7f2" }}
       >
         <div className="container-fluid">
-          <h2 className="is-size-4 mt-0 mb-5">Thématiques</h2>
-          <Filters />
+          <h2 className="is-size-4 mt-0 mb-5" id="thematiques">Thématiques</h2>
+          <Filters slug={location.pathname} />
           <div className="columns">
             <div className="column is-three-quarters-tablet">
-              <NewsPreview />
-              <div className="has-text-centered">
-                <a href="/" className="button is-primary">
-                  AFFICHER PLUS
-                </a>
-              </div>
+              <NewsPreview news={data.allMarkdownRemark.edges} />
             </div>
             <div className="column">
               <aside>
@@ -95,10 +62,11 @@ const IndexPage = () => {
                   <div>
                     <AgendaPreview />
                     <div className="has-text-right is-size-7 columns event">
-                      <Link to="/agenda/" className="column">Voir plus &gt;</Link>
+                      <Link to="/agenda/" className="column">
+                        Voir plus &gt;
+                      </Link>
                     </div>
                   </div>
-                  
                 </article>
                 <ProgPrev />
               </aside>
@@ -135,4 +103,59 @@ const IndexPage = () => {
   )
 }
 
-export default IndexPage
+export const query = graphql`
+  query($tags: [String]) {
+    backgrounds: allFile(
+      filter: { sourceInstanceName: { eq: "backgrounds" } }
+    ) {
+      nodes {
+        relativePath
+        childImageSharp {
+          fluid(maxWidth: 4000, quality: 100) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+    debatImg: file(relativePath: { eq: "debat.png" }) {
+      childImageSharp {
+        fluid(maxWidth: 125) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    haieImg: file(relativePath: { eq: "haie.png" }) {
+      childImageSharp {
+        fluid(maxWidth: 125) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { templateKey: { eq: "action-post" }, tags: { in: $tags } } }
+      limit: 60
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date
+            description
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 300, quality: 80) {
+                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                }
+              }
+            }
+            tags
+          }
+        }
+      }
+    }
+  }
+`

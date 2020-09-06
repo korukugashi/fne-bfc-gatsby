@@ -1,9 +1,11 @@
-import React from "react"
-import { useStaticQuery, Link, graphql } from "gatsby"
+import React, { useState } from "react"
+import { Link } from "gatsby"
 import moment from "moment"
 import "moment/locale/fr"
 
 import ImgNetlify from "./imgnetlify"
+
+const DEFAULT_NB_ITEMS_DISPLAYED = 6
 
 export const NewsPreviewTemplate = news => {
   const date = moment(news.date)
@@ -17,14 +19,19 @@ export const NewsPreviewTemplate = news => {
               <time dateTime={date.format("YYYY-MM-DD")} className="mr-2">
                 {date.format("DD MMMM YYYY")}
               </time>
-              {news.tags.map(tag => (<span>• {tag}</span>))}
+              {news.tags.map(tag => (
+                <span>• {tag}</span>
+              ))}
             </div>
             {news.featuredimage ? (
-              <ImgNetlify image={news.featuredimage} alt={news.title} className="mt-1" style={{maxHeight: 150, overflow: 'hidden'}} />
+              <ImgNetlify
+                image={news.featuredimage}
+                alt={news.title}
+                className="mt-1"
+                style={{ maxHeight: 150, overflow: "hidden" }}
+              />
             ) : null}
-            <p className="is-size-7 mt-2">
-              {news.description}
-            </p>
+            <p className="is-size-7 mt-2">{news.description}</p>
           </div>
         </article>
       </Link>
@@ -32,43 +39,42 @@ export const NewsPreviewTemplate = news => {
   )
 }
 
-const NewsPreview = () => {
-  const data = useStaticQuery(graphql`
-    query NewsPreviewQuery {
-      allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { frontmatter: { templateKey: { eq: "action-post" } } }
-      ) {
-        edges {
-          node {
-            fields {
-              slug
-            }
-            frontmatter {
-              title
-              date
-              description
-              featuredimage {
-                childImageSharp {
-                  fluid(maxWidth: 300, quality: 80) {
-                    ...GatsbyImageSharpFluid_withWebp_noBase64
-                  }
-                }
-              }
-              tags
-            }
-          }
-        }
-      }
-    }
-  `)
+const NewsPreview = ({ news }) => {
+  const [nbDisplayed, setNbDisplayed] = useState(DEFAULT_NB_ITEMS_DISPLAYED)
   moment.locale("fr")
   return (
-    <div className="columns home-articles is-multiline mt-2">
-      {data.allMarkdownRemark.edges.map(news => (
-        <NewsPreviewTemplate {...{slug: news.node.fields.slug, ...news.node.frontmatter}} />
-      ))}
-    </div>
+    <>
+      <div className="columns home-articles is-multiline mt-2">
+        {news.map((news, index) =>
+          index < nbDisplayed ? (
+            <NewsPreviewTemplate
+              {...{ slug: news.node.fields.slug, ...news.node.frontmatter }}
+            />
+          ) : null
+        )}
+      </div>
+      {news.lenght ? (
+        news.length > nbDisplayed ? (
+          <div className="has-text-centered">
+            <div
+              className="button is-primary"
+              onClick={() =>
+                setNbDisplayed(nbDisplayed + DEFAULT_NB_ITEMS_DISPLAYED)
+              }
+              onKeyDown={() =>
+                setNbDisplayed(nbDisplayed + DEFAULT_NB_ITEMS_DISPLAYED)
+              }
+              tabIndex={0}
+              role="button"
+            >
+              AFFICHER PLUS
+            </div>
+          </div>
+        ) : null
+      ) : (
+        <div className="mt-6 has-text-centered">Il n'y a aucun article pour cette thématique.</div>
+      )}
+    </>
   )
 }
 

@@ -2,9 +2,12 @@ import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 
-const FilterTemplate = ({tag}) => (
+const FilterTemplate = ({ tag, current }) => (
   <li className="column is-3 mt-2 mb-2">
-    <Link className="columns is-vcentered" to="/">
+    <Link
+      className={`columns is-vcentered ${current ? "current-tag" : ""}`}
+      to={`${tag.node.fields.slug}#thematiques`}
+    >
       <Img
         fixed={tag.node.frontmatter.image.childImageSharp.fixed}
         alt={tag.node.frontmatter.label}
@@ -23,7 +26,7 @@ const FilterTemplate = ({tag}) => (
   </li>
 )
 
-const Filters = () => {
+const Filters = ({ slug }) => {
   const data = useStaticQuery(graphql`
     query FiltersQuery {
       allMarkdownRemark(
@@ -32,6 +35,9 @@ const Filters = () => {
       ) {
         edges {
           node {
+            fields {
+              slug
+            }
             frontmatter {
               label
               image {
@@ -53,7 +59,10 @@ const Filters = () => {
         <ul className="is-size-6 columns is-multiline is-vcentered filter-action pl-0">
           {data.allMarkdownRemark.edges &&
             data.allMarkdownRemark.edges.map(tag => (
-              <FilterTemplate tag={tag} />
+              <FilterTemplate
+                tag={tag}
+                current={decodeURIComponent(slug) === tag.node.fields.slug}
+              />
             ))}
         </ul>
       </div>

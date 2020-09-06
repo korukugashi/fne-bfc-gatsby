@@ -79,6 +79,41 @@ exports.createPages = ({ graphql, actions }) => {
         })
       })
     )
+    resolve(
+      graphql(
+        `{
+          allMarkdownRemark(
+            sort: { fields: [frontmatter___label] }
+            filter: { frontmatter: { templateKey: { eq: "actions-tags" } } }
+          ) {
+            edges {
+              node {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  label
+                }
+              }
+            }
+          }
+        }`
+      ).then(result => {
+        if (result.errors) {
+          reject(result.errors)
+        }
+
+        result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+          createPage({
+            path: node.fields.slug,
+            component: path.resolve(`./src/pages/index.js`),
+            context: {
+              tags: [node.frontmatter.label]
+            },
+          })
+        })
+      })
+    )
   })
 }
 

@@ -18,6 +18,7 @@ const ProgPrevItem = (data) => (
             objectFit="cover"
             objectPosition="50% 50%"
             alt={data.title}
+            style={{maxWidth: 100}}
           />
         </div>
         <div className="column is-size-7 is-size-6-fullhd is-size-6-mobile">

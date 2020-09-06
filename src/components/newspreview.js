@@ -28,7 +28,7 @@ export const NewsPreviewTemplate = news => {
                 image={news.featuredimage}
                 alt={news.title}
                 className="mt-1"
-                style={{ maxHeight: 150, overflow: "hidden" }}
+                style={{ maxHeight: 150, maxWidth: 300, overflow: "hidden" }}
               />
             ) : null}
             <p className="is-size-7 mt-2">{news.description}</p>

@@ -7,7 +7,7 @@ import "moment/locale/fr"
 export const AgendaPreviewTemplate = event => {
   const date = moment(event.date)
   return (
-    <Link to="/agenda/" className="columns event">
+    <Link to="/agenda/" className="columns is-mobile event">
       <div className="column is-3 day">
         <time dateTime={date.format("YYYY-MM-DD")} className="is-size-2 saira">
           {date.format("DD")}{" "}

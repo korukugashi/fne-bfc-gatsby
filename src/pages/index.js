@@ -16,7 +16,7 @@ export default function IndexPage({ data, location }) {
         title="Accueil"
         keywords={[`nature`, `environnement`, `bourgogne`, `franche-comte`]}
       />
-      <div>
+      <div className="is-hidden-touch">
         <BackgroundSlider query={data} callbacks={{}} />
         <p
           className="banner-catch"
@@ -25,17 +25,40 @@ export default function IndexPage({ data, location }) {
             marginBottom: "2rem",
             marginLeft: "2rem",
           }}
-        >
-         
-        </p>
+        ></p>
       </div>
 
       <section
         className="section"
         style={{ paddingTop: "2rem", background: "#e7e7f2" }}
       >
+        <article
+          className="box agenda is-hidden-tablet"
+          style={{ marginTop: 23, background: "#c61512" }}
+        >
+          <h1
+            className="title saira has-text-centered"
+            style={{
+              fontSize: "2rem",
+              textAlign: "center",
+              color: "#fff",
+            }}
+          >
+            AGENDA
+          </h1>
+          <div>
+            <AgendaPreview />
+            <div className="has-text-right is-size-7 columns event">
+              <Link to="/agenda/" className="column">
+                Voir plus &gt;
+              </Link>
+            </div>
+          </div>
+        </article>
         <div className="container-fluid">
-          <h2 className="is-size-4 mt-0 mb-5" id="thematiques">Thématiques</h2>
+          <h2 className="is-size-4 mt-0 mb-5" id="thematiques">
+            Thématiques
+          </h2>
           <Filters slug={location.pathname} />
           <div className="columns">
             <div className="column is-three-quarters-tablet">
@@ -44,7 +67,7 @@ export default function IndexPage({ data, location }) {
             <div className="column">
               <aside>
                 <article
-                  className="box agenda"
+                  className="box agenda is-hidden-mobile"
                   style={{ marginTop: 23, background: "#c61512" }}
                 >
                   <h1
@@ -131,7 +154,9 @@ export const query = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { templateKey: { eq: "action-post" }, tags: { in: $tags } } }
+      filter: {
+        frontmatter: { templateKey: { eq: "action-post" }, tags: { in: $tags } }
+      }
       limit: 60
     ) {
       edges {

@@ -3,7 +3,7 @@ import { useStaticQuery, Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 
 const FilterTemplate = ({ tag, current }) => (
-  <li className="column is-3 mt-2 mb-2">
+  <li className="column mt-2 mb-2 is-half-mobile is-one-quarter-tablet no-padding-mobile">
     <Link
       className={`columns is-vcentered ${current ? "current-tag" : ""}`}
       to={`${tag.node.fields.slug}#thematiques`}
@@ -11,7 +11,7 @@ const FilterTemplate = ({ tag, current }) => (
       <Img
         fixed={tag.node.frontmatter.image.childImageSharp.fixed}
         alt={tag.node.frontmatter.label}
-        className="mr-3"
+        className="mr-3 is-hidden-mobile"
         style={{
           width: 40,
           height: 40,
@@ -56,7 +56,7 @@ const Filters = ({ slug }) => {
   return (
     <section className="section pt-0 pb-3" id="actions">
       <div className="container-fluid">
-        <ul className="is-size-6 columns is-multiline is-vcentered filter-action pl-0">
+        <ul className="is-size-6 columns is-multiline is-vcentered filter-action pl-0 is-mobile">
           {data.allMarkdownRemark.edges &&
             data.allMarkdownRemark.edges.map(tag => (
               <FilterTemplate

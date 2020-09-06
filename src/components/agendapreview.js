@@ -29,7 +29,7 @@ export const AgendaPreviewTemplate = event => {
 }
 
 const AgendaPreview = () => {
-  const [now, setNow] = useState('2100-01-01')
+  const [now, setNow] = useState('2000-01-01')
   useEffect(() => {
     const dateNow = moment()
     setNow(dateNow.format("YYYY-MM-DD"))

@@ -26,9 +26,7 @@ export default function IndexPage({ data, location }) {
             marginLeft: "2rem",
           }}
         >
-          <Link to="/qui sommes-nous/">
-            <span>Partout où la nature a besoin de nous</span>
-          </Link>
+         
         </p>
       </div>
 

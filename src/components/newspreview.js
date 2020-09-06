@@ -53,7 +53,7 @@ const NewsPreview = ({ news }) => {
           ) : null
         )}
       </div>
-      {news.lenght ? (
+      {news.length ? (
         news.length > nbDisplayed ? (
           <div className="has-text-centered">
             <div

@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState, useEffect } from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
 import { MdSchedule, MdRoom } from "react-icons/md"
 import moment from "moment"
@@ -6,10 +6,11 @@ import "moment/locale/fr"
 
 export const AgendaPreviewTemplate = event => {
   const date = moment(event.date)
+  const dateStd = date.format("YYYY-MM-DD")
   return (
-    <Link to="/agenda/" className="columns is-mobile event">
+    <Link to="/agenda/" className={`columns is-mobile event ${event.now > dateStd ? 'outdated' : ''}`}>
       <div className="column is-3 day">
-        <time dateTime={date.format("YYYY-MM-DD")} className="is-size-2 saira">
+        <time dateTime={dateStd} className="is-size-2 saira">
           {date.format("DD")}{" "}
           <small className="is-size-6">{date.format("MMMM")}</small>
         </time>
@@ -28,6 +29,11 @@ export const AgendaPreviewTemplate = event => {
 }
 
 const AgendaPreview = () => {
+  const [now, setNow] = useState('2100-01-01')
+  useEffect(() => {
+    const dateNow = moment()
+    setNow(dateNow.format("YYYY-MM-DD"))
+  }, [])
   const data = useStaticQuery(graphql`
     query AgendaPreviewQuery {
       allMarkdownRemark(
@@ -52,7 +58,7 @@ const AgendaPreview = () => {
   return (
     <>
       {data.allMarkdownRemark.edges.map(event => (
-        <AgendaPreviewTemplate {...event.node.frontmatter} />
+        <AgendaPreviewTemplate {...{now, ...event.node.frontmatter}} />
       ))}
     </>
   )

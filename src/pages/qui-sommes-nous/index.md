@@ -5,7 +5,6 @@ templateKey: association-page
 
 Notre origine remonte à 1972 quand fut créée l'URSPNEFC (Union Régionale des Sociétés de Protection de la Nature et de l'Environnement de Franche-Comté) par le professeur Gomot. Il en fut  président jusqu'en 1981. L'association regroupait 30 associations franc-comtoises.
 
-
 En 1981, il y eu des assises de l'environnement avec la création et la publication du « livre blanc de l'environnement » dont l'une des conclusions était de se structurer en fédérations départementales, chose qui a été faite dans la foulée en 1982 avec la création des fédérations départementales dans les 4 départements franc-comtois de la région Franche-Comté. La fédération régionale s'est appelée alors FRPNEFC (Fédération Régionale de Protection de la Nature et de l'Environnement de Franche-Comté).  Elle fédérait les 4 fédérations départementales + 3 associations régionales : le Groupe Naturaliste de Franche-Comté (GNFC) devenu depuis la Ligue pour la Protection des Oiseaux (LPO), la Commission de Protection des Eaux, du Patrimoine, de l’Environnement, du Sous-sol et des Chiroptères (CPEPESC), et Espace Naturel Comtois devenu plus tard le Conservatoire des Espaces Naturels (CEN). 
 
 Changement de statuts en 1991 et la fédération régionale prend alors le nom de Franche-Comté Nature Environnement (FCNE).
@@ -20,9 +19,7 @@ Consulter les [statuts de FNE Bourgogne Franche-Comté](/qui-sommes-nous/).
 
 ## Pourquoi ce logo ?
 
-Le hérisson est un animal pacifique et qui souffre de la pression des modes de vie contemporains.
-
-Il se défend en montrant ses piquants pour interpeller ce qui est une des fonctions de FNE et de FNE-BFC.
+Le hérisson est emblématique à plus d’un titre. Parce qu’il est pacifique. Parce que c’est un compagnon discret. Parce qu’il est couvert de piquants que nous avons hérissés pour montrer qu’ils devaient être dissuasifs parce que trop c’est trop : souffrir des impacts répétés, cumulés, délétères de nos modes de vie doit cesser avant qu’il ne soit trop tard. Et il est rouge, lui si discret dans la nature, rouge comme le rappel de la fragilité de la vie et de l’urgence de la situation périlleuse où se trouve tout le vivant.
 
 ## Une structure fédérale
 

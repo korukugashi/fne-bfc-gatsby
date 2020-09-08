@@ -44,7 +44,7 @@ Par ses bénévoles, FNE-BFC :
 
 Par ses salarié·e·s, FNE-BFC élargit et spécialise ses missions et objectifs par deux pôles complémentaires :
 
-* Celui du [Débat Public](/nos-actions/debat-public/) qu’elle anime, dans le cadre du Plateau Débat Public, au sein de la [Maison de l’Environnement de Bourgogne Franche-Comté](http://www.maison-environnement-franchecomte.fr/) sise à Besançon. Le Plateau Débat Public facilite la rencontre des cinq acteurs de la vie publique (État, élus locaux, entreprises, syndicats, citoyens), collaborant ainsi à la gouvernance à cinq instauré par le Grenelle II de l’environnement.
+* Celui du Débat Public qu’elle anime, dans le cadre du [Plateau Débat Public](https://fne-bfc.netlify.app/nos-actions/programmes/d%C3%A9bat-public/), au sein de la [Maison de l’Environnement de Bourgogne Franche-Comté](http://www.maison-environnement-franchecomte.fr/) sise à Besançon. Le Plateau Débat Public facilite la rencontre des cinq acteurs de la vie publique (État, élus locaux, entreprises, syndicats, citoyens), collaborant ainsi à la gouvernance à cinq instauré par le Grenelle II de l’environnement.
 * Celui de [biodiversit’haie](/nos-actions/biodiversit-haies/)
 
 ## Nos statuts

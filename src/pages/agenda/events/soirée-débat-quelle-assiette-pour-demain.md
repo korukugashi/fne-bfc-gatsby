@@ -15,6 +15,4 @@ Avec la présence de : Ademe, Ville de Dijon, Conseil départemental 21, Groupem
 
 Cet événement vous est proposé par le CAPREN/FNE21 et le Plateau Débat Public (programme de France Nature Environnement Bourgogne Franche-Comté). 
 
-
-
-![](/img/2020-alimentation.jpg "2020 - Soirée-débat : Quelle assiette pour demain ?")
+![Soirée-débat : Quelle assiette pour demain ?, Dijon, Salle Camille Claudel, 14/10/2020](/img/2020-alimentation.jpg "2020 - Soirée-débat : Quelle assiette pour demain ?")

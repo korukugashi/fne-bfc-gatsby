@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { MdSchedule, MdRoom } from "react-icons/md"
 import moment from "moment"
@@ -9,6 +9,7 @@ import SEO from "../../components/seo"
 
 export const AgendaPreviewTemplate = event => {
   const date = moment(event.frontmatter.date)
+  const [isFolded, setFold] = useState(true)
   return (
     <div className="columns event" style={{ borderBottom: "1px solid #bbb" }}>
       <div className="column is-2 day pt-0 pb-0">
@@ -26,12 +27,23 @@ export const AgendaPreviewTemplate = event => {
           <MdRoom /> {event.frontmatter.location}
         </address>
       </div>
-      <div
-        className="column is-size-7 pt-0 pb-0"
-        dangerouslySetInnerHTML={{
-          __html: event.html,
-        }}
-      />
+      <div className="column is-size-7 pt-0 pb-0">
+        {isFolded && event.html ? (
+          <button
+            className="button mt-5"
+            onClick={() => setFold(false)}
+            onKeyDown={() => setFold(false)}
+          >
+            Voir détails
+          </button>
+        ) : (
+          <div
+            dangerouslySetInnerHTML={{
+              __html: event.html,
+            }}
+          />
+        )}
+      </div>
     </div>
   )
 }

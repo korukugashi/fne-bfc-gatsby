@@ -1,49 +1,35 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import moment from "moment"
-import "moment/locale/fr"
+import { graphql } from "gatsby"
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
+import Categories from "../../components/categories"
+import Documents from "../../components/documents"
 
-export const DocumentsPreviewTemplate = doc => {
-  const date = moment(doc.date)
-  return (
-    <div>
-      <a href={'/img/'+doc.file.relativePath}>
-        {doc.title} ({date.format("DD/MM/YYYY")})
-      </a>
-    </div>
+export default function DocumentsPage({ data, location }) {
+  const thisCateg = data.allMarkdownRemark.edges.filter(
+    (categ, index) =>
+      categ.node.fields.slug === decodeURIComponent(location.pathname) ||
+      (location.pathname === "/documentation/" && index === 0)
   )
-}
-
-const Documents = () => {
-  const data = useStaticQuery(graphql`
-    query DocumentsQuery {
-      allMarkdownRemark(
-        sort: { fields: [frontmatter___title] }
-        filter: { frontmatter: { templateKey: { eq: "documents" } } }
-        limit: 50
-      ) {
-        edges {
-          node {
-            frontmatter {
-              title
-              date
-              file {
-                relativePath
-              }
-            }
-          }
-        }
-      }
-    }
-  `)
   return (
     <Layout>
       <SEO
-        title="Documentation"
-        description="Retrouvez les documents et publications FNE BFC : fiches buissonières, journal empreinte, "
+        title={`Documentation - ${
+          thisCateg[0] && thisCateg[0].node.frontmatter.label
+        }`}
+        description={`Retrouvez les documents et publications FNE BFC sur ${
+          thisCateg[0] && thisCateg[0].node.frontmatter.label
+        }`}
+        link={[
+          {
+            rel: "canonical",
+            href:
+              location.origin +
+              ((thisCateg[0] && thisCateg[0].node.fields.slug) ||
+                "/documentation/"),
+          },
+        ]}
       />
       <section className="hero is-primary">
         <div className="hero-body">
@@ -53,12 +39,39 @@ const Documents = () => {
         </div>
       </section>
       <section className="section pt-5">
-        {data.allMarkdownRemark.edges.map(event => (
-          <DocumentsPreviewTemplate {...event.node.frontmatter} />
-        ))}
+        <div className="columns">
+          <div className="column is-3">
+            <Categories slug={location.pathname} />
+          </div>
+          <div className="column">
+            <Documents
+              category={
+                (thisCateg[0] && thisCateg[0].node.frontmatter.label) || ""
+              }
+            />
+          </div>
+        </div>
       </section>
     </Layout>
   )
 }
 
-export default Documents
+export const query = graphql`
+  query DocumentsCategoriesQuery {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___label] }
+      filter: { frontmatter: { templateKey: { eq: "categories" } } }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            label
+          }
+        }
+      }
+    }
+  }
+`

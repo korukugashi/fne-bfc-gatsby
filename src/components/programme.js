@@ -34,6 +34,7 @@ const ActionLink = news => {
 }
 
 export default function Programme({ data }) {
+  moment.locale("fr")
   return (
     <Layout>
       <SEO

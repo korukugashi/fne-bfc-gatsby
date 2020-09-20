@@ -133,7 +133,16 @@ collections:
           - { name: name, label: "Prénom et nom du salarié" }
           - { name: fonction, label: "Fonction" }
           - { name: photo, label: "Photo du salarié", widget: image}
-  
+
+  - label: "Catégories de documents"
+    name: "categories"
+    create: true
+    slug: "{{label}}"
+    folder: "src/pages/documentation/categories"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "categories"}
+      - {label: "Libellé", name: label, widget: string}
+
   - label: "Documents"
     name: "documents"
     create: true
@@ -142,7 +151,18 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "documents"}
       - {label: "Date", name: "date", widget: "datetime", pickerUtc: false, dateFormat: "DD/MM/YYYY", timeFormat: "HH:mm"}
       - {label: "Titre", name: title, widget: string}
+      - {label: "Description", name: "body", widget: "markdown"}
       - {label: "Fichier", name: file, widget: "file"}
+      - {name: photo, label: "Photo de présentation", widget: image}
+      - label: "Catégorie"
+        name: category
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["label"]
+        valueField: "label"
+        displayFields: ["label"]
+        multiple: false
+
   
   - name: "pages"
     label: "Pages"

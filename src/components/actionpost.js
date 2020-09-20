@@ -34,6 +34,7 @@ const ActionLink = news => {
 }
 
 export default function ActionPost({ data }) {
+  moment.locale("fr")
   const date = moment(data.markdownRemark.frontmatter.date)
   return (
     <Layout>

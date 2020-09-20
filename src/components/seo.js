@@ -13,7 +13,7 @@ import SohomaUrlBold from "../fonts/sohomaextrabold.woff2"
 import SohomaUrlLight from "../fonts/sohomalight.woff2"
 import Saira from "../fonts/SairaExtraCondensed-ExtraBold.woff2"
 
-function SEO({ description, lang, meta, keywords, title }) {
+function SEO({ description, lang, meta, keywords, title, link }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -95,6 +95,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         href={Saira}
         type="font/woff2"
         crossOrigin="anonymous" />
+      {link && link.map(tag => <link rel={tag.rel} href={tag.href} />)}
     </Helmet>
   )
 }
@@ -112,6 +113,7 @@ SEO.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
+  link: PropTypes.arrayOf(PropTypes.object),
 }
 
 export default SEO

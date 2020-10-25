@@ -17,7 +17,7 @@ const FilterTemplate = ({ tag, current }) => (
         <img
           src={`${tag.node.frontmatter.image}?nf_resize=smartcrop&w=30&h=30`}
           alt={tag.node.frontmatter.label}
-          className="mr-3 is-hidden-mobile"
+          className="mr-3"
           style={{ margin: "3px 4px", width: 30, height: 30 }}
         />
       </div>{" "}

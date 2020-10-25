@@ -5,7 +5,7 @@ const OrgContentTemplate = org => (
     <div>{org.node.frontmatter.label}</div>
     {org.node.frontmatter.image ? (
       <img
-        src={`${org.node.frontmatter.image}?nf_resize=smartcrop&w=150&h=150`}
+        src={`${org.node.frontmatter.image}?nf_resize=fit&w=150&h=150`}
         alt={org.node.frontmatter.label}
         className="mr-3"
         style={{

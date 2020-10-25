@@ -15,7 +15,7 @@ const ProgPrevItem = (data) => (
           <img
             src={`${data.featuredimage}?nf_resize=smartcrop&w=100&h=64`}
             alt={data.title}
-            style={{maxWidth: 100}}
+            style={{width: 100}}
           />
         </div>
         <div className="column is-size-7 is-size-6-fullhd is-size-6-mobile">

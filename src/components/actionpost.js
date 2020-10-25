@@ -70,9 +70,9 @@ export default function ActionPost({ data }) {
                 <time dateTime={date.format("YYYY-MM-DD")} className="mr-2">
                   {date.format("DD MMMM YYYY")}
                 </time>
-                {data.markdownRemark.frontmatter.tags.map(tag => (
+                {data.markdownRemark.frontmatter.tags && data.markdownRemark.frontmatter.tags.map(tag => (
                   <span>• {tag}</span>
-                ))}
+                )) || null}
               </div>
               <hr />
               <div

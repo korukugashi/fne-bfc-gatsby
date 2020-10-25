@@ -26,9 +26,9 @@ export const DocumentsPreviewTemplate = doc => {
               <div className="column is-2">
                 <a href={doc.frontmatter.file}>
                   <img
-                    src={`${doc.frontmatter.photo}?nf_resize=smartcrop&w=180&h=180`}
+                    src={`${doc.frontmatter.photo}?nf_resize=fit&w=180&h=180`}
                     alt={doc.frontmatter.title}
-                    style={{ maxWidth: 180 }}
+                    style={{ width: 180 }}
                   />
                 </a>
               </div>

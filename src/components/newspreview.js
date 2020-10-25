@@ -25,7 +25,7 @@ export const NewsPreviewTemplate = news => {
             </div>
             {news.featuredimage ? (
               <ImgNetlify
-                image={news.featuredimage}
+                image={`${news.featuredimage}?nf_resize=smartcrop&w=300&h=150`}
                 alt={news.title}
                 className="mt-1"
                 style={{ maxHeight: 150, maxWidth: 300, overflow: "hidden" }}

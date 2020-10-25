@@ -19,24 +19,12 @@ const Equipe = () => {
               admins {
                 name
                 fonction
-                photo {
-                  childImageSharp {
-                    fixed(width: 230, quality: 80) {
-                      ...GatsbyImageSharpFixed_withWebp_noBase64
-                    }
-                  }
-                }
+                photo
               }
               salaries {
                 name
                 fonction
-                photo {
-                  childImageSharp {
-                    fixed(width: 230, quality: 80) {
-                      ...GatsbyImageSharpFixed_withWebp_noBase64
-                    }
-                  }
-                }
+                photo
               }
             }
           }

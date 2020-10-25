@@ -168,13 +168,7 @@ export const query = graphql`
             title
             date
             description
-            featuredimage {
-              childImageSharp {
-                fluid(maxWidth: 300, quality: 80) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
-                }
-              }
-            }
+            featuredimage
             tags
           }
         }

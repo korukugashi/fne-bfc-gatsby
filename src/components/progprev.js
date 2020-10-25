@@ -1,6 +1,5 @@
 import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
-import Img from "gatsby-image"
 
 const ProgPrevItem = (data) => (
   <article className="box prog-prev">
@@ -13,10 +12,8 @@ const ProgPrevItem = (data) => (
         style={{ marginBottom: 0 }}
       >
         <div className="column is-4">
-          <Img
-            fluid={data.featuredimage.childImageSharp.fluid}
-            objectFit="cover"
-            objectPosition="50% 50%"
+          <img
+            src={`${data.featuredimage}?nf_resize=smartcrop&w=100&h=64`}
             alt={data.title}
             style={{maxWidth: 100}}
           />
@@ -47,13 +44,7 @@ export default function ProgPrev () {
             frontmatter {
               title
               description
-              featuredimage {
-                childImageSharp {
-                  fluid(maxWidth: 100, quality: 90) {
-                    ...GatsbyImageSharpFluid_withWebp_noBase64
-                  }
-                }
-              }
+              featuredimage
             }
           }
         }

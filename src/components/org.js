@@ -1,22 +1,15 @@
 import React from "react"
-import Img from "gatsby-image"
 
 const OrgContentTemplate = org => (
   <>
     <div>{org.node.frontmatter.label}</div>
     {org.node.frontmatter.image ? (
-      <Img
-        fixed={org.node.frontmatter.image.childImageSharp.fixed}
+      <img
+        src={`${org.node.frontmatter.image}?nf_resize=smartcrop&w=150&h=150`}
         alt={org.node.frontmatter.label}
         className="mr-3"
         style={{
-          width: 150,
-          height: 150,
           marginTop: "0.5rem",
-        }}
-        imgStyle={{
-          objectFit: "contain",
-          objectPosition: "50% 50%",
         }}
       />
     ) : null}

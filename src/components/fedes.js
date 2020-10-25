@@ -15,13 +15,7 @@ const FedesTemplate = () => {
             frontmatter {
               label
               url
-              image {
-                childImageSharp {
-                  fixed(width: 150, quality: 90) {
-                    ...GatsbyImageSharpFixed_withWebp_noBase64
-                  }
-                }
-              }
+              image
             }
           }
         }

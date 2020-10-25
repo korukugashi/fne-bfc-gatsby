@@ -15,7 +15,7 @@ const ActionLink = news => {
         {news.featuredimage ? (
           <div className="column is-4 is-hidden-tablet-only">
             <ImgNetlify
-              image={news.featuredimage}
+              image={`${news.featuredimage}?nf_resize=smartcrop&w=100&h=50`}
               alt={news.title}
               className="mt-1 mr-2"
               style={{ maxHeight: 50, maxWidth: 100, overflow: "hidden" }}
@@ -50,7 +50,7 @@ export default function ActionPost({ data }) {
                 {data.markdownRemark.frontmatter.featuredimage ? (
                   <div className="column is-3 is-hidden-tablet-only is-hidden-mobile">
                     <ImgNetlify
-                      image={data.markdownRemark.frontmatter.featuredimage}
+                      image={`${data.markdownRemark.frontmatter.featuredimage}?nf_resize=smartcrop&w=181&h=100`}
                       alt={data.markdownRemark.frontmatter.title}
                       className="mt-1 mr-2"
                       style={{
@@ -116,13 +116,7 @@ export const query = graphql`
           frontmatter {
             title
             date
-            featuredimage {
-              childImageSharp {
-                fluid(maxWidth: 100, quality: 90) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
-                }
-              }
-            }
+            featuredimage
           }
         }
       }
@@ -134,13 +128,7 @@ export const query = graphql`
         description
         date
         tags
-        featuredimage {
-          childImageSharp {
-            fluid(maxWidth: 300, quality: 90) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
-            }
-          }
-        }
+        featuredimage
       }
     }
   }

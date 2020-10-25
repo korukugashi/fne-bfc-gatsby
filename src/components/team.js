@@ -6,7 +6,7 @@ import ImgNetlify from "./imgnetlify"
 const PersonTemplate = ({ person, index }) => (
   <li key={index}>
     <ImgNetlify
-      image={person.photo}
+      image={`${person.photo}?nf_resize=smartcrop&w=128&h=128`}
       style={{ width: 128, height: 128, borderRadius: "50%" }}
       imgStyle={{
         objectFit: "cover",

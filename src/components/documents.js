@@ -1,6 +1,5 @@
 import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import Img from "gatsby-image"
 import moment from "moment"
 import "moment/locale/fr"
 
@@ -25,9 +24,9 @@ export const DocumentsPreviewTemplate = doc => {
           <div className="message-body">
             <div className="columns is-vcentered">
               <div className="column is-2">
-                <a href={"/img/" + doc.frontmatter.file.relativePath}>
-                  <Img
-                    fluid={doc.frontmatter.photo.childImageSharp.fluid}
+                <a href={doc.frontmatter.file}>
+                  <img
+                    src={`${doc.frontmatter.photo}?nf_resize=smartcrop&w=180&h=180`}
                     alt={doc.frontmatter.title}
                     style={{ maxWidth: 180 }}
                   />
@@ -40,7 +39,7 @@ export const DocumentsPreviewTemplate = doc => {
                   }}
                 />
                 <p>{date.format("DD/MM/YYYY")}</p>
-                <a href={"/img/" + doc.frontmatter.file.relativePath}>
+                <a href={doc.frontmatter.file}>
                   Télécharger
                 </a>
               </div>
@@ -68,16 +67,8 @@ const Documents = ({ category }) => {
               title
               category
               date
-              file {
-                relativePath
-              }
-              photo {
-                childImageSharp {
-                  fluid(maxWidth: 180, quality: 90) {
-                    ...GatsbyImageSharpFluid_withWebp_noBase64
-                  }
-                }
-              }
+              file
+              photo
             }
           }
         }

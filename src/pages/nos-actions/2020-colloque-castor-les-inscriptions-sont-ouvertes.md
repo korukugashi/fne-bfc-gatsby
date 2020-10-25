@@ -23,3 +23,7 @@ Cet évènement d’ampleur nationale sera un moment d’échanges des connaissa
 ***Le sujet vous intéresse et vous souhaitez participer ?***
 
 Vous trouverez sur le programme le lien vers l’inscription au colloque qui vous renvoi sur la [billetterie sur Helloasso](https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/essai-castors). N’hésitez pas à également diffuser l’information dans vos réseaux
+
+
+
+![](/img/fne-colloque-castor-aff-a4_page-0001-725x1024.jpg)

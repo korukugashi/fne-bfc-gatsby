@@ -58,7 +58,7 @@ const AgendaPreview = () => {
   return (
     <>
       {data.allMarkdownRemark.edges.map(event => (
-        <AgendaPreviewTemplate {...{now, ...event.node.frontmatter}} />
+        <AgendaPreviewTemplate {...{now, ...event.node.frontmatter}} key={`${event.node.frontmatter.title}${event.node.frontmatter.date}`} />
       ))}
     </>
   )

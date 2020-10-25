@@ -13,7 +13,7 @@ const ProgPrevItem = (data) => (
       >
         <div className="column is-4">
           <img
-            src={`${data.featuredimage}?nf_resize=smartcrop&w=100&h=64`}
+            src={`${process.env.NODE_ENV === 'development' ? 'https://fne-bfc.netlify.app' : ''}${data.featuredimage}?nf_resize=smartcrop&w=100&h=64`}
             alt={data.title}
             style={{width: 100}}
           />
@@ -55,7 +55,7 @@ export default function ProgPrev () {
   return (
     <>
       {data.allMarkdownRemark.edges.map(prog => (
-        <ProgPrevItem {...{slug: prog.node.fields.slug, ...prog.node.frontmatter}} />
+        <ProgPrevItem {...{slug: prog.node.fields.slug, ...prog.node.frontmatter}} key={prog.node.fields.slug} />
       ))}
     </>
   )

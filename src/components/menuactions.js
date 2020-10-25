@@ -33,7 +33,7 @@ const MenuActions = () => {
   return (
     <>
       {data.allMarkdownRemark.edges.map(prog => (
-        <MenuActionsTemplate {...{slug: prog.node.fields.slug, ...prog.node.frontmatter}} />
+        <MenuActionsTemplate {...{slug: prog.node.fields.slug, ...prog.node.frontmatter}} key={prog.node.fields.slug} />
       ))}
     </>
   )

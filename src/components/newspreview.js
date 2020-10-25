@@ -19,9 +19,9 @@ export const NewsPreviewTemplate = news => {
               <time dateTime={date.format("YYYY-MM-DD")} className="mr-2">
                 {date.format("DD MMMM YYYY")}
               </time>
-              {news.tags && news.tags.map(tag => (
-                <span>• {tag}</span>
-              )) || null}
+              {(news.tags && news.tags.map(tag => (
+                <span key={tag}>• {tag}</span>
+              ))) || null}
             </div>
             {news.featuredimage ? (
               <ImgNetlify
@@ -49,6 +49,7 @@ const NewsPreview = ({ news }) => {
           index < nbDisplayed ? (
             <NewsPreviewTemplate
               {...{ slug: news.node.fields.slug, ...news.node.frontmatter }}
+              key={news.node.fields.slug}
             />
           ) : null
         )}

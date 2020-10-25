@@ -7,7 +7,7 @@ const FilterTemplate = ({ tag, current }) => (
       className={`columns is-vcentered ${current ? "current-tag" : ""}`}
       to={`${tag.node.fields.slug}#thematiques`}
     >
-      <div style={{
+      <div className="mr-3" style={{
         width: 40,
         height: 40,
         border: "1px solid #000",
@@ -15,9 +15,8 @@ const FilterTemplate = ({ tag, current }) => (
         borderRadius: 10,
       }}>
         <img
-          src={`${tag.node.frontmatter.image}?nf_resize=smartcrop&w=30&h=30`}
+          src={`${process.env.NODE_ENV === 'development' ? 'https://fne-bfc.netlify.app' : ''}${tag.node.frontmatter.image}?nf_resize=smartcrop&w=30&h=30`}
           alt={tag.node.frontmatter.label}
-          className="mr-3"
           style={{ margin: "3px 4px", width: 30, height: 30 }}
         />
       </div>{" "}
@@ -56,6 +55,7 @@ const Filters = ({ slug }) => {
               <FilterTemplate
                 tag={tag}
                 current={decodeURIComponent(slug) === tag.node.fields.slug}
+                key={tag.node.fields.slug}
               />
             ))}
         </ul>

@@ -81,7 +81,7 @@ const Header = class extends React.Component {
                 </div>
 
                 <div className="navbar-item has-dropdown is-hoverable">
-                  <Link className="navbar-link" to="/nos-actions/">
+                  <Link className="navbar-link" to="/nos-actions/programmes/biodiversithaies/">
                     Nos actions
                   </Link>
     

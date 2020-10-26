@@ -49,4 +49,4 @@ Par ses salarié·e·s, FNE-BFC élargit et spécialise ses missions et objectif
 
 ## Nos statuts
 
-Consulter les [statuts de FNE Bourgogne Franche-Comté](/qui-sommes-nous/).
+Consulter les [statuts de FNE Bourgogne Franche-Comté](/statuts-fne-bfc-20-mai-2017.pdf).

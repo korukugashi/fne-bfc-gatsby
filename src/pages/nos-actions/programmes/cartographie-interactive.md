@@ -22,10 +22,6 @@ Des fiches synthétiques et différents guides sur les enjeux et les démarches 
 
 Le réseau FNE franc-comtois est à l’initiative des [Cartes Vertes](https://www.cartesvertes.fr) de Franche-Comté.
 
-Consultables sur internet, elles permettent à chacun de trouver facilement des\
-actions solidaires en faveur de l’environnement, les moyens de s’informer et\
-surtout, les moyens concrets pour agir.
+Consultables sur internet, elles permettent à chacun de trouver facilement des actions solidaires en faveur de l’environnement, les moyens de s’informer et surtout, les moyens concrets pour agir.
 
-
-
-![Cartes vertes](/img/logocartesvertes.png?nf_resize=fit&w=400#img-center "Cartes vertes")
+![Cartes vertes](/img/logocartesvertes.png?nf_resize=fit&w=400?nf_resize=fit&w=200#img-center "Cartes vertes")

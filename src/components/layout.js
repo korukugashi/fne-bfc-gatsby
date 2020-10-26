@@ -11,6 +11,7 @@ import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Header from "./header"
 import './all.sass'
+import './dontpurge.sass'
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`

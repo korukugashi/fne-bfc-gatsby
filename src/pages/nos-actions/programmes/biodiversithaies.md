@@ -1,9 +1,8 @@
 ---
 templateKey: programmes
 title: Biodiversit'haies
-description: Nos actions et notre expertise visent à préserver et favoriser la
-  biodiversité de nos territoires à travers la préservation, la restauration et
-  la sensibilisation autour des éléments arborés.
+description: Préserver et favoriser la biodiversité de nos territoires autour
+  des éléments arborés.
 featuredimage: /img/logo-bh-calibri.png
 onHome: true
 tags:

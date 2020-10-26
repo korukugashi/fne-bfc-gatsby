@@ -35,17 +35,17 @@ Nos objectifs et nos missions sont ancrées dans les spécificités des territoi
 Par ses bénévoles, FNE-BFC :
 
 * **Alerte, sensibilise, interpelle, fait pression**, pour que ça bouge et que ça change dans tous les domaines où la nature est en cause. Comme notre slogan national le souligne *partout où la nature a besoin de nous*, à quoi nous ajoutons *partout où nous avons besoin de la nature*.
-* Agit à travers des **manifestations militantes**, un programme d’**éducation à l’environnement**, des [actions juridiques](/nos-actions/juridique/), ...
+* Agit à travers des **manifestations militantes**, un programme d’**éducation à l’environnement**, des actions juridiques, ...
 * Est **lanceur d’alerte pour l’environnement** en intervenant sur tous les sujets nécessitant une action d’urgence : **sauvegarde d’espèces menacées, pollutions, préservation de sites**, …
 * Est force de propositions.
 * Est partie prenante exigeante dans les schémas ou plans ou stratégies régionales concernant aussi bien les **carrières**, les **déchets**, le [SRADDET](http://strategie.biodiversite.bourgognefranchecomte.fr/r/60/sraddet/), la **biomasse**, la **biodiversité**, les **énergies**, les **plans d’alimentation**, les **plans nationaux d’actions (PNA)**, lynx, ...\
   Nous sommes interlocuteur du **Conseil Régional**, de la [Préfecture de Région](https://www.prefectures-regions.gouv.fr/bourgogne-franche-comte), de l’[ADEME](https://www.ademe.fr/) et de toutes les **structures institutionnelles** que nous sommes amenés à rencontrer dans nos démarches. 
-* Protège la nature. FNE BFC est propriétaire d’environ 75 hectares d'espaces naturels. En partenariat avec le [Conservatoire des Espaces Naturels de Franche-Comté](http://cen-franchecomte.org/), nous permettons à un patrimoine de biodiversité, qu’il nous tient à cœur de protéger, de prospérer. Voir par exemple la [Réserve Naturelle Régionale de Fontenelay (70)](http://cen-franchecomte.org/vallon-fontenelay-art161)
+* Protège la nature. FNE BFC est propriétaire d’environ 75 hectares d'espaces naturels, tels que la [Réserve Naturelle Régionale de Fontenelay (70)](http://cen-franchecomte.org/vallon-fontenelay-art161), pour laquelle la gestion est confiée au [Conservatoire des Espaces Naturels de Franche-Comté](http://cen-franchecomte.org/).
 
 Par ses salarié·e·s, FNE-BFC élargit et spécialise ses missions et objectifs par deux pôles complémentaires :
 
 * Celui du Débat Public qu’elle anime, dans le cadre du [Plateau Débat Public](https://fne-bfc.netlify.app/nos-actions/programmes/d%C3%A9bat-public/), au sein de la [Maison de l’Environnement de Bourgogne Franche-Comté](http://www.maison-environnement-franchecomte.fr/) sise à Besançon. Le Plateau Débat Public facilite la rencontre des cinq acteurs de la vie publique (État, élus locaux, entreprises, syndicats, citoyens), collaborant ainsi à la gouvernance à cinq instauré par le Grenelle II de l’environnement.
-* Celui de [biodiversit’haie](/nos-actions/biodiversit-haies/)
+* Celui de [biodiversit’haie](/nos-actions/programmes/biodiversithaies/)
 
 ## Nos statuts
 

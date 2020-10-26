@@ -17,7 +17,7 @@ admins:
     fonction: Trésorier adjoint
     photo: /img/user.png
   - name: Pascal Blain
-    fonction: Porte parole
+    fonction: Administrateur
     photo: /img/user.png
   - name: Patrick Bourque
     fonction: RH et lien réseau

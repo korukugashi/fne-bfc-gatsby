@@ -18,7 +18,6 @@ const Join = () => (
     </section>
     <section className="section">
       <div className="container-fluid">
-        <h2 className="mt-0">Les programmes</h2>
         <MenuActions />
       </div>
     </section>

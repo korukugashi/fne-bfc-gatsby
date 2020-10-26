@@ -32,10 +32,9 @@ const Join = () => (
         </p>
         <h2>Faire un don en ligne</h2>
         <p className="is-italic">
-          <span className="has-text-weight-bold">NB :</span> le don à HelloAsso
-          est renseigné par défaut à environ 2.35€, mais vous pouvez cliquer sur
-          "modifier" et le mettre à 0€ si vous ne souhaitez pas laisser de
-          pourboire à HelloAsso.
+          <span className="has-text-weight-bold">NB :</span> par défaut, HelloAsso ajoute un don de 
+          2,35€ pour la maintenance de leur système. Ce don est facultatif (cliquez sur
+          "modifier" et le mettre à 0€ si vous souhaitez le retirer).
         </p>
         <iframe
           id="haWidget"

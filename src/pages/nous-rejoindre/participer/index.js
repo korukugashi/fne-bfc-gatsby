@@ -40,7 +40,7 @@ const Join = () => (
           à <Obfuscate email="contact@fne-bfc.fr" />
         </p>
         <p>
-          <Link to="/nous-rejoindre/participer-a-une-action/">
+          <Link to="/agenda/">
             Participer aux actions de FNE BFC
           </Link>
         </p>

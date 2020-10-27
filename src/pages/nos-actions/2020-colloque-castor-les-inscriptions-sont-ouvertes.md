@@ -31,4 +31,6 @@ Vous trouverez sur le programme le lien vers l’inscription au colloque qui vou
 
 ```
 
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/essai-castors/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
+
 ![](/img/fne-colloque-castor-aff-a4_page-0001-725x1024.jpg)

@@ -1,6 +1,6 @@
 ---
 templateKey: reseau-assos
 label: Patrimoine et Environnement
-url: https://patenvbfc.org/
-image: /img/cropped-logo-patrimoine-et-environnement-1.png
+url: https://www.patrimoine-montsdegy.fr/
+image: /img/montsdegy_logocmjn.webp
 ---

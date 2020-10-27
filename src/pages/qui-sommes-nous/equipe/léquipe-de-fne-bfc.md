@@ -48,9 +48,12 @@ salaries:
     fonction: " Débat public"
     photo: /img/user.png
   - name: Maxence Belle
-    fonction: " Biodiversit'haies"
+    fonction: Chargé de mission biodiversité
+    photo: /img/photo-identité-mb.jpg
+  - name: Jocelyn Mazuel
+    fonction: Chargé de mission
     photo: /img/user.png
-  - name: Peggy Bernard
+  - name: Élise Chatelain
     fonction: Secrétariat
     photo: /img/user.png
 ---

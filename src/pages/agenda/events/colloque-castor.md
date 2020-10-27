@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2021-02-24T17:53:50.949Z
+date: 2021-02-25T08:00:00.000Z
 title: Colloque castor
 location: Dole
 duration: 2 jours

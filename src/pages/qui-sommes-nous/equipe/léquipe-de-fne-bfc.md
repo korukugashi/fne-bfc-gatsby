@@ -49,7 +49,7 @@ salaries:
     photo: /img/user.png
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité
-    photo: /img/photo-identité-mb.jpg
+    photo: /img/capture-d’écran-2020-10-28-115050.jpg
   - name: Jocelyn Mazuel
     fonction: Chargé de mission
     photo: /img/user.png

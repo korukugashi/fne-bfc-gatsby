@@ -5,6 +5,7 @@ import React from "react"
 import TeamPreview from './preview-templates/TeamPreview';
 import NewsPreview from './preview-templates/NewsPreview';
 import '../components/all.sass';
+import '../components/dontpurge.sass';
 
 CMS.registerLocale('fr', fr);
 

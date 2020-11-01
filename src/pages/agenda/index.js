@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import { MdSchedule, MdRoom } from "react-icons/md"
 import moment from "moment"
 import "moment/locale/fr"
+import { MdVisibility, MdClose } from "react-icons/md"
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
@@ -30,18 +31,27 @@ export const AgendaPreviewTemplate = event => {
       <div className="column is-size-7 pt-0 pb-0">
         {isFolded && event.html ? (
           <button
-            className="button mt-5"
+            className="button is-small mt-5"
             onClick={() => setFold(false)}
             onKeyDown={() => setFold(false)}
           >
-            Voir détails
+            <MdVisibility className="mr-2" /> Voir détails
           </button>
         ) : (
-          <div
-            dangerouslySetInnerHTML={{
-              __html: event.html,
-            }}
-          />
+          <>
+            {event.html ? <button
+              className="button is-small mt-5 mb-3"
+              onClick={() => setFold(true)}
+              onKeyDown={() => setFold(true)}
+            >
+              <MdClose className="mr-2" /> Replier détails
+            </button> : null}
+            <div
+              dangerouslySetInnerHTML={{
+                __html: event.html,
+              }}
+            />
+          </>
         )}
       </div>
     </div>

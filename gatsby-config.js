@@ -78,7 +78,7 @@ module.exports = {
         //develop: true, // Activates purging in npm run develop
         printRejected: true,
         whitelist: ['has-text-weight-bold'],
-        ignore: ['src/components/dontpurge.sass'],
+        ignore: ['src/components/dontpurge.sass', 'slick-carousel/slick/slick.css', 'slick-carousel/slick/slick-theme.css'],
       },
     }, // must be after other CSS plugins
     {

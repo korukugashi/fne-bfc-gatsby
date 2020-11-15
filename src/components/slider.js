@@ -12,7 +12,7 @@ const SliderItem = data => (
         process.env.NODE_ENV === "development"
           ? "https://fne-bfc.netlify.app"
           : ""
-      }${data.photo}?nf_resize=smartcrop&h=300)`,
+      }${data.photo}?nf_resize=fit&h=300)`,
     }}
     className="slideImg"
   />

@@ -173,3 +173,13 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "association-page"}
           - {label: "Contenu de la page", name: "body", widget: "markdown"}
+
+  - label: "Bandeau d'accueil"
+    name: "slider"
+    create: true
+    slug: "{{label}}"
+    folder: "src/pages/slider"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "slider"}
+      - {label: "Libellé", name: label, widget: string}
+      - {name: photo, label: "Photo", widget: image}

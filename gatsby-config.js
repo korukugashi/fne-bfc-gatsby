@@ -12,13 +12,6 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `backgrounds`,
-        path: `${__dirname}/src/bg`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
         name: `pages`,
         path: `${__dirname}/src/pages`,
       },

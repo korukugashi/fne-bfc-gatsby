@@ -1,6 +1,5 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import BackgroundSlider from "gatsby-image-background-slider"
 
 import Filters from "../components/filters"
 import Layout from "../components/layout"
@@ -8,6 +7,7 @@ import SEO from "../components/seo"
 import NewsPreview from "../components/newspreview"
 import AgendaPreview from "../components/agendapreview"
 import ProgPrev from "../components/progprev"
+import Slider from "../components/slider"
 
 export default function IndexPage({ data, location }) {
   return (
@@ -17,15 +17,7 @@ export default function IndexPage({ data, location }) {
         keywords={[`nature`, `environnement`, `bourgogne`, `franche-comte`]}
       />
       <div className="is-hidden-touch">
-        <BackgroundSlider query={data} callbacks={{}} />
-        <p
-          className="banner-catch"
-          style={{
-            marginTop: "20rem",
-            marginBottom: "2rem",
-            marginLeft: "2rem",
-          }}
-        ></p>
+        <Slider />
       </div>
 
       <section
@@ -126,18 +118,6 @@ export default function IndexPage({ data, location }) {
 
 export const query = graphql`
   query($tags: [String]) {
-    backgrounds: allFile(
-      filter: { sourceInstanceName: { eq: "backgrounds" } }
-    ) {
-      nodes {
-        relativePath
-        childImageSharp {
-          fluid(maxWidth: 4000, quality: 100) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
-    }
     debatImg: file(relativePath: { eq: "debat.png" }) {
       childImageSharp {
         fluid(maxWidth: 125) {

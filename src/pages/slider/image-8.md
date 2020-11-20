@@ -1,5 +1,5 @@
 ---
 templateKey: slider
 label: Image 8
-photo: /img/p9210576.jpg
+photo: /img/pc040812.jpg
 ---

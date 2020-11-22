@@ -74,6 +74,9 @@ const Header = class extends React.Component {
                     <Link className="navbar-item" to="/qui-sommes-nous/reseau-fne/">
                       Le réseau FNE BFC
                     </Link>
+                    <Link className="navbar-item" to="/qui-sommes-nous/propriete/">
+                      Nos biens fonciers naturels
+                    </Link>
                     <Link className="navbar-item" to="/qui-sommes-nous/soutiens/">
                       On les soutient...
                     </Link>

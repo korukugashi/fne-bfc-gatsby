@@ -173,6 +173,12 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "association-page"}
           - {label: "Contenu de la page", name: "body", widget: "markdown"}
+      - file: "src/pages/qui-sommes-nous/propriete/index.md"
+        label: "Les biens fonciers naturels"
+        name: "propriete"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "propriete-page"}
+          - {label: "Contenu de la page", name: "body", widget: "markdown"}
 
   - label: "Bandeau d'accueil"
     name: "slider"

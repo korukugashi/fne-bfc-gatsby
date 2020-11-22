@@ -1,14 +1,14 @@
 ---
 templateKey: programmes
 title: Le CESER
-description: Une présence active de FNE-BFC au Conseil Économique, Social et
+description: FNE-BFC participe activement au Conseil Économique, Social et
   Environnemental Régional
 featuredimage: /img/ceser.png
 onHome: false
 tags:
   - Territoire
 ---
-## Une présence active de FNE-BFC au Conseil Économique, Social et Environnemental Régional
+## FNE-BFC participe activement au Conseil Économique, Social et Environnemental Régional
 
 Le CESER, seconde assemblée dans les institutions régionales, représente la société civile. Il est placé au côté du Conseil Régional, première assemblée institutionnelle, organe politique élu. Leur complémentarité, en conciliant prospective et action politique, permet de répondre avec réalisme et innovation aux besoins des habitants de Bourgogne Franche-Comté.
 

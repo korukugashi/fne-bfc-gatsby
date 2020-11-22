@@ -60,7 +60,7 @@ const NosActions = () => {
       </section>
       <section className="section">
         <div className="container-fluid">
-          <div className="columns is-vcentered has-text-centered">
+          <div className="columns is-vcentered has-text-centered is-multiline is-centered">
             {data.allMarkdownRemark.edges.map(prog => (
               <MenuActionsTemplate
                 {...{ slug: prog.node.fields.slug, ...prog.node.frontmatter }}

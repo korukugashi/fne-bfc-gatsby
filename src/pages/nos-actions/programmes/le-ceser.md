@@ -1,6 +1,6 @@
 ---
 templateKey: programmes
-title: LE CESER
+title: Le CESER
 description: Une présence active de FNE-BFC au Conseil Économique, Social et
   Environnemental Régional
 featuredimage: /img/ceser.png

@@ -3,7 +3,7 @@ templateKey: propriete-page
 ---
 # Les biens fonciers naturels de FNE BFC
 
-FNE-BFC est propriétaire de 76,9 ha répartis dans le Jura et le Doubs. Ces biens naturels sont un patrimoine acquis il y a parfois très longtemps par les premières associations dont nous sommes les héritiers.
+FNE-BFC est propriétaire de 76,9 ha répartis dans le Jura, le Doubs et la Haute-Saône. Ces biens naturels sont un patrimoine acquis il y a parfois très longtemps par les premières associations dont nous sommes les héritiers.
 
 Il y a des tourbières, des bois, des prairies, un étang. Le mode de gestion est très varié selon les parcelles. Ce sont des richesses naturelles, des havres de biodiversité.
 

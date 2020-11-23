@@ -38,4 +38,4 @@ L’assemblée plénière élit le Président, le Bureau, et procède à la dés
 
 FNE-BFC a deux représentants au CESER : Martine Petit, présidente de FNE 21 et Pascal Blain de JNE (FNE 39) vice-président de la commission mobilité.
 
-[Consulter les pièces officielles émises pat le CESER](/documentation/categories/ceser/)
+[Consulter les pièces officielles émises par le CESER](/documentation/categories/ceser/)

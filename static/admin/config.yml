@@ -189,3 +189,13 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "slider"}
       - {label: "Libellé", name: label, widget: string}
       - {name: photo, label: "Photo", widget: image}
+
+  - label: "Fichiers à partager"
+    name: "files"
+    create: true
+    folder: "src/pages/files"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "files"}
+      - {label: "Date", name: "date", widget: "datetime", pickerUtc: false, dateFormat: "DD/MM/YYYY", timeFormat: "HH:mm"}
+      - {label: "Titre", name: title, widget: string}
+      - {label: "Fichier", name: file, widget: "file"}

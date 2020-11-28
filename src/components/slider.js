@@ -40,7 +40,8 @@ export default function MySlider() {
   const settings = {
     dots: true,
     infinite: true,
-    speed: 500,
+    speed: 2000,
+    autoplaySpeed: 4000,
     slidesToShow: 1,
     slidesToScroll: 1,
     fade: true,

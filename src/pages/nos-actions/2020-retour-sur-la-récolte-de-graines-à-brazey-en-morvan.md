@@ -2,9 +2,9 @@
 templateKey: action-post
 title: Retour sur la récolte de graines à Brazey-en-Morvan
 date: 2020-10-05T16:59:46.988Z
-description: En partenariat avec le **CAUE 21** et la commune de
-  **Brazey-en-Morvan**, FNE BFC est intervenu pour animer une journée de récolte
-  de graine dans le Morvan le 26 septembre dernier.
+description: En partenariat avec le CAUE 21 et la commune de Brazey-en-Morvan,
+  FNE BFC est intervenu pour animer une journée de récolte de graine dans le
+  Morvan le 26 septembre dernier.
 featuredimage: /img/article-végétal-local-bp-brazey-en-morvan.png
 tags:
   - Végétal local

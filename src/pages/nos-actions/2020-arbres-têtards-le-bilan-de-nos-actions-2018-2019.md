@@ -9,4 +9,4 @@ featuredimage: /img/screenshot_2020-08-09-fne-bh-bilan-arbrestetards-fne-bh-bila
 tags:
   - Haies et arbres têtards
 ---
-Retour en chiffres et en images sur [2 années d’actions en faveur de la préservation des arbres têtards en Bourgogne-Franche-Comté](http://fne-bfc.fr/wp-content/uploads/2020/04/FNE-BH-BILAN-arbrestetards.pdf) dans le cadre du programme Biodiversit’haies de FNE BFC et son réseau.
+Retour en chiffres et en images sur [2 années d’actions en faveur de la préservation des arbres têtards en Bourgogne-Franche-Comté](/img/actions/FNE-BH-BILAN-arbrestetards.pdf) dans le cadre du programme Biodiversit’haies de FNE BFC et son réseau.

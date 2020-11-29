@@ -11,7 +11,7 @@ description: >
 tags:
   - Territoire
 ---
-L’association Ornithologue et Mammalogique de Saône-et-Loire a communiqué ses inquiétudes et ses interrogations au Préfet de Saône-et-Loire concernant le post-confinement, par le biais d’une [lettre qui lui est personnellement adressée](http://fne-bfc.fr/wp-content/uploads/2020/04/AOMSL-Lettre-au-préfet-S-et-L-Fin-confin.pdf)
+L’association Ornithologue et Mammalogique de Saône-et-Loire a communiqué ses inquiétudes et ses interrogations au Préfet de Saône-et-Loire concernant le post-confinement, par le biais d’une [lettre qui lui est personnellement adressée](/img/actions/AOMSL-Lettre-au-préfet-S-et-L-Fin-confin.pdf)
 
 En effet, il a le pouvoir de délivrer des dérogations de certaines autorisations administratives. Tiendront-elles compte des mesures de protection de la Biodiversité ? Seront-elles à leur détriment face aux intérêts économiques ?
 

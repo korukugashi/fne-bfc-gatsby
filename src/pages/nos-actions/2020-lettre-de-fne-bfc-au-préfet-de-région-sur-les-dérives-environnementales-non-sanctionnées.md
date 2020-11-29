@@ -16,6 +16,6 @@ FNE BFC fait le même constat alarmant que les autres associations environnement
 
 Or, de nombreux textes réglementaires protègent ces milieux et leurs biodiversités et ne sont pas appliqués en ces temps de confinement.
 
-En soutien aux diverses actions de mobilisation, elle adresse [ce présent courrier](http://fne-bfc.fr/wp-content/uploads/2020/04/D2038-Lettre-au-PREFET-DE-REGIO-ATTEINTE-A-LA-BIODIVERSITE-Avril-2020-confinement.pdf) au Préfet de Région lui demandant d’intervenir et lui proposant son aide dans l’accompagnement de changement de pratiques.
+En soutien aux diverses actions de mobilisation, elle adresse [ce présent courrier](/img/actions/D2038-Lettre-au-PREFET-DE-REGIO-ATTEINTE-A-LA-BIODIVERSITE-Avril-2020-confinement.pdf) au Préfet de Région lui demandant d’intervenir et lui proposant son aide dans l’accompagnement de changement de pratiques.
 
 Bonne lecture.

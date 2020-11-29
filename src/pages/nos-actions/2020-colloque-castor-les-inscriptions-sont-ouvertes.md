@@ -16,9 +16,9 @@ Le réseau régional de France Nature Environnement Bourgogne-Franche-Comté org
 
 Cet évènement d’ampleur nationale sera un moment d’échanges des connaissances et des expériences qui se voudra riche, constructif et convivial.
 
-\> Le programme : [Programme colloque castor](http://fne-bfc.fr/wp-content/uploads/2020/10/FNE-COLLOQUE-CASTOR-INVIT-A5-web.pdf)
+\> Le programme : [Programme colloque castor](/img/actions/FNE-COLLOQUE-CASTOR-INVIT-A5-web.pdf)
 
-\> L’affiche : [Affiche A4 – Colloque castor](http://fne-bfc.fr/wp-content/uploads/2020/10/FNE-COLLOQUE-CASTOR-AFF-A4.pdf)
+\> L’affiche : [Affiche A4 – Colloque castor](/img/actions/FNE-COLLOQUE-CASTOR-AFF-A4.pdf)
 
 ***Le sujet vous intéresse et vous souhaitez participer ?***
 

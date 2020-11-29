@@ -1,6 +1,6 @@
 ---
 templateKey: action-post
-title: Végétal local, biodiversité et revégétalisation face au changement climatiques
+title: Végétal local, biodiversité et revégétalisation face au changement climatique
 date: 2020-06-24T11:37:31.765Z
 description: Quelle est la pertinence d’utiliser des végétaux d’origine locale
   dans un contexte de changement climatique ?

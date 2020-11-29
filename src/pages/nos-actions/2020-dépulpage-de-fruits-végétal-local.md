@@ -1,11 +1,10 @@
 ---
 templateKey: action-post
 title: Dépulpage de fruits Végétal local
-date: 2020-11-29T15:51:50.321Z
+date: 2020-09-17T14:51:00.000Z
 description: Suite aux premières récoltes de Végétal local, un volume de fruits
   important a été généré. Un travail de nettoyage, dépulpage et conditionnement
-  des graines a été effectué. Merci au CDEI 25 pour le travail fourni et au CPIE
-  de la vallée de l’Ognon pour la mise à disposition du lieu !
+  des graines a été effectué.
 featuredimage: /img/dsc_0154-1024x576.jpg
 tags:
   - Végétal local

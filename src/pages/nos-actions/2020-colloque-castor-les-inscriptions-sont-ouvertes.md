@@ -16,15 +16,13 @@ Le réseau régional de France Nature Environnement Bourgogne-Franche-Comté org
 
 Cet évènement d’ampleur nationale sera un moment d’échanges des connaissances et des expériences qui se voudra riche, constructif et convivial.
 
-\> Le programme : [Programme colloque castor](/img/actions/FNE-COLLOQUE-CASTOR-INVIT-A5-web.pdf)
+\> Le programme : [Programme colloque castor](blob:https://fne-bfc.netlify.app/d5fae189-a298-4379-aef2-608c9fa68687)
 
 \> L’affiche : [Affiche A4 – Colloque castor](/img/actions/FNE-COLLOQUE-CASTOR-AFF-A4.pdf)
 
 ***Le sujet vous intéresse et vous souhaitez participer ?***
 
 Vous trouverez sur le programme le lien vers l’inscription au colloque qui vous renvoi sur la [billetterie sur Helloasso](https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/essai-castors). N’hésitez pas à également diffuser l’information dans vos réseaux
-
-
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/essai-castors/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 

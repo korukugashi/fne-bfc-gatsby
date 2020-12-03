@@ -1,6 +1,6 @@
 ---
 templateKey: documents
-date: 2020-12-03T17:14:37.102Z
+date: 2021-02-25T07:45:42.985Z
 title: Communication officielle du Colloque castor
 file: /img/logo-colloque-castor.jpg
 photo: /img/logo-colloque-castor.jpg

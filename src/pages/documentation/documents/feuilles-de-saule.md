@@ -9,3 +9,5 @@ category: Groupe Castor régional
 <a href="/img/la-feuille-de-saule-1.pdf" target="_blank">Feuille de saule n°1</a>
 
 <a href="/img/feuille-de-saule-n°2.pdf" target="_blank">Feuille de saule n°2</a>
+
+<a href="/img/feuille-de-saule-n°3.pdf" target="_blank">Feuille de saule n°3</a>

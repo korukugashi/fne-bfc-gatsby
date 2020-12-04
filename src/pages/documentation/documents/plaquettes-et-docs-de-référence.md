@@ -8,6 +8,6 @@ category: Groupe Castor régional
 ---
 <a href="/img/fne-bh-bilan-castor.pdf" target="_blank">Bilan 2018/2019 des actions du programme Biodiversit'haies sur le castor</a>
 
-<a href="/img/plaquette-castordeurasie.pdf" target="_blank">Plaquette "cohabitation avec le castor"</a>
+<a href="/img/plaquette-castordeurasie.pdf" target="_blank">Plaquette "cohabiter avec le castor"</a>
 
 <a href="/img/fiche-d-action-fusion-bd.pdf" target="_blank">Plan d'actions régional castor</a>

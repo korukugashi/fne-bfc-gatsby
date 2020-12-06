@@ -47,6 +47,14 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: '4',
+        matomoUrl: '//koruku.alwaysdata.net/matomo/',
+        siteUrl: 'https://www.fne-bfc.fr'
+      }
+    },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     {

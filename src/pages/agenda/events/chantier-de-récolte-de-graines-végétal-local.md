@@ -1,7 +1,7 @@
 ---
 templateKey: agenda
 date: 2020-09-09T07:30:03.646Z
-title: Chantier de récolte de graines Végétal local
+title: Récolte de graines Végétal local
 location: Réserve Naturelle Régionale du Vallon de Fontenelay
 duration: A partir de 9h30
 ---

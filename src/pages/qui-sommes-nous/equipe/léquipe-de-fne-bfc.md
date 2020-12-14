@@ -45,7 +45,7 @@ salaries:
     fonction: Débat public
     photo: /img/user.png
   - name: Pierre Pécriaux
-    fonction: " Débat public"
+    fonction: Coordinateur du Plateau Débat public
     photo: /img/img_20201114_110955.jpg
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité

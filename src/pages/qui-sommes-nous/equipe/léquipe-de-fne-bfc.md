@@ -46,7 +46,7 @@ salaries:
     photo: /img/user.png
   - name: Pierre Pécriaux
     fonction: " Débat public"
-    photo: /img/user.png
+    photo: /img/img_20201114_110955.jpg
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité
     photo: /img/capture-d’écran-2020-10-28-115050.jpg

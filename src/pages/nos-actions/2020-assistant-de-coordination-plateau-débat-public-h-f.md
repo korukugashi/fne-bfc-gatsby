@@ -1,8 +1,9 @@
 ---
 templateKey: action-post
-title: Assistant de coordination Plateau Débat Public H/F
+title: FNE BFC recrute !
 date: 2020-12-14T15:40:43.708Z
 description: Le Plateau Débat Public recrute un ou une assistante de coordination.
+featuredimage: /img/megaphone2_23720.png
 tags:
   - Vie associative
 ---

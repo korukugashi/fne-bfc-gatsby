@@ -7,6 +7,6 @@ featuredimage: /img/carte-voeux-768x540.png
 tags:
   - Vie associative
 ---
-test
+
 
 ![](/img/carte-voeux-768x540.png#center)

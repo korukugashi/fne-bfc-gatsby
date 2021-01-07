@@ -16,7 +16,7 @@ Article de SOS Loue et Rivières Comtoises du 7 janvier 2021
 
 |                                                                                                                     |     |
 | ------------------------------------------------------------------------------------------------------------------- | --- |
-| [![](http://0.gravatar.com/avatar/3ebfbc952db160a597bde977048e97ad?s=50&d=&r=G)](https://www.soslrc.com/?author=10) |     |
+| [![](https://0.gravatar.com/avatar/3ebfbc952db160a597bde977048e97ad?s=50&d=&r=G)](https://www.soslrc.com/?author=10) |     |
 
 #### Janvier 2021, la Loue se meurt encore et encore
 

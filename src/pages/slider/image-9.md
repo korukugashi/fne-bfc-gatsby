@@ -1,5 +1,5 @@
 ---
 templateKey: slider
-label: Image 9
-photo: /img/dscf4349-1.jpg
+label: Image 10
+photo: /img/dscf4363-1.jpg
 ---

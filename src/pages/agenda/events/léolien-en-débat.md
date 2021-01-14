@@ -13,6 +13,4 @@ Dans le cadre des changements climatiques actuels et de la loi sur la transition
 
 **Sur inscription: <https://frama.link/uDkngwpJ>**
 
-```
-<a href='https://framaforms.org/inscription-au-debat-public-en-ligne-leolien-en-debat-1610096046'>Form</a>
-```
+![L'éolien en débat](/img/2020-éolien2.jpg?nf_resize=fit&w=400#img-center "L'éolien en débat")

@@ -18,7 +18,7 @@ Cet évènement d’ampleur nationale sera un moment d’échanges des connaissa
 
 \> Le programme : <a href="/img/fne-colloque-castor-invit-a5-ok-web.pdf" target="_blank">Colloque castor - Programme</a>
 
-\> L’affiche : [Affiche A4 – Colloque castor](/img/actions/FNE-COLLOQUE-CASTOR-AFF-A4.pdf)
+\> L’affiche : <a href="/img/fne-colloque-castor-aff-a4-ok.pdf" target="_blank">Affiche Colloque castor</a>
 
 ***Le sujet vous intéresse et vous souhaitez participer ?***
 

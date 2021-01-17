@@ -7,12 +7,12 @@ description: >-
   et des expériences qui se voudra riche, constructif et convivial.
 
 
-  Le colloque aura lieu les 25 et 26 février 2021 à Dole (39).
+  Le colloque aura lieu les 18 et 19 novembre 2021 à Dole (39).
 featuredimage: /img/fne-colloque-castor-aff-a4_page-0001-725x1024.jpg
 tags:
   - Castor
 ---
-Le réseau régional de France Nature Environnement Bourgogne-Franche-Comté organise en lien avec d’autres associations un colloque sur le **Castor d’Eurasie**. Le colloque aura lieu les 25 et 26 février 2021 à Dole (39).
+Le réseau régional de France Nature Environnement Bourgogne-Franche-Comté organise en lien avec d’autres associations un colloque sur le **Castor d’Eurasie**. Le colloque aura lieu les 18 et 19 novembre 2021 à Dole (39).
 
 Cet évènement d’ampleur nationale sera un moment d’échanges des connaissances et des expériences qui se voudra riche, constructif et convivial.
 

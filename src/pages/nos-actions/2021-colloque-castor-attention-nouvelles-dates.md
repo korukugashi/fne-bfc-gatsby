@@ -3,12 +3,12 @@ templateKey: action-post
 title: " Colloque Castor : attention, nouvelles dates !"
 date: 2021-01-17T18:28:06.261Z
 description: >-
-  Cet évènement d’ampleur nationale sera un moment d’échanges des connaissances
-  et des expériences qui se voudra riche, constructif et convivial.
+  En raison de la crise sanitaire, l'évènement est décalé. Le colloque castor
+  aura finalement lieu les 18 et 19 novembre 2021 à Dole (39).
 
 
-  Le colloque castor aura lieu les 18 et 19 novembre 2021 à Dole (39).
-featuredimage: /img/fne-colloque-castor-aff-a4_page-0001-725x1024.jpg
+  Cet évènement d’ampleur nationale sera un moment d’échanges des connaissances et des expériences qui se voudra riche, constructif et convivial.
+featuredimage: /img/logo-colloque-castor.jpg
 tags:
   - Castor
 ---

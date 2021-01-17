@@ -8,4 +8,6 @@ category: Colloque Castor 18 & 19 nov. 2021
 ---
 <a href="/img/fne-colloque-castor-aff-a4_page-0001.jpg" target="_blank">Affiche </a>
 
-<a href="/img/fne-colloque-castor-invit-a5-web.pdf" target="_blank">Programme</a>
+<!--StartFragment-->
+
+<a href="/img/fne-colloque-castor-invit-a5-ok-web.pdf" target="_blank">Colloque castor - Programme</a>

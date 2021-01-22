@@ -14,9 +14,9 @@ tags:
 
 Lors des travaux pour consolider les berges du canal du Rhône au Rhin sur le secteur de Chalèze et Roche-lez-Beaupré, dans le Doubs, un terrier de castor a dû être démantelé car empêchant la réalisation des travaux. Cette opération, réalisée conjointement entre VNF, FNE BFC, la DREAL et l’OFB a conduit VNF à proposer le financement, au titre de mesures compensatoires, de la plantation de 200m de haie le long du Doubs. La réflexion sur le projet de plantation a été conduite par FNE BFC, et a aboutie à la plantation, ce mercredi 20 janvier 2021, d’un linéaire de haie de 200m sur l'île du canal entre à Roche-lez-Beaupré. 
 
-![Plantation en quinconce sur 2 lignes pour obtenir une haie dense plus rapidement](/img/dsc_0513_1.jpg#center "Plantation en quinconce sur 2 lignes pour obtenir une haie dense plus rapidement")
+![Plantation en quinconce sur 2 lignes pour obtenir rapidement une haie dense](/img/dsc_0513_1.jpg#center "Plantation en quinconce sur 2 lignes pour obtenir rapidement une haie dense")
 
-> *Plantation en quinconce sur 2 lignes pour obtenir une haie dense plus rapidement*
+> *Plantation en quinconce sur 2 lignes pour obtenir rapidement une haie dense*
 
 FNE BFC a planté, avec l'aide de ses bénévoles et de l'association la Croix Verte, environ 250 arbres et arbustes, de 11 espèces différentes (Saule blanc, Aulne glutineux, Peuplier noir, Cornouiller sanguin, Fusain d'Europe, Saule pourpre, Saule des vanniers, Viorne obier, Bourdaine, Cerisier à grappes, Sureau noir).
 
@@ -30,13 +30,9 @@ Cette haie va notamment apporter gite, nourriture, lieux de reproduction et de d
 
 > *Une partie des planteurs*
 
-
-
 ![Plantation terminée](/img/p1200643.jpg#center "Plantation terminée")
 
 > *Plantation terminée*
-
-
 
 Un grand merci à l'association la Croix Verte et à tou.te.s les bénévoles qui ont participé.e.s à cette plantation.
 

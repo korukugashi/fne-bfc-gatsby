@@ -48,6 +48,6 @@ La force des recommandations de ce bulletin est leur souplesse au fil des saison
 
 Ne pas agir alors que des moyens existent nous donne le sentiment que l’ensemble des autorités passent par perte et profit l’économie de la pêche à la mouche et les rivières dévastées au profit de l’agriculture et qu’elles semblent ignorer l’urgence à obtenir des résultats sur les milieux et l’impatience générale qui monte dans les milieux environnementaux.
 
-## Pour sauver les rivières, il est urgent d’interdire tous les épandages en hiver.
+## Pour sauver les rivières, il est urgent d’interdire tous les épandages en hiver
 
 > *NB : L’information a été transmise à la DDT, à la DCSPP ainsi qu’à l’OFB avec emplacement précis.*

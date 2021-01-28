@@ -10,9 +10,15 @@ featuredimage: /img/8e8047c5-5936-463e-864c-e0d5d77dd109_1_105_c.jpeg
 tags:
   - Eau
 ---
+Article de SOS Loue et Rivières Comtoises du 25 janvier 2021
+
+<!--StartFragment-->
+
+|                                                                                                                      |     |
+| -------------------------------------------------------------------------------------------------------------------- | --- |
+| [![](https://0.gravatar.com/avatar/3ebfbc952db160a597bde977048e97ad?s=50&d=&r=G)](https://www.soslrc.com/?author=10) |     |
+
 *Lors de la rencontre de FNE-BFC avec le préfet de région BFC, celui-ci a été très intéressé par le bulletin technique d'épandage. Nous lui avons demandé que ce bulletin soit diffusé auprès de toute la région (avec adaptations si indispensable) et auprès de tous les exploitants.*
-
-
 
 Bord du Doubs, Janvier 2021. Au détour d’un chemin, cette vision. Un tas de fumier, et un épandage visiblement récent à quelques mètres du Doubs. On nous argumentera que les distances avec le cours d’eau sont respectées. Pourtant, le sol est visiblement détrempé avec de belles flaques… Et il faudrait qu’on ne s’inquiète pas ? Il faudrait qu’on se persuade que cet azote-là ne rejoindra pas le Doubs ? Qu’il ne traversera pas le sol karstique poreux de la région, ou encore qu’il sera certainement stoppé par la ripisylve, ces végétaux qui bordent les rives ? Qui peut croire ça ?
 
@@ -21,8 +27,6 @@ Cet épandage sur sol détrempé, sur la nappe du Doubs, et que ce soit fumier o
 ![Bord du Doubs, janvier 2021](/img/8e8047c5-5936-463e-864c-e0d5d77dd109_1_105_c.jpeg#center "Bord du Doubs, janvier 2021")
 
 > *Bord du Doubs, janvier 2021*
-
-
 
 ## **Qu’en pense la chambre d’agriculture ? Qu’en pensent les syndicats agricoles ?**
 
@@ -45,7 +49,5 @@ La force des recommandations de ce bulletin est leur souplesse au fil des saison
 Ne pas agir alors que des moyens existent nous donne le sentiment que l’ensemble des autorités passent par perte et profit l’économie de la pêche à la mouche et les rivières dévastées au profit de l’agriculture et qu’elles semblent ignorer l’urgence à obtenir des résultats sur les milieux et l’impatience générale qui monte dans les milieux environnementaux.
 
 ## Pour sauver les rivières, il est urgent d’interdire tous les épandages en hiver.
-
-
 
 > *NB : L’information a été transmise à la DDT, à la DCSPP ainsi qu’à l’OFB avec emplacement précis.*

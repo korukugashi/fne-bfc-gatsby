@@ -17,12 +17,15 @@ Si l’activité touristique permet de faire vivre nos territoires, certaines fo
 
 ![Quel tourisme pour demain ?](/img/2020-majtoursime.png?nf_resize=fit&w=400#img-left "Quel tourisme pour demain ?")
 
-Intervenant.e.s :\
-- Karima Delli, Présidente de la commission des transports et du tourisme au Parlement Européen,\
-- Thomas Chevalier, Directeur de l'Office de Tourisme de Cluny,\
-- Corinne Lièvre, Membre de la Confédération Paysanne 71,\
-- Edith Bonnet, Présidente Accueil Paysan Bourgogne,\
-- Thierry Grosjean, Porte-parole de la Capen71.
+
+
+Intervenant.e.s :
+
+* Karima Delli, Présidente de la commission des transports et du tourisme au Parlement Européen,\
+* Thomas Chevalier, Directeur de l'Office de Tourisme de Cluny,\
+* Corinne Lièvre, Membre de la Confédération Paysanne 71,\
+* Edith Bonnet, Présidente Accueil Paysan Bourgogne,\
+* Thierry Grosjean, Porte-parole de la Capen71.
 
 \---
 

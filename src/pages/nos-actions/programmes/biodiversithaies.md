@@ -22,7 +22,7 @@ Mais ces arbres ne sont pas seulement intéressants pour la biodiversité : ils 
 
 ### *Bien planter :*
 
-Pour remplir au mieux toutes ces fonctions, il est important de planter des arbres qui soient adaptés à leur environnement. Aussi, une plantation doit être réfléchie par rapport au enjeux locaux et aux objectifs du planteur. Des arbres **d’origine locale et sauvage** (comme la marque Végétal local) doivent être favorisés autant que possible
+Pour remplir au mieux toutes ces fonctions, il est important de planter des arbres qui soient adaptés à leur environnement. Aussi, une plantation doit être réfléchie par rapport au enjeux locaux et aux objectifs du planteur. Des arbres **d’origine locale et sauvage** (comme la marque Végétal local) doivent être favorisés autant que possible.
 
 ## Un programme d’actions pour promouvoir l’arbre en région Bourgogne-Franche-Comté.
 
@@ -52,7 +52,7 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 
 ## FNE BFC en lien avec les réseaux régionaux et nationaux
 
-* FNE BFC est correspondant du réseau **Bocag’haies** animé par Alterre BFC ([plus d’infos sur le réseau, cliquez ici](https://www.alterrebourgognefranchecomte.org/r/32/reseau-bocages-de-bourgogne/)) et par ce biais nous pouvons vous accompagner pour tous projet de plantation de haies éligible à l’aide Bocage et Paysage de la Région Bourgogne Franche-Comté.
-* FNE BFC est adhérent à l’**Afac-Agroforesterie** (Association française arbres champêtres et Agroforesteries).
-* Le réseau FNE BFC dispose de 3 référents **BCAE 7** : dans le cadre de l’application de l’article 7 “Maintien des particularité topographiques” des règles de bonnes conditions agricoles et environnementales (BCAE 7). Par ce biais, nous sommes habilités à dispenser les prescriptions pour un meilleur emplacement environnemental d’une haie.
-* FNE BFC est correspondant local de l’Afac-Agroforesterie pour le développement de la marque Végétal local.
+* FNE BFC est correspondant du réseau **Bocag’haies** animé par Alterre BFC ([plus d’infos sur le réseau, cliquez ici](https://www.alterrebourgognefranchecomte.org/r/32/reseau-bocages-de-bourgogne/)) et par ce biais nous pouvons vous accompagner pour tous projets de plantation de haies éligibles à l’aide Bocage et Paysage de la Région Bourgogne Franche-Comté.
+* FNE BFC est adhérent à l’**Afac-Agroforesteries** (Association française arbres champêtres et Agroforesteries).
+* Le réseau FNE BFC dispose de 3 référents **BCAE 7** : dans le cadre de l’application de l’article 7 “Maintien des particularités topographiques” des règles de bonnes conditions agricoles et environnementales (BCAE 7). Par ce biais, nous sommes habilités à dispenser les prescriptions pour un meilleur emplacement environnemental d’une haie.
+* FNE BFC est correspondant local de l’Afac-Agroforesteries pour le développement de la marque Végétal local.

@@ -20,7 +20,7 @@ Selon l’article 155 du RSD (Règlement sanitaire Départemental) de Haute-Saô
 
 En 2021, comment un tas de fumier peut-il être stocké sur zone inondable ? Les zones inondables sont largement connues et cartographiées. La protection des rivières est l’affaire de TOUS. Cela doit passer par une prise de conscience de l’impact de certaines pratiques.
 
-![](/img/capture-décran-2021-02-09-à-09.48.04.jpg#center)
+![](/img/capture-décran-2021-02-09-à-09.48.04.jpg#center)
 
 Capture d’écran OpenStreetMap afin de situer le tas de fumier.
 
@@ -28,6 +28,6 @@ Capture d’écran OpenStreetMap afin de situer le tas de fumier.
 
 PPRI Vandelans. Le tas de fumier est clairement stockée dans la zone rouge inondable de l’Ognon. Capture d’écran du site <http://carto.geo-ide.application.developpement-durable.gouv.fr/498/BT_risques_inondations.map>
 
-![](/img/capture-décran-2021-02-08-à-14.17.36-jpg.jpg#center)
+![](/img/capture-décran-2021-02-08-à-14.17.36-jpg.jpg#center)
 
 Extrait du RSD de Haute-Saône concernant l’évacuation et le stockage des fumiers et autres déjections solides. Disponible ici en ligne <https://www.haute-saone.gouv.fr/content/download/1302/8663/file/RSD_2eme_partie.pdf>

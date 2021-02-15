@@ -50,9 +50,15 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 * Mais également grâce à d’autres associations partenaires : Dole Environnement, CPIE Vallée de l’Ognon, LPO BFC, SHNA, les amis de la Nature et des Vosges Saônoise
 * **Ces actions sont également possibles grâce au soutien de nos financeurs : Conseil régional de Bourgogne-Franche-Comté, DREAL, Agence de l’eau Rhône Méditerranée Corse, SNCF Réseau**
 
+  ![](/img/logo-regioncmjn_detoure.png#center)
+
+  ![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=400#center)
+
+  ![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=400#center)
+
 ## FNE BFC en lien avec les réseaux régionaux et nationaux
 
-* FNE BFC est correspondant du réseau **Bocag’haies** animé par Alterre BFC ([plus d’infos sur le réseau, cliquez ici](https://www.alterrebourgognefranchecomte.org/r/32/reseau-bocages-de-bourgogne/)) et par ce biais nous pouvons vous accompagner pour tous projets de plantation de haies éligibles à l’aide Bocage et Paysage de la Région Bourgogne Franche-Comté.
+* FNE BFC est correspondant du réseau **Bocag’haies** animé par Alterre BFC ([plus d’infos sur le réseau, cliquez ici](https://www.alterrebourgognefranchecomte.org/r/32/reseau-bocages-de-bourgogne/))  pouvons donc vous accompagner pour tous projets de plantation de haies éligibles à l’aide Bocage et Paysage de la Région Bourgogne Franche-Comté.
 * FNE BFC est adhérent à l’**Afac-Agroforesteries** (Association française arbres champêtres et Agroforesteries).
 * Le réseau FNE BFC dispose de 3 référents **BCAE 7** : dans le cadre de l’application de l’article 7 “Maintien des particularités topographiques” des règles de bonnes conditions agricoles et environnementales (BCAE 7). Par ce biais, nous sommes habilités à dispenser les prescriptions pour un meilleur emplacement environnemental d’une haie.
-* FNE BFC est correspondant local de l’Afac-Agroforesteries pour le développement de la marque Végétal local.
+* FNE BFC est correspondant local de l’Afac-Agroforesteries pour le développement de la marque **Végétal local**.

@@ -50,13 +50,13 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 * Mais également grâce à d’autres associations partenaires : Dole Environnement, CPIE Vallée de l’Ognon, LPO BFC, SHNA, les amis de la Nature et des Vosges Saônoise
 * **Ces actions sont également possibles grâce au soutien de nos financeurs : Conseil régional de Bourgogne-Franche-Comté, DREAL, Agence de l’eau Rhône Méditerranée Corse, SNCF Réseau**
 
-  ![](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=10#img-left)
+  ![](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=54#img-center)
 
-  ![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=400?nf_resize=fit&w=10#img-center)
+  ![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=400?nf_resize=fit&w=50#img-center)
 
-  ![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=400?nf_resize=fit&w=10#img-right)
+  ![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=400?nf_resize=fit&w=50#img-center)
 
-  ![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=10#center)
+  ![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=50#img-center)
 
 ## FNE BFC en lien avec les réseaux régionaux et nationaux
 

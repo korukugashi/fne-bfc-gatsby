@@ -56,6 +56,8 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 
   ![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=400?nf_resize=fit&w=10#img-right)
 
+  ![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=10#center)
+
 ## FNE BFC en lien avec les réseaux régionaux et nationaux
 
 * FNE BFC est correspondant du réseau **Bocag’haies** animé par Alterre BFC ([plus d’infos sur le réseau, cliquez ici](https://www.alterrebourgognefranchecomte.org/r/32/reseau-bocages-de-bourgogne/))  pouvons donc vous accompagner pour tous projets de plantation de haies éligibles à l’aide Bocage et Paysage de la Région Bourgogne Franche-Comté.

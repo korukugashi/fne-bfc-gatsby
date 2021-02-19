@@ -16,6 +16,6 @@ Une rencontre autour du castor pour les acteurs de l'environnement et des territ
 
 <a href="/img/fne-colloque-castor-invit-a5-ok-web.pdf" target="_blank">Colloque castor - Programme</a>
 
-  Lien vers l'inscription : [https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/essai-castors](<* https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/essai-castors>)
+  Lien vers l'inscription : https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/essai-castors
 
 ![Colloque castor]( "Colloque castor")

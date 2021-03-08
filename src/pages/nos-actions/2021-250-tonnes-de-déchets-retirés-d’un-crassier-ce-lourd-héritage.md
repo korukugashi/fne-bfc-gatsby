@@ -3,7 +3,7 @@ templateKey: action-post
 title: "250 tonnes de déchets retirés d’un crassier : ce lourd héritage"
 date: 2021-03-08T09:00:27.148Z
 description: "250 tonnes de déchets retirés d’un crassier : ce lourd héritage"
-featuredimage: /img/capture-décran-2021-03-06-à-09.44.57.png
+featuredimage: /img/capture-décran-2021-03-06-à-09.44.57.png
 tags:
   - Eau
   - Déchets

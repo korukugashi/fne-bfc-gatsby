@@ -3,17 +3,16 @@ templateKey: action-post
 title: Chantrans – Mais que fait la fromagerie ?
 date: 2021-03-09T07:47:13.225Z
 description: Chantrans – Mais que fait la fromagerie ?
+featuredimage: /img/chantrans.png
 tags:
   - Eau
   - Déchets
 ---
 [Un article de SOS LRC](https://www.soslrc.com/2021/03/08/chantrans-mais-que-fait-la-fromagerie/)
 
-
-
 Vidéo du rejet : <https://www.youtube.com/watch?v=hOaBGTutjJo>
 
-<!--StartFragment-->
+![](/img/chantrans.png?nf_resize=fit&w=400#center)
 
 ## De quoi parle-t-on ?
 

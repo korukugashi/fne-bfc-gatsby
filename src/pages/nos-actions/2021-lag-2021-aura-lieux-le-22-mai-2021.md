@@ -3,7 +3,7 @@ templateKey: action-post
 title: L'AG 2021 aura lieux le 22 mai 2021
 date: 2021-03-09T07:40:38.843Z
 description: L'AG 2021 aura lieux le 22 mai 2021
-featuredimage: /img/fne_logo_bourgogne-franche-comte.png
+featuredimage: /img/fne_logo_bourgogne-franche-comte_cmjn.jpg
 tags:
   - Vie associative
 ---

@@ -38,7 +38,7 @@ En 2018, déjà, selon l’[Arrêté de mise en demeure d’Août 2018](https://
 
 En effet, selon l’arrêté préfectoral de prescriptions spéciales du 8 février 2006 relatif à la fromagerie Monnin, la filière de traitement est dimensionnée pour une charge à traiter de 60kg de DBO5 par jour. Le débit de pointe des effluents ne doit, quant à lui, pas dépasser 25m3 par jour et le niveau de rejets des effluents traités doit respecter les valeurs indiquées dans le tableau ci-dessous. sur un échantillon moyen journalier. Or on constate que déjà en 2016, puis en 2017, les résultats de l’autosurveillance sont bien au delà des concentrations maximales.[](https://www.doubs.gouv.fr/content/download/24101/158767/file/recueil-25-2018-045-recueil-des-actes-administratifs.pdf)
 
-![](/img/tableau-fromagerie.png?nf_resize=fit&w=400#center)
+![](/img/tableau-fromagerie.png#center)
 
 [source : page 57 ==> https://www.doubs.gouv.fr/content/download/24101/158767/file/recueil-25-2018-045-recueil-des-actes-administratifs.pdf](https://www.doubs.gouv.fr/content/download/24101/158767/file/recueil-25-2018-045-recueil-des-actes-administratifs.pdf)
 

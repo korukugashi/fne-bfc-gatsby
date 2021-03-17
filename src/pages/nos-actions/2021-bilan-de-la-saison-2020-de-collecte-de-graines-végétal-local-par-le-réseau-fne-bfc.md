@@ -15,7 +15,7 @@ Ensemble, nous œuvrons depuis 2017 à **l’émergence et à la structuration d
 
 ## Végétal local, une marque nationale au service de la biodiversité
 
-![](/img/logovlsale2.png?nf_resize=fit&w=4#img-center)
+![](/img/logovlsale2.png?nf_resize=fit&w=200#img-center)
 
 **Végétal local** est une marque collective garantissant la traçabilité et la provenance de végétaux sauvages, depuis leur prélèvement durable en milieu naturel jusqu’à leur commercialisation dans la région d’origine correspondante. Elle a été créée en 2015, à l’initiative de la Fédération des Conservatoires Botaniques Nationaux, de l’Association française arbres champêtres et Agroforesteries et de l’association Plante & Cité pour répondre aux enjeux écologiques et économiques de la restauration des milieux. Elle est aujourd’hui **portée par l’Office Français pour la Biodiversité** qui en est désormais le propriétaire.
 
@@ -25,7 +25,7 @@ En région Bourgogne-Franche-Comté, nous retrouvons 4 zones biogéographiques :
 
 Le **bassin Rhône-Saône et Jura** est la région d’origine qui représente la plus grande surface en région Bourgogne Franche-Comté.
 
-![](/img/régionsvl.png?nf_resize=fit&w=4#img-center)
+![](/img/régionsvl.png?nf_resize=fit&w=200#img-center)
 
 ## Nos engagements
 
@@ -105,7 +105,7 @@ Le **18 novembre** à Vertamboz (39), organisée par JNE
 
 > *Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)*
 
-### Quantités de graines récoltées
+### **Quantités de graines récoltées**
 
 Nous avons récolté des fruits de **40 espèces d’arbres et d’arbustes** en quantités variables, et en réponse aux demandes de nos quatre pépinières partenaires (Wadel-Wininger, Daniel Soupe, Millet et Naudet). Au total sur la saison cela nous fait **420kg de fruits récoltés** pour **60kg de graines** après dépulpage (Figure 3).
 
@@ -115,7 +115,7 @@ Pour rappel, il faut pour chaque espèce que les fruits proviennent d’au moins
 
 > *Figure 3 : Poids de fruits récoltés (frais et dépulpés)*
 
-### Nettoyage des graines
+### **Nettoyage des graines**
 
 Après collecte il faut extraire les graines des fruits : cela s’appelle le **dépulpage**, car la grande majorité des fruits collectés sont des **fruits charnus**, ils ont une chair juteuse. Cette technique consiste donc à **séparer la graine de la peau et de la pulpe**. Pour ce faire nous écrasons les fruits à la main sur des tamis. Pour les fruits non charnus (fruits des érables, des chênes, du charme…) il faut tout de même séparer la graine du reste du fruit mais cela demande moins de travail. Les graines sont ensuite **nettoyées** et **conditionnées** avant **l’envoi auprès des pépinières**.
 

@@ -9,8 +9,6 @@ featuredimage: /img/p1000433.jpg
 tags:
   - Végétal local
 ---
-# **Bilan de la saison 2020 de collecte de graines Végétal local par le réseau FNE BFC**
-
 L’association France Nature Environnement Bourgogne Franche-Comté et son réseau remercient l’ensemble des personnes qui ont participées aux collectes cette saison.
 
 Ensemble, nous œuvrons depuis 2017 à **l’émergence et à la structuration de la filière Végétal local en région d’origine « Bassin Rhône-Saône et Jura »**.
@@ -56,12 +54,6 @@ Rappel des principaux critères de choix de site de collecte :
 \- Le propriétaire du site doit donner son autorisation à la collecte
 
 Cf [Référentiel technique associé au Règlement d’usage de la marque collective simple](http://www.fcbn.fr/sites/fcbn.fr/files/ressource_telechargeable/referentiel_technique_vlocal_modif_6dec2019.pdf)
-
-  
-
-   
-
-
 
 ### **Nos journées de collecte**
 
@@ -109,8 +101,6 @@ Le **26 octobre** à Bucey-lès-Gy (70), organisée par FNE BFC
 
 Le **18 novembre** à Vertamboz (39), organisée par JNE
 
-
-
 ![Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)](/img/photos-1.jpg?nf_resize=fit&w=4#img-center "Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)")
 
 > *Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)*
@@ -148,8 +138,6 @@ Durant l'hiver 2020/2021, les **fédérations du réseau FNE BFC ont planté** *
 Nous espérons vous voir encore plus nombreux.ses pour la saison de collecte 2021 qui s’annonce déjà bien chargée.
 
 Grâce à vous, la biodiversité prend racine !
-
-
 
 Crédits photos :\
 FNE BFC, JNE

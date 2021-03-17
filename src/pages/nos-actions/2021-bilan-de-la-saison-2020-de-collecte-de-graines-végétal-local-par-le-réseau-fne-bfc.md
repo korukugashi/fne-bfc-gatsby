@@ -25,7 +25,7 @@ En région Bourgogne-Franche-Comté, nous retrouvons 4 zones biogéographiques :
 
 Le **bassin Rhône-Saône et Jura** est la région d’origine qui représente la plus grande surface en région Bourgogne Franche-Comté.
 
-![](/img/régionsvl.png?nf_resize=fit&w=200#img-center)
+![](/img/régionsvl.png?nf_resize=fit&w=600#img-center)
 
 ## Nos engagements
 
@@ -35,7 +35,7 @@ Nous nous appuyons sur un réseau d’acteur.rice.s local : **cinq associations 
 
 En 2019 notre association s’investissait plus encore dans la filière en devenant **correspondante et animatrice de la marque aux côtés du Conservatoire Botanique National Franche-Comté et de notre association fédérée Jura Nature Environnement, en tant que représentants régionaux de l'Afac-Agroforesteries.** Cette année, avec le soutien de la région Bourgogne Franche-Comté, nous portons une **étude d'opportunité et de structuration de la filière Végétal local pour les ligneux en Bourgogne-Franche-Comté**. Ceci afin de caractériser l’état actuel du marché de la filière Végétal local en Bourgogne-Franche-Comté et d’assurer son développement pérenne.
 
-![Figure 1 : Acteurs professionnels participant à la filière Végétal local](/img/carto-1.png?nf_resize=fit&w=4#img-center "Figure 1 : Acteurs professionnels participant à la filière Végétal local")
+![Figure 1 : Acteurs professionnels participant à la filière Végétal local](/img/carto-1.png?nf_resize=fit&w=796#img-center "Figure 1 : Acteurs professionnels participant à la filière Végétal local")
 
 > *Figure 1 : Acteurs professionnels participant à la filière Végétal local*
 
@@ -101,7 +101,7 @@ Le **26 octobre** à Bucey-lès-Gy (70), organisée par FNE BFC
 
 Le **18 novembre** à Vertamboz (39), organisée par JNE
 
-![Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)](/img/photos-1.jpg?nf_resize=fit&w=4#img-center "Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)")
+![Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)](/img/photos-1.jpg?nf_resize=fit&w=600#img-center "Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)")
 
 > *Figure 2 : Groupe de collecteur.euse.s bénévoles à Malbrans, à Chenecey-Buillon, Doucier et Bourg-de-Sirod (de gauche à droite, de haut en bas) et fruits d’une collecte (au milieu)*
 
@@ -111,7 +111,7 @@ Nous avons récolté des fruits de **40 espèces d’arbres et d’arbustes** en
 
 Pour rappel, il faut pour chaque espèce que les fruits proviennent d’au moins 30 arbres ou arbustes différents afin de garantir une diversité génétique.
 
-![Figure 3 : Poids de fruits récoltés (frais et dépulpés)](/img/tableau.jpg?nf_resize=fit&w=4#img-center "Figure 3 : Poids de fruits récoltés (frais et dépulpés)")
+![Figure 3 : Poids de fruits récoltés (frais et dépulpés)](/img/tableau.jpg?nf_resize=fit&w=800#img-center "Figure 3 : Poids de fruits récoltés (frais et dépulpés)")
 
 > *Figure 3 : Poids de fruits récoltés (frais et dépulpés)*
 
@@ -123,7 +123,7 @@ Le dépulpage est une étape qui **demande beaucoup d’énergie et de temps**. 
 
 Dans une démarche d'amélioration de la qualité de nos graines, nous procédons désormais à un **test de flottaison** de celles-ci : nous les immergeons dans l’eau pendant 24h, puis retirons celles qui flottent car considérées comme non viables.
 
-![Figure 4 : Dépulpage de différents fruits avec le CDEI 25, à la Maison de la nature à Brussey (70) (l’accès à un cours d’eau est primordial afin de pouvoir rincer les graines sans gaspiller la ressource)](/img/photos-2.jpg?nf_resize=fit&w=4#img-center "Figure 4 : Dépulpage de différents fruits avec le CDEI 25, à la Maison de la nature à Brussey (70) (l’accès à un cours d’eau est primordial afin de pouvoir rincer les graines sans gaspiller la ressource)")
+![Figure 4 : Dépulpage de différents fruits avec le CDEI 25, à la Maison de la nature à Brussey (70) (l’accès à un cours d’eau est primordial afin de pouvoir rincer les graines sans gaspiller la ressource)](/img/photos-2.jpg?nf_resize=fit&w=600#img-center "Figure 4 : Dépulpage de différents fruits avec le CDEI 25, à la Maison de la nature à Brussey (70) (l’accès à un cours d’eau est primordial afin de pouvoir rincer les graines sans gaspiller la ressource)")
 
 > *Figure 4 : Dépulpage de différents fruits avec le CDEI 25, à la Maison de la nature à Brussey (70) (l’accès à un cours d’eau est primordial afin de pouvoir rincer les graines sans gaspiller la ressource)*
 

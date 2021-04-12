@@ -3,6 +3,7 @@ templateKey: action-post
 title: "OFFRE D'EMPLOI : Chargé de mission - Coordination du Plateau Débat Public"
 date: 2021-04-12T08:30:43.679Z
 description: "OFFRE D'EMPLOI : Chargé de mission - Coordination du Plateau Débat Public"
+featuredimage: /img/logo_debat-pub_a3-04.jpg
 tags:
   - Vie associative
 ---

@@ -137,7 +137,9 @@ Disponibilités occasionnelles (soirées et week-end)
 
 
 
-**CV et lettre de motivation à transmettre uniquement par mail à [herve.aih.uni@gmail.com](<>)(Président FNEBFC)**
+## **CV et lettre de motivation à transmettre uniquement par mail à :**
+
+**[herve.aih.uni@gmail.com](<>)(Président FNEBFC)**
 
 **[contact@fne-bfc.fr](<>)(Secrétariat)**
 

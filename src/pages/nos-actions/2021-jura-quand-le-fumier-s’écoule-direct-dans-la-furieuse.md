@@ -16,6 +16,6 @@ La Furieuse est un affluent de la Loue. Nous devons protéger les rivières, nou
 
 ![](/img/capture-décran-2021-04-13-à-19.25.22-2.png#center)
 
-Une vidéo de l'écoulement est disponible sur le site de SOS LRC.
+Une vidéo de l'écoulement est disponible sur le site de [SOS LRC](https://www.soslrc.com/2021/04/13/jura-quand-le-fumier-secoule-direct-dans-la-furieuse/).
 
 L’information a été transmise à l’OFB, la préfecture et la DDT du Jura. Affaire à suivre !

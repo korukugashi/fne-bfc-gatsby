@@ -3,7 +3,7 @@ templateKey: action-post
 title: "Jura : quand le fumier s’écoule direct dans la Furieuse"
 date: 2021-04-14T06:26:47.494Z
 description: "Jura : quand le fumier s’écoule direct dans la Furieuse"
-featuredimage: /img/capture-décran-2021-04-13-à-19.25.22.png
+featuredimage: /img/capture-décran-2021-04-13-à-19.25.22.png
 tags:
   - Eau
   - Déchets

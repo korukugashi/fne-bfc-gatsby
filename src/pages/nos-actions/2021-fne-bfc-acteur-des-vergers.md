@@ -13,4 +13,4 @@ L'association Vergers Vivants (membre de FNE BFC) vient de publier une carte pr�
 
 FNE BFC en fait partie car nous proposons des conseils sur la plantation et accompagnons des porteurs de projets pour la mise en place de haies champêtres et de vergers. Deux vergers conservatoires ont ainsi été plantés durant l'hiver 2020/2021. En effet, généralement une plantation en appelle une autre : après la haie, vient le verger et vice-versa.
 
-![](/img/img-0359.jpg?nf_resize=fit&w=400#img-center)
+![](/img/img-0359.jpg?nf_resize=fit&w=400?nf_resize=fit&w=200#img-center)

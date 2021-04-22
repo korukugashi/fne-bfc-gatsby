@@ -6,8 +6,4 @@ file: /img/document-de-vulgarisation.pdf
 photo: /img/logovlsale2.png
 category: Végétal local
 ---
-<!--StartFragment-->
-
-**Etude d'opportunité et de structuration de la filière Végétal local (ligneux) en Bourgogne-Franche-Comté**
-
-<!--EndFragment-->
+<a href="/img/document-de-vulgarisation.pdf" target="_blank">Document syntétique de présentation de l'étude Végétal local en Bourgogne-Franche-Comté</a>

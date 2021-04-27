@@ -41,8 +41,8 @@ admins:
     fonction: Administratrice
     photo: /img/user.png
 salaries:
-  - name: Marjorie Tourette
-    fonction: Débat public
+  - name: Laurine Cornaton-Perdrix
+    fonction: Assistante de coordination du Plateau Débat public
     photo: /img/user.png
   - name: Pierre Pécriaux
     fonction: Coordinateur du Plateau Débat public
@@ -55,5 +55,8 @@ salaries:
     photo: /img/user.png
   - name: Élise Chatelain
     fonction: Secrétariat
+    photo: /img/user.png
+  - name: Lou-Ann Hennequin
+    fonction: Chargée de mission Transition-Action
     photo: /img/user.png
 ---

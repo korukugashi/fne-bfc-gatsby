@@ -7,6 +7,7 @@ description: 'Article de SOS LRC du 6 mai 2021 "#surlefront : France TV
 featuredimage: /img/68bd87d9-974b-47f6-8afa-c1d456880053_1_201_a-scaled.jpeg
 tags:
   - Eau
+  - Déchets
 ---
 [Article de SOS LRC](https://www.soslrc.com/2021/05/06/surlefront-france-tv-sinteresse-aux-pollutions-des-rivieres-comtoises/)
 

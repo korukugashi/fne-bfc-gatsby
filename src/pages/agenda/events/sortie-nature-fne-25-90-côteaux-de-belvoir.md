@@ -11,6 +11,8 @@ FNE 25-90 vous propose une balade sur les côteaux de Belvoir et son château, s
 
 C'est une sortie guidée par leur chargée de mission, Emilia, qui vous fera découvrir les écosystèmes des côteaux et leur évolution à travers le temps.
 
-
-
 Nombre limité à 9 personnes, les distances réglementaires seront respectées.
+
+Inscriptions au 06 51 46 42 22.
+
+![](/img/sortie_belvoir.jpg?nf_resize=fit&w=4#center)

@@ -15,4 +15,4 @@ Nombre limité à 9 personnes, les distances réglementaires seront respectées.
 
 Inscriptions au 06 51 46 42 22.
 
-![](/img/sortie_belvoir.jpg?nf_resize=fit&w=4#center)
+![](/img/sortie_belvoir.jpg#center)

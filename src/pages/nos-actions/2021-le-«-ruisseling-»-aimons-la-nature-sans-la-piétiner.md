@@ -6,6 +6,7 @@ description: "Le « ruisseling » : aimons la nature sans la piétiner"
 featuredimage: /img/ruisseling.jpeg
 tags:
   - Eau
+  - Agriculture
 ---
 [Article de SOS LRC](https://www.soslrc.com/2021/05/24/le-ruisseling-aimons-la-nature-sans-la-pietiner/)
 

@@ -17,7 +17,7 @@ Dans le Doubs et le Jura, cette pratique connait son maximum de fréquentation l
 
 Ces milieux sont l**es derniers refuges d’une faune menacée**, voir en cours de disparition comme les écrevisses autochtones, certains insectes très sensibles à la pollution, comme la grande perle dont les larves et les nymphes vivent sous les cailloux. Ils abritent souvent de nombreux alevins de truites, car les dernières truites sauvages viennent frayer dans ces ruisseaux, qui sont de véritables « maternités ».
 
-![*Alevins d’ombres – mai 2021*](/img/a5bfe50f-82c8-45af-8f2d-8eb6318e9ef2_1_105_c.jpeg?nf_resize=fit&w=400#center "*Alevins d’ombres – mai 2021*")
+![*Alevins d’ombres – mai 2021*](/img/a5bfe50f-82c8-45af-8f2d-8eb6318e9ef2_1_105_c.jpeg#center "*Alevins d’ombres – mai 2021*")
 
 La randonnée aquatique consiste à marcher, courir, sauter en groupes donc forcément déplacer les pierres, des amas de branchages dans le lit des ruisseaux et des torrents. Les végétaux aquatiques peuvent être arrachés, la turbidité de l’eau augmentée, les larves et les nymphes des insectes aquatiques écrasés. Jour après jour, c’est donc un biotope fragile, un refuge de biodiversité que cette pratique va altérer, parfois irréversiblement.
 

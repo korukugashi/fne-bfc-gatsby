@@ -44,9 +44,9 @@ salaries:
   - name: Laurine Cornaton-Perdrix
     fonction: Assistante de coordination du Plateau Débat public
     photo: /img/user.png
-  - name: Pierre Pécriaux
+  - name: Laurence Nguyen
     fonction: Coordinateur du Plateau Débat public
-    photo: /img/img_20201114_110955.jpg
+    photo: /img/user.png
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité
     photo: /img/capture-d’écran-2020-10-28-115050.jpg

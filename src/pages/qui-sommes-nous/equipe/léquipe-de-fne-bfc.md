@@ -41,17 +41,17 @@ admins:
     fonction: Administratrice
     photo: /img/user.png
 salaries:
+  - name: Laurence Nguyen
+    fonction: Coordinatrice du Plateau Débat public
+    photo: /img/user.png
   - name: Laurine Cornaton-Perdrix
     fonction: Assistante de coordination du Plateau Débat public
-    photo: /img/user.png
-  - name: Laurence Nguyen
-    fonction: Coordinateur du Plateau Débat public
     photo: /img/user.png
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité
     photo: /img/capture-d’écran-2020-10-28-115050.jpg
   - name: Jocelyn Mazuel
-    fonction: Chargé de mission
+    fonction: Chargé de mission biodiversité
     photo: /img/user.png
   - name: Élise Chatelain
     fonction: Secrétariat

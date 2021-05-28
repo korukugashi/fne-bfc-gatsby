@@ -19,6 +19,8 @@ Sur la Région Bourgogne-Franche-Comté, il existe 4 zones biogéographiques au 
 
 **Prescrire des végétaux d'origine locale dans vos marchés :**
 
+<a href="/img/les-végétaux-d-origine-locale-dans-les-marchés.pdf" target="_blank">Les végétaux d'origine locale dans les marchés (diaporama du 26/05/21)</a>
+
 <!--StartFragment-->
 
 Guide de recommandations sur l’achat de végétaux sauvages d’origine locale : [http://www.fcbn.fr/ressource/guide-prescriptions-techniques-achat-vegetal-local](https://fne-bfc.us17.list-manage.com/track/click?u=3752dd58eb3e0978b538b48e3&id=c9a1e3f4da&e=a2025caf2a)

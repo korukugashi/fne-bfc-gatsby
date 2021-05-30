@@ -1,5 +1,5 @@
 ---
 templateKey: actions-tags
-label: Transports
+label: Transports et Energie
 image: /img/truck.png
 ---

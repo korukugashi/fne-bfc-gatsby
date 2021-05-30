@@ -1,5 +1,5 @@
 ---
 templateKey: actions-tags
-label: Energie
-image: /img/energy.png
+label: Tourisme
+image: /img/travel-bag.svg
 ---

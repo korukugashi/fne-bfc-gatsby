@@ -2,8 +2,9 @@
 templateKey: action-post
 title: "FNE BFC à la radio : accompagner les projets de plantations"
 date: 2021-06-07T09:25:44.905Z
-description: Accompagnement technique pour la plantation d'arbres, de haies, de
-  verger en Bourgogne-Franche-Comté
+description: L'émission "les idées vertes" de Radiocampus  a suivi  notre
+  accompagnement technique pour la plantation d'arbres, de haies, de verger en
+  Bourgogne-Franche-Comté
 featuredimage: /img/dsc_0313.jpg
 tags:
   - Haies et arbres têtards

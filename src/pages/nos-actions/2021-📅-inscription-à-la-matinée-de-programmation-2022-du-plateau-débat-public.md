@@ -18,15 +18,11 @@ Rendez-vous le **lundi 12 juillet 2021 de 9h30 à 12h30** au Centre Pierre Mend�
 
 <!--EndFragment-->
 
-![10 ans de Débats Publics en Bourgogne-Franche-Comté](/img/1.jpg?nf_resize=fit&w=413#img-center "10 ans de Débats Publics en Bourgogne-Franche-Comté")
-
-![Inscrivez-vous](/img/2.jpg?nf_resize=fit&w=415#img-center "Inscrivez-vous")
-
-![Formulaire d'inscription](/img/invitation-programmation-dp-2022-8-.jpg#img-center "Formulaire d'inscription")
+![10 ans de Débats Publics en Bourgogne-Franche-Comté](/img/1.jpg?nf_resize=fit&w=650#img-center "10 ans de Débats Publics en Bourgogne-Franche-Comté")
 
 <!--StartFragment-->
 
-📝 En raison du contexte sanitaire, l'inscription est obligatoire.
+📝 En raison du contexte sanitaire, l'inscription est obligatoire : [Formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSfSafKVbkWS10Ccfw3fAGFUD_PvxUVp4AdY7Be7me1s5VRhww/viewform?usp=pp_url)
 
 Merci de votre participation.\
 \

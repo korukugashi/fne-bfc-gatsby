@@ -8,7 +8,7 @@ featuredimage: /img/1.jpg
 tags:
   - Vie associative
 ---
-![10 ans de Débats Publics en Bourgogne-Franche-Comté](/img/1.jpg?nf_resize=fit&w=400#img-center "10 ans de Débats Publics en Bourgogne-Franche-Comté")
+![10 ans de Débats Publics en Bourgogne-Franche-Comté](/img/1.jpg?nf_resize=fit&w=400?nf_resize=fit&w=799#img-center "10 ans de Débats Publics en Bourgogne-Franche-Comté")
 
 <!--StartFragment-->
 
@@ -20,7 +20,7 @@ Rendez-vous le **lundi 12 juillet 2021 de 9h30 à 12h30** au Centre Pierre Mend�
 
 <!--EndFragment-->
 
-![Inscrivez-vous](/img/2.jpg?nf_resize=fit&w=400#center "Inscrivez-vous")
+![Inscrivez-vous](/img/2.jpg?nf_resize=fit&w=400?nf_resize=fit&w=799#img-center "Inscrivez-vous")
 
 ![Formulaire d'inscription](/img/invitation-programmation-dp-2022-8-.jpg?nf_resize=fit&w=400#img-center "Formulaire d'inscription")
 

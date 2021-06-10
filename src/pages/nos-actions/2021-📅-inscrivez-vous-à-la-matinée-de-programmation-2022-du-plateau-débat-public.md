@@ -25,4 +25,4 @@ contact@debatpublic-bfc.org
 
 <!--EndFragment-->
 
-![10 ans de Débats Publics en Bourgogne-Franche-Comté](/img/1.jpg?nf_resize=fit&w=450#img-center "10 ans de Débats Publics en Bourgogne-Franche-Comté")
+![10 ans de Débats Publics en Bourgogne-Franche-Comté](/img/1.jpg?nf_resize=fit&w=450?nf_resize=fit&w=600#img-center "10 ans de Débats Publics en Bourgogne-Franche-Comté")

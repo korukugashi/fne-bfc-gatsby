@@ -7,6 +7,7 @@ description: Inscrivez-vous dès aujourd'hui à la matinée de programmation des
 featuredimage: /img/dscf8237.jpg
 tags:
   - Vie associative
+  - Territoire
 ---
 <!--StartFragment-->
 

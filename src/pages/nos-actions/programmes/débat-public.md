@@ -7,6 +7,8 @@ onHome: true
 tags:
   - Territoire
 ---
+![Logo Débat Public BFC](/img/jpeg-fond-blanc.jpg?nf_resize=fit&w=300#img-center "Logo Débat Public BFC")
+
 Créé en 2011 et porté par France Nature Environnement Bourgogne Franche-Comté, notre programme, le Plateau Débat Public, facilite la rencontre des **cinq acteurs de la vie publique** (État, élus locaux, entreprises, syndicats, citoyens), collaborant ainsi à la gouvernance à cinq instauré par le Grenelle II de l’environnement. Notre finalité est de permettre à chacun d’exprimer sa pensée et de nourrir sa réflexion. 
 
 Chaque année, nous organisons entre six et neuf débats publics. Les thèmes sont choisis en concertation, lors d’une journée où chacun peut participer et proposer des sujets. Puis chaque sujet suit le processus du Plateau Débat Public, inspiré de celui de la Commission Nationale du Débat Public, qui garantit le succès du débat : **groupe de travail, événement, valorisation**.

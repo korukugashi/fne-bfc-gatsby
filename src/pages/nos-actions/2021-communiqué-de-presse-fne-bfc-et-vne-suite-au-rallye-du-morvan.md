@@ -3,6 +3,7 @@ templateKey: action-post
 title: Communiqué de presse FNE-BFC et VNE suite au rallye du Morvan
 date: 2021-08-25T14:06:21.930Z
 description: Communiqué de presse FNE-BFC et VNE suite au rallye du Morvan
+featuredimage: /img/fne_logo_bourgogne-franche-comte.png
 tags:
   - Transports et Energie
   - Forêt

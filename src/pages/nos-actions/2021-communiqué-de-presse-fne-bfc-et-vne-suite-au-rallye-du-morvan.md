@@ -34,8 +34,8 @@ temps, d’une autre époque. Maintenir cette activité n’est plus moral, ce n
 
 Des responsabilités morales et pénales sont encourues pour mise en danger de la vie d’autrui.
 
+*FNE-BFC Contact hervé bellimaz 06 43 03 29 41*
 
 
-*FNE-BFC
-Et
+*Et
 Vigilance Nature Environnement.*

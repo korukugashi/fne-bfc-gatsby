@@ -20,7 +20,7 @@ blessée grave.** Nous avions demandé son annulation. Les sorties de routes ont
 La promotion de ce type d’activité motorisée n’est qu’une façon d’entretenir un travers vicieux et
 un gâchis de carburant doublé d’**une production oiseuse et supplémentaire de gaz à effet de serre.** Nous
 savons que le transport est le premier facteur d’aggravation de cet effet. Nous le savons tous et vous le
-savez tous, autorités administratives, organisateurs, pilotes et copilotes, , préfets et services préfectoraux,
+savez tous, autorités administratives, organisateurs, pilotes et copilotes, préfets et services préfectoraux,
 sponsors, spectateurs : cette activité est criminogène et vous en êtes les auteurs ! C’est celle d’un autre
 temps, d’une autre époque. Maintenir cette activité n’est plus moral, ce n’est plus soutenable.
 
@@ -28,14 +28,13 @@ temps, d’une autre époque. Maintenir cette activité n’est plus moral, ce n
 
 **Monsieur le préfet de Saône et Loire**, la SNBC est une obligation et un horizon à 2030 ! Les rapports du GIEC, vous les lisez sans doute à titre individuel dans leur version française pour décideurs. Ils sont rigoureux et incontournables. Or, vous avez la charge et l’honneur d’être un décideur. **Alors que ferez-vous en 2022, 2023 ?** Même décision ? 
 
-**Mesdames et Messieurs de l’ASA du Morvan**, vous faîtes partie du XXI siècles et **vous seriez des pousses aux crimes ?** Car le pluriel s’impose puisqu’ il y a une mort d’homme affligeante et une atteinte sournoise et toxique à la vie de ceux qui nous succèderons. 
+**Mesdames et Messieurs de l’ASA du Morvan**, vous faîtes partie du XXI siècles et **vous seriez des pousses aux crimes ?** Car le pluriel s’impose puisqu’il y a une mort d’homme affligeante et une atteinte sournoise et toxique à la vie de ceux qui nous succèderons. 
 
 **Nous demandons que de ce rallye n’ait plus lieu. Nous demandons qu’un désaveu public soit exprimé** venant des responsables politiques de la région et des responsables des parcs naturels. **Nous soutenons les demandes d’une orientation du tourisme local, départemental et régional hors de ces pratiques**, plus de promotion, plus de relai pour ces activités quel que soit le lieu.
 
 Des responsabilités morales et pénales sont encourues pour mise en danger de la vie d’autrui.
 
 *FNE-BFC Contact hervé bellimaz 06 43 03 29 41*
-
 
 *Et
 Vigilance Nature Environnement.*

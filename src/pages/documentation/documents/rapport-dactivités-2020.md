@@ -8,4 +8,4 @@ category: Rapports d'activités
 ---
 Le rapport d'activités 2020 de France Nature Environnement Bourgogne Franche-Comté
 
-<a href="/img/rapport-activite-2020.pdf" target="_blank">FNEBFC - Rapport d'activités 2020</a>
+Lien : <a href="/img/rapport-activite-2020.pdf" target="_blank">FNEBFC - Rapport d'activités 2020</a>

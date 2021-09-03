@@ -20,18 +20,17 @@ Vous vous interrogez sur votre assiette de demain ? Inscrivez-vous à la soirée
 \
 Intervenant·e·s* :
 
-* Colette Prévost, secrétaire, FNE Côte d’Or\
-* Blandine Aubert, directrice régionale, ADEME Bourgogne-Franche-Comté\
-* Patrice Chateau, conseiller municipal, Ville de Dijon\
-* Mathilde Mouchet, coordinatrice de projet, Conseil Départemental de Côte d’Or\
-  *La liste des intervenant·e·s peut évoluer.\
-  \
-  Le Débat Public Bourgogne Franche-Comté est un programme de FNE Bourgogne Franche-Comté financé par la Région Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté. Plus d’informations : <https://www.fne-bfc.fr/nos-actions/programmes/d%C3%A9bat-public/>\
-  \
-  ---\
-  ---\
-  7 octobre 2021 de 19h à 22h30\
-  Salle de la Nef - 1 place du Théâtre 21000 DIJON\
-  Pass sanitaire et inscription obligatoires pour assister à cet évènement : <https://linktr.ee/DebatPublicBFC>
+* Colette Prévost, secrétaire, FNE Côte d’Or ; 
+* Blandine Aubert, directrice régionale, ADEME Bourgogne-Franche-Comté ; 
+* Patrice Chateau, conseiller municipal, Ville de Dijon ; 
+* Mathilde Mouchet, coordinatrice de projet, Conseil Départemental de Côte d’Or.
+
+\*La liste des intervenant·e·s peut évoluer.
+
+Le Débat Public Bourgogne Franche-Comté est un programme de FNE Bourgogne Franche-Comté financé par la Région Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté. Plus d’informations : <https://www.fne-bfc.fr/nos-actions/programmes/d%C3%A9bat-public/>
+
+7 octobre 2021 de 19h à 22h30\
+Salle de la Nef - 1 place du Théâtre 21000 DIJON\
+Pass sanitaire et inscription obligatoires pour assister à cet évènement : <https://linktr.ee/DebatPublicBFC>
 
 <!--EndFragment-->

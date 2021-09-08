@@ -5,6 +5,7 @@ date: 2021-09-08T10:20:33.503Z
 description: Le Débat Public Bourgogne Franche-Comté et FNE Côte-d’Or ont le
   plaisir de vous inviter au débat public qui aura lieu le 7 octobre 2021 à
   Dijon sur le thème « Quelle assiette pour demain ? ».
+featuredimage: /img/2021_rs-dp-bfc_.png
 tags:
   - Agriculture
   - Territoire

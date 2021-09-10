@@ -4,7 +4,7 @@ title: "Inscriptions au Débat Public : Quelle assiette pour demain ?"
 date: 2021-09-08T12:23:56.801Z
 description: "Inscrivez-vous dès aujourd'hui au Débat Public : Quelle assiette
   pour demain ?"
-featuredimage: /img/2021_miniature-site-dp-bfc_alimentation.png
+featuredimage: /img/copie-de-copie-de-2021_miniature-site-dp-bfc_.png
 tags:
   - Agriculture
   - Territoire

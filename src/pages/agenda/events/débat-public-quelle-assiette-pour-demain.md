@@ -14,8 +14,6 @@ Le Débat Public Bourgogne Franche-Comté et FNE Côte-d’Or ont le plaisir de 
 
 ![Affiche Débat Public : Quelle assiette pour demain ?](/img/2021_affiche-dp-bfc_alimentation.png?nf_resize=fit&w=200#img-center "Affiche Débat Public : Quelle assiette pour demain ?")
 
-\
-\
 L’alimentation est au cœur de notre quotidien. Les différents scandales sanitaires, l’impact écologique, et même la crise que nous traversons aujourd’hui interrogent sur nos modes de consommation, nos attentes et nos besoins. Comment évoluent-ils ? Quels sont les impacts de notre alimentation sur notre santé et sur notre environnement ? Quel rôle chacun peut jouer dans l’amélioration des pratiques ?\
 Vous vous interrogez sur votre assiette de demain ? Inscrivez-vous à la soirée débat : <https://forms.gle/KZSk34fJFat5kS8A9>\
 \

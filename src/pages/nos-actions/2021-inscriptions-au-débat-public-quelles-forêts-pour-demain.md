@@ -3,7 +3,7 @@ templateKey: action-post
 title: "Inscriptions au Débat Public : Quelles forêts pour demain ?"
 date: 2021-09-13T08:44:03.858Z
 description: "Inscrivez-vous dès aujourd'hui au Débat Public : Quelles forêts pour demain ?"
-featuredimage: /img/2021_miniature-site-dp-bfc_forêt.png
+featuredimage: /img/2021_miniature-site-dp-bfc_forêt-1-.png
 tags:
   - Forêt
   - Agriculture

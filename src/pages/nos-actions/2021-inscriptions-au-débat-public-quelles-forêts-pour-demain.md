@@ -19,7 +19,7 @@ INSCRIPTION : [](https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2FKZSk34
 
 Le Débat Public Bourgogne Franche-Comté, la CAPEN 71 (FNE Saône-et-Loire) et Autun Morvan Écologie ont le plaisir de vous inviter au débat public qui aura lieu le mercredi 20 octobre 2021 à Autun sur le thème « Quelles forêts pour demain ? ».
 
-![Débat Public : Quelles forêts pour demain ?](/img/2021_affiche-dp-bfc_forêt.png?nf_resize=fit&w=350?nf_resize=fit&w=350#img-center "Débat Public : Quelles forêts pour demain ?")
+![Débat Public : Quelles forêts pour demain ?](/img/2021_affiche-dp-bfc_forêt.png#img-center "Débat Public : Quelles forêts pour demain ?")
 
 En France, les forêts couvrent aujourd’hui environ 16,9 millions d’hectares soit 31% du territoire. Les ¾ des forêts appartiennent à des propriétaires forestiers privés et le quart restant est public. Elles jouent un rôle majeur par leur place essentielle dans notre environnement comme dans la vie économique et sociale et dans notre perception de la nature. Les forêts sont au cœur des politiques publiques et l’action publique étant considérée de façon globale, se pose la question de l’adaptation de la politique forestière nationale au contexte local.
 

@@ -14,4 +14,4 @@ Inscription obligatoire et renseignements auprès de :
 France Nature Environnement Bourgogne Franche-Comté\
 Tél.: 06 58 65 65 91 – Mail: animation.biodiversite@fne-bfc.fr
 
-![Affiche de la journée de collecte](/img/affiche_collecte_rnr_fontenelay.jpg?nf_resize=fit&w=40?nf_resize=fit&w=400#center "Affiche de la journée de collecte")
+![Affiche de la journée de collecte](/img/affiche_collecte_rnr_fontenelay.jpg?nf_resize=fit&w=40?nf_resize=fit&w=200#center "Affiche de la journée de collecte")

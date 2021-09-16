@@ -29,7 +29,6 @@ Intervenant·e·s* :
 
 * Tristan Susse, expert forestier, Cabinet Susse ;
 * François Janex, directeur, Centre Régional de la Propriété Forestière Bourgogne-Franche-Comté ;
-* André Paris, adjoint au directeur régional, Office Français de la Biodiversité ;
 * Sylvain Mathieu, vice-président en charge de la filière bois, de la forêt, de la montagne et des parcs, Région Bourgogne-Franche-Comté et président, Parc Naturel Régional du Morvan ;
 * Lucienne Haese, membre, Autun Morvan Écologie ;
 * Pierre Mathé, maître artisan, Artisans Bois Morvan ;

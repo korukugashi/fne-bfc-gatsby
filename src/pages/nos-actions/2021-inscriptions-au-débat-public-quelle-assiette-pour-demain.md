@@ -13,7 +13,7 @@ tags:
 
 Pass sanitaire et inscription obligatoires pour assister à cet évènement.
 
-INSCRIPTION : [https://forms.gle/KZSk34fJFat5kS8A9](https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2FKZSk34fJFat5kS8A9%3Ffbclid%3DIwAR3lReOEpSlK2kPanv_90DuSiycRMGG3_ufd5QRpi9aAzq664qMWyBBzxP0&h=AT1ePko1c6uLktVVrJUqjAkGcNgaV7n1AvMdi57ygkPcyB5mMRrrudJo0T8XCc0xLFcriR1_4uFZaVc7y4Psw_fW7uIPwLCYvh7IcF9dfVE6HHjL4gd3lHAynz9GAS3y7A&__tn__=q&c[0]=AT3kFlynmCM03YubbmZAcYA0IpsQYQkJXLEYtEycvzPXfCBQgHvfvcKTRffF6l9N_88Y_wjVJstJc6xXpYgec3M1C-l7tmh78eWWAeHkHKpOuQe_ken6XZHzHDnqOr5FD7rURCXvDOnlLbC_tKBMZeS4qpdVcCaxyzKu_9CU5pDCkvE-)
+INSCRIPTION : <https://forms.gle/KZSk34fJFat5kS8A9>
 
 \---
 

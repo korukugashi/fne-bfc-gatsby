@@ -10,7 +10,7 @@ tags:
 La saison de collecte de graines Végétal local a déjà bien démarré et vous trouverez ci-dessous un calendrier afin que vous puissiez choisir le ou les chantiers qui vous intéressent.\
 Les inscriptions et les demandes de renseignements se font auprès des animateurs.
 
-
+\---
 
 **18/09** - Réserve Naturelle Régionale du Vallon de Fontenelay (70) - FNE BFC - Jocelyn Mazuel - 06 58 65 65 91
 
@@ -48,8 +48,6 @@ Les inscriptions et les demandes de renseignements se font auprès des animateur
 
 **27/10** – Secteur Clairvaux-les-Lacs (39) - JNE - Pierre-Alexis Nizan - 06 28 36 10 31 - pierrealexis@jne.asso.fr
 
-
-
-
+\---
 
 Pour rappel ces sorties sont gratuites, ouvertes à toutes et à tous. Prévoyez des chaussures de marche, des vêtements adaptés et éventuellement des gants.

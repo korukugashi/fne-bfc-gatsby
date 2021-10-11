@@ -32,7 +32,9 @@ Intervenant·e·s* :
 * Sylvain Mathieu, vice-président en charge de la filière bois, de la forêt, de la montagne et des parcs, Région Bourgogne-Franche-Comté et président, Parc Naturel Régional du Morvan ;
 * Lucienne Haese, membre, Autun Morvan Écologie ;
 * Pierre Mathé, maître artisan, Artisans Bois Morvan ;
-* Vincent Chauvet, maire, Ville d'Autun et président, Groupement pour une Gestion Responsable de Forêts Bourguignonnes.
+* Vincent Chauvet, maire, Ville d'Autun et président, Groupement pour une Gestion Responsable de Forêts Bourguignonnes ;
+* Luc Terraz, directeur, Agence Régional de la Biodiversité Bourgogne-Franche-Comté ;
+* Lilian Duband, chargé de mission changements climatiques : reconstitution et sylviculture, Office National des Forêts Bourgogne Franche-Comté.
 
 \*La liste des intervenant·e·s peut évoluer.
 

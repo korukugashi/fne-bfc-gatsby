@@ -1,7 +1,7 @@
 ---
 templateKey: agenda
 date: 2021-10-25T12:00:00.000Z
-title: Semaine de la chauve-souris
+title: Semaine de la chauve-souris - Dijon
 location: Dijon - Latitude 21
 duration: 15h-20h
 ---

@@ -16,16 +16,12 @@ L’automne c’est le moment de les observer constituant leurs réserves, avant
 
 Attention à ne pas les déranger pendant leur hibernation, cela pourrait leur être fatal.
 
-Pour plus d’informations sur la biologie de ce petit mammifère et avoir quelques conseils pratiques, nous vous invitons à venir [consulter notre site web](https://www.fne2590.org/fr/actions/veille-environnementale/operation-recensement-du-herisson)
+Pour plus d’informations sur la biologie de ce petit mammifère et avoir quelques conseils pratiques, nous vous invitons à [consulter le site web de FNE25-90](https://www.fne2590.org/fr/actions/veille-environnementale/operation-recensement-du-herisson)
 
 Pour nous aider à protéger ce petit mammifère, partagez cette campagne au plus grand nombre, où que ce soit en France !
 
 [L'article Facebook est également disponible ici](https://fr-fr.facebook.com/pg/fne2590/posts/?ref=page_internal)
 
-
-
 (Merci à Emilie L. pour sa photo !)
-
-
 
 ![](/img/1132-lacroix-emilie-2021-05-24-3-.jpg?nf_resize=fit&w=400#center)

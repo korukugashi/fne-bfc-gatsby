@@ -7,6 +7,7 @@ description: >-
   Article de France Culture - 
 
   La cellule de gendarmerie Demeter est accusée par les associations environnementales de vouloir bâillonner toute critique de l'agriculture intensive. 
+featuredimage: /img/838_photo-1-lionel-bonaventure-afp.webp
 tags:
   - Agriculture
 ---

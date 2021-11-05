@@ -6,7 +6,9 @@ file: /img/logo-colloque-castor.jpg
 photo: /img/logo-colloque-castor.jpg
 category: Colloque Castor 18 & 19 nov. 2021
 ---
-<a href="/img/programme-détaillé-colloque-castor-fne-bfc.pdf" target="_blank">Programme détaillé du colloque castor</a>
+<a href="/img/fne-colloque-castor-livret-accueil-web.pdf" target="_blank">Programme détaillé du colloque castor</a>
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 

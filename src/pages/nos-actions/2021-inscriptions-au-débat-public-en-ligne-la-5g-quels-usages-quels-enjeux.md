@@ -15,7 +15,7 @@ INSCRIPTION : <https://forms.gle/TQ2FBapwcf1g3TX96>
 
 \---
 
-Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter le 9 décembre 2021 en visioconférence pour un débat sur le thème « La 5G, quels usages ? quels enjeux ?  ».
+Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter le 9 décembre 2021 en visioconférence pour un débat sur le thème « La 5G, quels usages ? quels enjeux ? ». Ce débat est organisé avec le soutien d'Agir pour l'Environnement et de France Nature Environnement.
 
 ![Affiche DP 5G](/img/2021_affiche-dp-bfc_5g_400px.jpg#img-center "Affiche DP 5G")
 
@@ -27,7 +27,7 @@ La technologie 5G, déployée en France depuis 2020, est présentée comme facte
 
 *<https://www.arcep.fr/cartes-et-donnees/nos-cartes/deploiement-5g/observatoire-du-deploiement-5g-mars-2021.html>*
 
-*[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX%3E1653#_ftnref2)<https://www.arcep.fr/fileadmin/cru-1633356793/user_upload/observatoire/5G-deploiements/mars-2021/Observatoire5G_Bourgogne-Franche-Comte_16032021.pdf>*
+[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX%3E1653#_ftnref2)*<https://www.arcep.fr/fileadmin/cru-1633356793/user_upload/observatoire/5G-deploiements/mars-2021/Observatoire5G_Bourgogne-Franche-Comte_16032021.pdf>*
 
 ## Intervenant.e.s* :
 

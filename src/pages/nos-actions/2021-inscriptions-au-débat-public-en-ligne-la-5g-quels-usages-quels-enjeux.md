@@ -35,7 +35,7 @@ La technologie 5G, déployée en France depuis 2020, est présentée comme facte
 
 \- Christophe Bolard, Priartem ; 
 
-\- Dominique Bouillier, Professeur des Universités spécialiste des usages du numérique et des technologies cognitives ; 
+\- Dominique Boullier, Professeur des Universités spécialiste des usages du numérique et des technologies cognitives ; 
 
 \- Pierre Jannin, conseiller municipal, Rennes ; 
 

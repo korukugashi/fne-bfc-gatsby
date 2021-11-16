@@ -11,7 +11,7 @@ INSCRIPTION : <https://forms.gle/TQ2FBapwcf1g3TX96>
 
 \---
 
-Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter le 9 décembre 2021 en visioconférence pour un débat sur le thème « La 5G, quels usages ? quels enjeux ? ».
+Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter le 9 décembre 2021 en visioconférence pour un débat sur le thème « La 5G, quels usages ? quels enjeux ? ». Ce débat est organisé avec le soutien d'Agir pour l'Environnement et de France Nature Environnement.
 
 ![Affiche DP 5G](/img/2021_affiche-dp-bfc_5g_400px.jpg#img-center "Affiche DP 5G")
 

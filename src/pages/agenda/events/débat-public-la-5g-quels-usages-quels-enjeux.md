@@ -11,7 +11,7 @@ INSCRIPTION : <https://forms.gle/TQ2FBapwcf1g3TX96>
 
 \---
 
-Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter le 9 décembre 2021 en visioconférence pour un débat sur le thème « La 5G, quels usages ? Quels enjeux ? ». Ce débat est organisé avec le soutien d'Agir pour l'Environnement et de France Nature Environnement.
+Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter jeudi 9 décembre 2021 en visioconférence pour un débat « La 5G, quels usages ? Quels enjeux ? ». Ce débat est organisé avec le soutien d'Agir pour l'Environnement et de France Nature Environnement.
 
 ![Affiche DP 5G](/img/2021_affiche-dp-bfc_5g_400px.jpg#img-center "Affiche DP 5G")
 
@@ -29,15 +29,17 @@ La technologie 5G, déployée en France depuis 2020, est présentée comme facte
 
 \- Fédération Française des Télécoms ; 
 
+\- Jean-Benoit Agnani, ANFR
+
 \- Christophe Bolard, Priartem ; 
 
-\- Dominique Boullier, Professeur des Universités spécialiste des usages du numérique et des technologies cognitives ; 
+\- Dominique Boullier, professeur des universités et spécialiste des usages du numérique et des technologies cognitives ; 
 
 \- Pierre Jannin, conseiller municipal, Rennes ; 
 
 \- Caroline Sohn, GreenIT ; 
 
-\- Bela Loto Hiffler, Point De M.I.R, maison de l'informatique responsable.
+\- Bela Loto Hiffler, Maison de l'Informatique Responsable.
 
 \*La liste des intervenants peut évoluer.
 

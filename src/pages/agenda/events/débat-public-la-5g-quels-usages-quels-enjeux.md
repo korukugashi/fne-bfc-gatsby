@@ -1,7 +1,7 @@
 ---
 templateKey: agenda
 date: 2021-12-09T18:00:00.000Z
-title: "Débat public en ligne :  La 5G, quels usages ? Quels enjeux ?"
+title: "Webinaire :  La 5G, quels usages ? Quels enjeux ?"
 location: En ligne
 duration: 19h-21h
 ---
@@ -11,9 +11,9 @@ INSCRIPTION : <https://forms.gle/TQ2FBapwcf1g3TX96>
 
 \---
 
-Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter jeudi 9 décembre 2021 en visioconférence pour un débat « La 5G, quels usages ? Quels enjeux ? ». Ce débat est organisé avec le soutien d'Agir pour l'Environnement et de France Nature Environnement.
+Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter le 9 décembre 2021 au webinaire « La 5G, quels usages ? quels enjeux ? ». Cette conférence est organisée avec le soutien d'Agir pour l'Environnement et de France Nature Environnement.
 
-![Affiche DP 5G](/img/2021_affiche-dp-bfc_5g_400px.jpg#img-center "Affiche DP 5G")
+![Affiche DP 5G](/img/2021_affiche-dp-bfc_5g-2-.jpg#img-center "Affiche DP 5G")
 
 ## Thématique :
 
@@ -27,19 +27,14 @@ La technologie 5G, déployée en France depuis 2020, est présentée comme facte
 
 ## Intervenant.e.s* :
 
-\- Fédération Française des Télécoms ; 
-
-\- Jean-Benoit Agnani, ANFR
-
-\- Christophe Bolard, Priartem ; 
-
-\- Dominique Boullier, professeur des universités et spécialiste des usages du numérique et des technologies cognitives ; 
-
-\- Pierre Jannin, conseiller municipal, Rennes ; 
-
-\- Caroline Sohn, GreenIT ; 
-
-\- Bela Loto Hiffler, Maison de l'Informatique Responsable.
+* Fédération Française des Télécoms (FFTélécoms)
+* Christophe Bolard, Priartem
+* Dominique Boullier, professeur des universités et spécialiste des usages du numérique et des technologies cognitives
+* Jean-Benoît Agnani, ANFR
+* Olivier Merckel, Agence nationale de sécurité sanitaire - Anses
+* Pierre Jannin, conseiller municipal de Rennes
+* Caroline SOHN, GreenIT.fr
+* Bela Loto, Point De M.I.R, maison de l'informatique responsable
 
 \*La liste des intervenants peut évoluer.
 

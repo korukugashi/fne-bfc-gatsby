@@ -9,6 +9,8 @@ featuredimage: /img/2021_miniature-site-dp-bfc_éolien.jpg
 tags:
   - Transports et Energie
 ---
+<!--StartFragment-->
+
 Pass sanitaire et inscription obligatoires pour assister à cet évènement.
 
 INSCRIPTION : <https://forms.gle/tSzrKkn75vx8cmds8>
@@ -55,3 +57,5 @@ Ce débat est organisé avec le soutien technique et financier de l’ADEME dans
 Pass sanitaire et inscription obligatoires pour assister à cet évènement.
 
 INSCRIPTION : <https://forms.gle/tSzrKkn75vx8cmds8>
+
+<!--EndFragment-->

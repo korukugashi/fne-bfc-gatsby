@@ -8,6 +8,7 @@ description: "Inscrivez-vous dès aujourd'hui au Débat Public : Éolien, quel
 featuredimage: /img/2021_miniature-site-dp-bfc_éolien.jpg
 tags:
   - Transports et Energie
+  - Territoire
 ---
 <!--StartFragment-->
 

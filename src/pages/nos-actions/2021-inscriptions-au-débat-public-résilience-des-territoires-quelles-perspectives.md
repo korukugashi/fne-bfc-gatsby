@@ -42,15 +42,13 @@ La France, engagée pour la transition écologique, s’est fixée des objectifs
 
 \*La liste des intervenants peut évoluer.
 
-
-
 - - -
 
 Ce débat est organisé avec le soutien technique et financier de l’ADEME dans le cadre du [Grand Défi Écologique](https://www.legranddefiecologique.ademe.fr/). Le Débat Public Bourgogne Franche-Comté est un programme de FNE Bourgogne Franche-Comté financé par la Région Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté. [Plus d’informations](https://www.fne-bfc.fr/nos.../programmes/d%C3%A9bat-public/).
 
 - - -
 
-Pass sanitaire et inscription obligatoires pour assister à cet évènement.
+Inscription obligatoire pour assister à cet évènement.
 
 INSCRIPTION : <https://forms.gle/weksq2vpPAcxtKEZ8>
 

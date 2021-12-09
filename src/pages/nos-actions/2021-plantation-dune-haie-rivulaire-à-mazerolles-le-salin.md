@@ -2,13 +2,14 @@
 templateKey: action-post
 title: Plantation d'une haie rivulaire à Mazerolles-le-Salin
 date: 2021-12-09T10:20:59.920Z
-description: |-
-  Retour sur une plantation de haie à Mazerolles-le-Salin
-  Végétal local
-  France Nature environnement Bourgogne-Franche-Comté
-  FNE BFC
+description: >-
+  Retour sur une plantation de haie à Mazerolles-le-Salin de 400 mètres
+  linéaires avec 79 % de 
+
+  Végétal local par France Nature environnement Bourgogne-Franche-Comté
 tags:
   - Haies et arbres têtards
+  - Végétal local
 ---
 FNE BFC a réalisé la plantation d'une une haie sur 2 rangs de 400 mètres linéaires de part et d’autre du ruisseau de Noironte. La chantier a eu lieu mardi 7 décembre 2021
 

@@ -7,6 +7,7 @@ description: >-
   linéaires avec 79 % de 
 
   Végétal local par France Nature environnement Bourgogne-Franche-Comté
+featuredimage: /img/img-3949.jpg
 tags:
   - Haies et arbres têtards
   - Végétal local

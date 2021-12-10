@@ -6,7 +6,7 @@ description: >-
   Retour sur une plantation de haie à Mazerolles-le-Salin de 400 mètres
   linéaires avec 79 % de 
 
-  Végétal local par France Nature environnement Bourgogne-Franche-Comté
+  Végétal local par France Nature Environnement Bourgogne-Franche-Comté
 featuredimage: /img/img-3949.jpg
 tags:
   - Haies et arbres têtards

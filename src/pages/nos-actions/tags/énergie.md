@@ -1,5 +1,5 @@
 ---
 templateKey: actions-tags
-label: Tourisme
-image: /img/travel-bag.svg
+label: Hérisson
+image: /img/noun-hedgehog-2755602.png
 ---

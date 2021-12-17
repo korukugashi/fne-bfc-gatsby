@@ -8,6 +8,7 @@ description: Pour fêter le lancement du nouveau site de FNE national, ça vous
 featuredimage: /img/plan-de-travail-1.png
 tags:
   - Vie associative
+  - Hérisson
 ---
 ### [Article de FNE National](https://fne.asso.fr/actualite/chasse-au-tresor-parviendrez-vous-a-trouver-les-herissons-caches)
 

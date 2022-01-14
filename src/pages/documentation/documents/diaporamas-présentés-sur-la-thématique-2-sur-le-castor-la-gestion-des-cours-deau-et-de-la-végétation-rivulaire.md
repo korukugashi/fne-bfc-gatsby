@@ -13,3 +13,5 @@ entre les activités humaines et le castor : de la gestion de la ripisylve aux e
 <a href="/img/colloque-castor_fne_2021_lpo-cabcs.pdf" target="_blank">Suivi et médiation ; anticiper les conflits et l’approche par collectivité, l’exemple du Grand Beaune - REVILLON, GONCALVEZ</a>
 
 <a href="/img/colloque_castor_dole_geml2021.pdf" target="_blank">Actions du Plan Régional d’Action du Grand Est - GOBERT</a>
+
+<a href="/img/présentation-ofb-terrier-artificiel-light.pdf" target="_blank">Installation de terriers artificiels sur le canal des Vosges - GUIGUITANT</a>

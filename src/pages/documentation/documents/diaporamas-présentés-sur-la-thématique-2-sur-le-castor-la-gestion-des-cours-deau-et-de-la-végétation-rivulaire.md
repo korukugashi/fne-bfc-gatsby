@@ -15,3 +15,5 @@ entre les activités humaines et le castor : de la gestion de la ripisylve aux e
 <a href="/img/colloque_castor_dole_geml2021.pdf" target="_blank">Actions du Plan Régional d’Action du Grand Est - GOBERT</a>
 
 <a href="/img/présentation-ofb-terrier-artificiel-light.pdf" target="_blank">Installation de terriers artificiels sur le canal des Vosges - GUIGUITANT</a>
+
+<a href="/img/2021_losinger_combaz.pdf" target="_blank">Cohabitation du castor en Chautagne, plus grande peupleraie domaniale de France (73) - LOSINGER, COMBAZ, BRESSAN</a>

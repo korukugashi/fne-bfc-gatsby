@@ -15,6 +15,7 @@ description: "Le 30 novembre 2021 a eu lieu la journée de lancement du programm
 featuredimage: /img/img_20220111_114338.jpg
 tags:
   - Territoire
+  - Low-tech
 ---
 
 

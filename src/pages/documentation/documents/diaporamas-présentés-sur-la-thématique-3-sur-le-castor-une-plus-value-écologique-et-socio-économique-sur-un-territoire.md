@@ -8,3 +8,5 @@ photo: /img/logo-colloque-castor.jpg
 category: Colloque Castor 18 & 19 nov. 2021
 ---
 Retour d’expériences sur des cas où le castor contribue à l’amélioration de la biodiversité : le castor, un atout pour la biodiversité et l’image d’un territoire.
+
+<a href="/img/intervention-castor-biodiversité-jne-shna_dl.pdf" target="_blank">Premiers suivis de l’impact du castor sur la biodiversité dans le cadre du Plan régional d’action Castor en Bourgogne-Franche-Comté - LERAT, DAMS</a>

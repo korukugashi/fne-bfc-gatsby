@@ -16,6 +16,8 @@ featuredimage: /img/img_20220111_114338.jpg
 tags:
   - Territoire
   - Low-tech
+  - Communs
+  - Sobriété
 ---
 
 

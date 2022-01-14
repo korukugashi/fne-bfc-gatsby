@@ -13,8 +13,10 @@ et son habitat : du national au local, il
 existe différentes échelles d’action pour travailler
 sur le cas du castor.
 
-<a href="/img/colloquecastor_bressan_legoff_ruys_15102021.pdf" target="_blank">Situation du Castor en France et réseaux de travail associés - BRESSAN, LE GOFF, RUYS</a>
+- <a href="/img/colloquecastor_bressan_legoff_ruys_15102021.pdf" target="_blank">Situation du Castor en France et réseaux de travail associés - BRESSAN, LE GOFF, RUYS</a>
 
-<a href="/img/2021_11_18_colloque_castor_dole_pra_castor.pdf" target="_blank">Présentation du Plan Régional d’Action du Grand Est et de la stratégie d’action régionale - THOUVENOT, SCHWOERER</a>
+- <a href="/img/2021_11_18_colloque_castor_dole_pra_castor.pdf" target="_blank">Présentation du Plan Régional d’Action du Grand Est et de la stratégie d’action régionale - THOUVENOT, SCHWOERER</a>
 
-<a href="/img/2021118_présentation_ccbd_loparvi_apie_epage_vf.pdf" target="_blank">La gestion globale du castor à l’échelle des bassins versants : l’exemple d’un plan de gestion de bassin versant pour l’anticipation des conflits d’usage et la restauration des continuités écologiques en faveur du castor - RICHARD, QUESADA, LEROY, JEUDY</a>
+- <a href="/img/2021118_présentation_ccbd_loparvi_apie_epage_vf.pdf" target="_blank">La gestion globale du castor à l’échelle des bassins versants : l’exemple d’un plan de gestion de bassin versant pour l’anticipation des conflits d’usage et la restauration des continuités écologiques en faveur du castor - RICHARD, QUESADA, LEROY, JEUDY</a>
+
+- <a href="/img/20211118_colloque-castor-france.pdf" target="_blank">Prise en compte et gestion du castor en Suisse - ANGST</a>

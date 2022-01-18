@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2022-01-14T08:43:52.028Z
-title: Diaporamas présentés sur la thématique 3 sur le castor, une plus- value
+title: Diaporamas présentés sur la thématique 3 sur le castor, une plus-value
   écologique et socio-économique sur un territoire
 file: /img/logo-colloque-castor.jpg
 photo: /img/logo-colloque-castor.jpg

@@ -19,9 +19,7 @@ tags:
   - Communs
   - Sobriété
 ---
-
-
-Le 30 novembre 2021, un peu moins d'une centaine de personnes ont assisté à la journée de lancement du programme Transition Action à Besançon. Cette journée a permis une première rencontre entre acteurs et actrices du territoire souhaitant s'engager dans la sobriété, les low-tech et les communs. Retrouvez le diaporama de présentation de la journée et du programme **ici**.
+Le 30 novembre 2021, un peu moins d'une centaine de personnes ont assisté à la journée de lancement du programme Transition Action à Besançon. Cette journée a permis une première rencontre entre acteurs et actrices du territoire souhaitant s'engager dans la sobriété, les low-tech et les communs. Retrouvez le diaporama de présentation de la journée et du programme **ici.** Un compte-rendu plus complet de la journée est également disponible en version PDF [ici](https://www.fne-bfc.fr/img/cr-journ%C3%A9e-ta-3011.pdf) (merci aux membres de [La MYNE](https://www.lamyne.org/) pour leur prise de notes et le partage de celle-ci !).
 
 ## **Trois sujets, quatre spécialistes pour les présenter**
 

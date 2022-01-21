@@ -12,7 +12,7 @@ tags:
   - Haies et arbres têtards
   - Végétal local
 ---
-FNE BFC a réalisé la plantation d'une une haie sur 2 rangs de 400 mètres linéaires de part et d’autre du ruisseau de Noironte. La chantier a eu lieu mardi 7 décembre 2021.
+FNE BFC a réalisé la plantation d'une une haie sur 2 rangs de 400 mètres linéaires de part et d’autre du ruisseau de Noironte. Le chantier a eu lieu mardi 7 décembre 2021.
 
 Un total de 12 essences différentes compose cette haie (Aulne glutineux, Cerisier à grappe, Sureau noir, Noisetier, Fusain d'Europe, ....). Afin de garantir l’origine génétique locale et sauvage des plants, notons que pour cette plantation, **79% des plants sont issus de la marque Végétal local**.
 

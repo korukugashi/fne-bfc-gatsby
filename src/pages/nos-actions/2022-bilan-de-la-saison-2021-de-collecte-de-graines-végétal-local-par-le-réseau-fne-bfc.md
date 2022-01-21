@@ -33,7 +33,7 @@ Bénéficiaire de la marque depuis cinq ans, notre association FNE BFC **partici
 
 Nous nous appuyons sur un réseau d’acteur.rice.s local : **six associations départementales**, **dix pépinières** ainsi que de nombreu.x.ses **bénévoles formé.e.s** (Figure 1).
 
-![Figure 1 : Acteurs professionnels participant à la filière Végétal local avec le réseau FNE BFC](/img/carto.jpg#center "Figure 1 : Acteurs professionnels participant à la filière Végétal local avec le réseau FNE BFC")
+![Figure 1 : Acteurs professionnels participant à la filière Végétal local avec le réseau FNE BFC](/img/carto-acteurs.jpg#center "Figure 1 : Acteurs professionnels participant à la filière Végétal local avec le réseau FNE BFC")
 
 > Figure 1 : Acteurs professionnels participant à la filière Végétal local avec le réseau FNE BFC
 
@@ -159,7 +159,7 @@ Pour **l'hiver 2021/2022, les fédérations du réseau FNE BFC vont planter 10 0
 
 **Nous mettons tout en œuvre** pour que cette filière **se pérennise** et soit viable économiquement à court terme.
 
-Nous espérons vous voir encore plus nombreux.ses pour la saison de collecte 2021 qui s’annonce déjà bien chargée.
+Nous espérons vous voir encore plus nombreux.ses pour la saison de collecte 2022 qui s’annonce déjà bien chargée.
 
 Grâce à vous, la biodiversité prend racine !
 

@@ -6,7 +6,7 @@ date: 2022-01-25T15:54:43.685Z
 description: "Inscrivez-vous dès aujourd'hui au Débat Public : Réimplanter la
   production maraichère sur le territoire, quels enjeux ? Quelles perspectives
   ?"
-featuredimage: /img/2022_miniature-site-dp-bfc_relocalisation.png
+featuredimage: ""
 tags:
   - Agriculture
   - Territoire

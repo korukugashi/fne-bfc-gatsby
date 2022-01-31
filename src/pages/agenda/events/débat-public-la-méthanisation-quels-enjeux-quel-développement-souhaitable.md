@@ -42,6 +42,8 @@ Toutefois, la méthanisation soulève des questions sociétales et environnement
 
 \- Valérie Poncin, Conseil de Développement Grand Bourg Agglomération
 
+\- Xavier Fromont, Conféréation paysanne de l'Ain
+
 \- Battle Karimi, Novasol Experts
 
 *\*La liste des intervenant·e·s peut évoluer.*

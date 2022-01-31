@@ -1,6 +1,6 @@
 ---
 templateKey: action-post
-title: "Inscriptions au Débat Public : Réimplanter la production maraichère sur
+title: "Inscriptions au Débat Public : Réorganiser la production maraichère sur
   le territoire"
 date: 2022-01-25T15:54:43.685Z
 description: "Inscrivez-vous dès aujourd'hui au Débat Public : Réorganiser la

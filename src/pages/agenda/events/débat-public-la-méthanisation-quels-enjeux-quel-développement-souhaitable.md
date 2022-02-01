@@ -8,7 +8,7 @@ duration: 14h à 17h
 ---
 <!--StartFragment-->
 
-Pass sanitaire et inscription obligatoires pour assister à cet évènement.
+Pass vaccinal et inscription obligatoires pour assister à cet évènement.
 
 INSCRIPTION : <https://forms.gle/9Mw25iVP3KfSZJDv8>
 
@@ -28,23 +28,18 @@ Toutefois, la méthanisation soulève des questions sociétales et environnement
 
 #### Intervenant·e·s* :
 
-\- Jean-Pierre Lemiere, MéthAnov
+<!--StartFragment-->
 
-\- Claire Mallard, Région Bourgogne Franche-Comté
+* Blandine Aubert, ADEME Bourgogne-Franche-Comté
+* Maximin Bonnet, Chambre d’Agriculture du Jura
+* Battle Karimi, Novasol Experts
+* Jean-Pierre Lemiere, MéthAnov
+* Claire Mallard, Région Bourgogne-Franche-Comté
+* Florence Morin, Opale Energies Naturelles
+* Valérie Poncin, Conseil de Développement Grand Bourg Agglomération
+* Exploitant méthaniseur de la SAS Agroénergie des collines à Gendrey, unité collective en cogénération
 
-\- Blandine Aubert, directrice régionale, ADEME Bourgogne-Franche-Comté
-
-\- Maximin Bonnet, Chambre d’Agriculture du Jura
-
-\- Florence Morin, Opale Energies Naturelles
-
-\- Exploitant méthaniseur de la SAS Agroénergie des collines à Gendrey
-
-\- Valérie Poncin, Conseil de Développement Grand Bourg Agglomération
-
-\- Xavier Fromont, Confédération paysanne de l'Ain
-
-\- Battle Karimi, Novasol Experts
+<!--EndFragment-->
 
 *\*La liste des intervenant·e·s peut évoluer.*
 
@@ -58,7 +53,13 @@ Le [Débat Public Bourgogne Franche-Comté](https://www.fne-bfc.fr/nos-actions/p
 
 - - -
 
-Pass sanitaire et inscription obligatoires pour assister à cet évènement.
+#### Covoiturage :
+
+Vous souhaitez proposer ou trouver un covoiturage pour cet évènement, [cliquez ici](https://covievent.org/covoiturage/debat-public-la-methanisation-quels-enjeux-quel-developpement-souhaitable/abd0dde13905e656b4b3f6b7fc854842) ! 
+
+- - -
+
+Pass vaccinal et inscription obligatoires pour assister à cet évènement.
 
 INSCRIPTION : <https://forms.gle/9Mw25iVP3KfSZJDv8>
 

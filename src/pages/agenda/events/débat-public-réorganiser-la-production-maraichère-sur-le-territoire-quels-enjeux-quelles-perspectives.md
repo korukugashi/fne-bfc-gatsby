@@ -28,7 +28,7 @@ L’agriculture de proximité et la souveraineté alimentaire sont devenues des 
 
 \- Christian Morel, en charge de l’agriculture, de la viticulture et de l’agroalimentaire, Région BFC
 
-\- Confédération paysanne 
+\- Confédération paysanne du Jura
 
 \- Chambre d'agriculture du Jura
 

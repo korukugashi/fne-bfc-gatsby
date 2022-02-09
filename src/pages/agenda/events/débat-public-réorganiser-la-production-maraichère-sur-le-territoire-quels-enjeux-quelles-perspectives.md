@@ -36,7 +36,11 @@ L’agriculture de proximité et la souveraineté alimentaire sont devenues des 
 
 \- Bernard Laubier, Communauté de communes Arbois, Poligny, Salins - Cœur du Jura
 
-\- L'Amap | Saint-Lamain Légumes
+\- L'Amap, Saint-Lamain Légumes
+
+\- Arnaud Thevenier, Chambre d’Agriculture du Jura
+
+\- Frédéric Jacquelin, Interbio
 
 \*La liste des intervenant·e·s peut évoluer.
 

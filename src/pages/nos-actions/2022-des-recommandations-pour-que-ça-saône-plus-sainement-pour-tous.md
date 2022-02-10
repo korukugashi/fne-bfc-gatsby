@@ -257,3 +257,8 @@ Pour mémoire, actuellement il existe un « Contrat de rivière Saône » créé
 [](<>)· Renforcer le maillage des EPAGE et des CLE au niveau du bassin et la coordination de l’EPTB ;
 
 · Mettre en place un grand programme de formation (par un pôle animation interne à l’EPTB) des élus, des établissements publics, des artisans/ industriels ; agriculteurs et forestiers sur le fonctionnement des rivières et des hydrosystèmes, sur la notions des biens communs/hiérarchie des usages ; sur l’adaptation au réchauffement climatiques et les solutions fondées sur la nature. L’adhésion de tous à un grand programme de préservation de la Saône ne pourra avoir lieu sans une culture et un langage communs.
+
+#### Mise en défend des berges 
+*Photos abreuvoir sauvage avant et après*
+
+![](/img/ca-saône-propositions-sos-lrc-dm-finale.jpg?nf_resize=fit&w=400#center)

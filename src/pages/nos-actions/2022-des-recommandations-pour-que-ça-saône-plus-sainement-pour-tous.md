@@ -28,7 +28,7 @@ Pratiqués depuis 40 ans également avec des fossés géants, ils ont aggravé l
 
 *Proposition 1 :*
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Travailler au rebouchage partiel ou total des fossés pour remonter les lignes d’eau par des systèmes de batardeaux dans la plaine alluviale et dans les forêts du bassin Saône.
+· Travailler au rebouchage partiel ou total des fossés pour remonter les lignes d’eau par des systèmes de batardeaux dans la plaine alluviale et dans les forêts du bassin Saône.
 
 ***1.3 - La raréfaction des crues débordantes liée à la gestion automatisée des barrages.***
 
@@ -36,9 +36,7 @@ Depuis les années 1980 la Saône a été progressivement équipée d’une gest
 
 *Proposition 2 :*
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Réétalonner les systèmes de gestion automatique des barrages dans une optique de recharge des nappes. Ce réétalonnage aura pour effet de préserver la biodiversité.
-
-
+· Réétalonner les systèmes de gestion automatique des barrages dans une optique de recharge des nappes. Ce réétalonnage aura pour effet de préserver la biodiversité.
 
 ### **2 Aspects agricoles Le rôle des prairies**
 
@@ -64,9 +62,9 @@ Les nombreuses études économiques professionnelles ont montré que l’intensi
 
 [](<>)*Proposition 4 :*
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Stopper tous les aides et autorisation aux élevages intensifs hors sols au profit d’un soutien massif à l’élevage lait et viande en plein air extensif tout herbe (et 100% en autonomie protéinique locale) ;
+· Stopper tous les aides et autorisation aux élevages intensifs hors sols au profit d’un soutien massif à l’élevage lait et viande en plein air extensif tout herbe (et 100% en autonomie protéinique locale) ;
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Développer un label agricole d’élevage Val de Saône – 100% herbe, 100% autonomie, 100% biologique
+· Développer un label agricole d’élevage Val de Saône – 100% herbe, 100% autonomie, 100% biologique
 
 ***2.3 - Le rôle des haies et des arbres***
 
@@ -74,7 +72,7 @@ Avec les premiers remembrements des années 60 suivis des seconds remembrements,
 
 *Proposition 5 :*
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Mettre en place une politique ambitieuse de préservation et de reconquête des haies sur le val de Saône :
+· Mettre en place une politique ambitieuse de préservation et de reconquête des haies sur le val de Saône :
 
 \- La mise en place et le suivi d’un cadastre interrégional des haies et le développement et ou la mise en conformité l’échelle du bassin versant des SCOT, des PLUI et des PPRI sanctuarisant, les haies et ripisylves existantes (cf. proposition 3),
 
@@ -86,17 +84,17 @@ L’abreuvement de l’élevage en pleine eau conduit à une destruction progres
 
 *Proposition 6 :*
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Intensifier la « mise en défend des berges » et de création et d’aires abreuvement des animaux (par pompage éolien et ou abreuvoir pulsé par les animaux).
+· Intensifier la « mise en défend des berges » et de création et d’aires abreuvement des animaux (par pompage éolien et ou abreuvoir pulsé par les animaux).
 
-### **3 Aspects morphologiques** 
+### **3 Aspects morphologiques**
 
 ***3.1 Le surcreusement du lit***
 
-[](<>)Suite aux extractions de granulats dans le lit mineur pratiquées après la seconde guerre mondiale, la rivière s’est enfoncée dans son lit de plusieurs mètres sur de longs tronçons, provoquant le drainage de sa plaine alluviale. Ce surcreusement a provoqué la déconnexion des petits rus, préjudiciable à la reproduction de plusieurs espèces de poissons. Ce surcreusement augmente la puissance des crues de plein bord, ce qui contribue à aggraver le surcreusement du lit. **Il est à craindre que ce surcreusement parvienne jusqu’à la roche mère, ce qui serait une véritable stérilisation des fonds !** Il estimportant de corriger ce phénomène par des technologies appropriées, peut-être à inventer.
+[](<>)Suite aux extractions de granulats dans le lit mineur pratiquées après la seconde guerre mondiale, la rivière s’est enfoncée dans son lit de plusieurs mètres sur de longs tronçons, provoquant le drainage de sa plaine alluviale. Ce surcreusement a provoqué la déconnexion des petits rus, préjudiciable à la reproduction de plusieurs espèces de poissons. Ce surcreusement augmente la puissance des crues de plein bord, ce qui contribue à aggraver le surcreusement du lit. **Il est à craindre que ce surcreusement parvienne jusqu’à la roche mère, ce qui serait une véritable stérilisation des fonds !** Il est important de corriger ce phénomène par des technologies appropriées, peut-être à inventer.
 
 *Proposition 7 :*
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Développer un plan de recharge du lit mineur avec des technologies appropriées et peut être à inventer.
+· Développer un plan de recharge du lit mineur avec des technologies appropriées et peut être à inventer.
 
 ***3.2 - La préservation de la ripisylves et des embâcles***
 
@@ -106,7 +104,7 @@ Sur le secteur de la Saône amont, VNF (et depuis peu le Conseil département de
 
 · Mettre en place un plan de gestion et de reconstitution de la ripisylve/des embâcles sur l’ensemble de la vallée et des bassins versants.
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Doter les territoires d’équipes d’entretien gérées à l’échelle du bassin versant avec une optique de reconstituer et valoriser ce capital.
+· Doter les territoires d’équipes d’entretien gérées à l’échelle du bassin versant avec une optique de reconstituer et valoriser ce capital.
 
 Par ailleurs une information peut et doit être faite aux usagers de la batellerie d’agrément (par des panneaux d’information et flyers en plusieurs langues) sur l’importance écologique des embâcles et d’une navigation respectueuse du milieu emprunté.
 
@@ -134,7 +132,7 @@ Or le processus de divagation est indispensable à la régénération du lit de 
 
 *Proposition 8 :*
 
-<!--\[if !supportLists]-->· <!--\[endif]-->Mettre en place une politique ambitieuse de préservation et de régénération du lit mineur et des zones annexes (+ cf proposition 3 sur cadastre interrégional et mise en conformité des documents d’urbanisme et PPRI...)
+· Mettre en place une politique ambitieuse de préservation et de régénération du lit mineur et des zones annexes (+ cf proposition 3 sur cadastre interrégional et mise en conformité des documents d’urbanisme et PPRI...)
 
 Un plan global devra être établi pour identifier les tronçons du lit majeur qui devront être sanctuarisés pour permettre cette régénération de la Saône par sa libre divagation.
 
@@ -144,7 +142,7 @@ NB : L’actuel projet de véloroute V50 du conseil départemental 70 entre Corr
 
 ***3.4.1 - Le Brochet***
 
-Cette espèce souffre de la déconnection des petits ruisseaux, des délaissés et du comblement des petites zones humides. Une identification détaillée de ces dysfonctionnements serait utile pour avoir une vue d’ensemble du problème et pouvoir dimensionner un plan d’action pluriannuel adapté.
+Cette espèce souffre de la déconnexion des petits ruisseaux, des délaissés et du comblement des petites zones humides. Une identification détaillée de ces dysfonctionnements serait utile pour avoir une vue d’ensemble du problème et pouvoir dimensionner un plan d’action pluriannuel adapté.
 
 ***3.4.2 - L’Alose feinte du Rhône (Alosa fallax rhodanensis)***
 
@@ -184,8 +182,6 @@ L’action « ça Saône » doit être l’opportunité pour sortir d’un laxis
 
 · Développer un programme Zéro rejets, zéro toxiques dans les secteurs domestiques, industriels et agricoles.
 
-
-
 ### **6** **L’urgence à agir avec le changement climatique**
 
 [](<>)Vu la rapidité du réchauffement climatique et l’ampleur des travaux de reconstruction il y a urgence à agir. Particulièrement pour le domaine agricole !
@@ -212,7 +208,7 @@ Nous constatons sur le terrain que de nombreuses petites communes rejettent dire
 
 En procédant de l’amont vers l’aval, organisée sur les points noirs prioritaires.
 
-***7.3** -* Concernant les Déversoirs d’Orage (DO) qui détruisent très souvent le travail d’une année d’épuration des STEP. Situation qui consiste à « se tirer une balle dans le pied » vis-à-vis des objectifs de qualité visés qui ne peuvent jamais être atteints. Il est grand temps d’en interdire les rejets directs dans les milieux, ceci en construisant des bassins de rétention avec renvoi des eaux d’orage dans les STEP.
+**\*7.3** -* Concernant les Déversoirs d’Orage (DO) qui détruisent très souvent le travail d’une année d’épuration des STEP. Situation qui consiste à « se tirer une balle dans le pied » vis-à-vis des objectifs de qualité visés qui ne peuvent jamais être atteints. Il est grand temps d’en interdire les rejets directs dans les milieux, ceci en construisant des bassins de rétention avec renvoi des eaux d’orage dans les STEP.
 
 ***7.4 -*** Les rejets directs des STEP dans les milieux récepteurs sont, comme pour les DO, une totale ineptie ! Il est très important d’interdire à tout pétitionnaire et Bureau d’étude à l’avenir de concevoir des projets entachés d’erreurs pareilles ! Ceci compte-tenu des étiages et des températures estivales à venir.
 

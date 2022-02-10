@@ -3,6 +3,7 @@ templateKey: action-post
 title: Des recommandations pour que Ça Saône plus sainement pour tous
 date: 2022-02-10T07:34:44.440Z
 description: Des recommandations pour que Ça Saône plus sainement pour tous.
+featuredimage: /img/image-soslrccasaone.jpg
 tags:
   - Eau
 ---

@@ -40,7 +40,6 @@ Toutefois, la méthanisation soulève des questions sociétales et environnement
 * Battle Karimi, Novasol Experts
 * Jean-Pierre Lemiere, MéthAnov
 * Claire Mallard, Région Bourgogne-Franche-Comté
-* Florence Morin, Opale Energies Naturelles
 * Valérie Poncin, Conseil de Développement Grand Bourg Agglomération
 * Exploitant méthaniseur de la SAS Agroénergie des collines à Gendrey, unité collective en cogénération
 

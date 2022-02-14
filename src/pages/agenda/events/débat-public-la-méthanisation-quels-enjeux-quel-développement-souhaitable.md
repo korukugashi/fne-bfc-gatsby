@@ -30,13 +30,19 @@ Toutefois, la méthanisation soulève des questions sociétales et environnement
 
 <!--StartFragment-->
 
-* Blandine Aubert, ADEME Bourgogne-Franche-Comté
-* Maximin Bonnet, Chambre d’Agriculture du Jura
-* Battle Karimi, Novasol Experts
-* Jean-Pierre Lemiere, MéthAnov
-* Claire Mallard, Région Bourgogne-Franche-Comté
-* Valérie Poncin, Conseil de Développement Grand Bourg Agglomération
-* Exploitant méthaniseur de la SAS Agroénergie des collines à Gendrey, unité collective en cogénération
+\- Blandine Aubert, ADEME Bourgogne-Franche-Comté
+
+\- Maximin Bonnet, Chambre d’Agriculture du Jura
+
+\- Battle Karimi, Novasol Experts
+
+\- Jean-Pierre Lemiere, MéthAnov
+
+\- Claire Mallard, Région Bourgogne-Franche-Comté
+
+\- Valérie Poncin, Conseil de Développement Grand Bourg Agglomération
+
+\- Gérôme Fassenet, Exploitant méthaniseur de la SAS Agroénergie des collines à Gendrey, unité collective en cogénération
 
 <!--EndFragment-->
 

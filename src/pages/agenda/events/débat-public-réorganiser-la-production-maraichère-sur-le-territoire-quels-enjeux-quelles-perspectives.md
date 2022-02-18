@@ -16,7 +16,7 @@ INSCRIPTION : <https://forms.gle/ogKWDJov3pBxuZHo7>
 
 **Le Débat Public Bourgogne Franche-Comté a le plaisir de vous inviter au débat public qui aura lieu le lundi 21 février de 18h à 21h à l’Espace Louis Pasteur à Arbois (39) sur le thème : « Réorganiser la production maraichère sur le territoire, quels enjeux ? Quelles perspectives ? »**
 
-![](/img/2022_affiche-dp-bfc_reloc_400px.png#img-center)
+![](/img/2021_affiche-dp-bfc_reorga-maraich_400px.png#img-center)
 
 #### Thématique :
 

@@ -10,7 +10,7 @@ tags:
 ---
 ##### *Un article de [SOS LRC](https://www.soslrc.com/2022/02/18/le-collectif-sos-lrc-et-anper-tos-agissent-en-justice/)*
 
-![](/img/capture-décran-2021-11-02-à-18.54.14.png?nf_resize=fit&w=400#center)
+![](/img/capture-décran-2021-11-02-à-18.54.14.png#center)
 
 Depuis des années, de nombreux acteurs dénoncent l’état catastrophique des rivières de l’Est de la France. Le Doubs, la Loue, le Cusançin … Prolifération d’algues, nombreuses mortalités de poissons, ces cours d’eau dépérissent sous les yeux des pêcheurs, des promeneurs, des kayakistes … Face à cela, l’État ne fait rien et même fuit ses responsabilités.
 

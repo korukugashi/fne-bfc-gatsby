@@ -57,7 +57,7 @@ Nous nous appuyons sur un réseau d’acteur.rice.s local : **six associations d
 
 ### **Nouveaux sites éligibles**
 
-Notre réseau de collecteur.rice.s continue les prospections de potentiels sites de collecte dans l’ensemble de la région d’origine biogéographique Rhône-Saône et Jura. Après une visite sur le terrain et l’accord des propriétaires, **37 nouveaux sites** s’ajoutent aux 81 identifiés les années précédentes. Ils appartiennent principalement à l’unité naturelle Jura.
+Notre réseau de collecteur.rice.s continue les prospections de potentiels sites de collecte dans l’ensemble de la région d’origine biogéographique Rhône-Saône et Jura. Après une visite sur le terrain et l’accord des propriétaires, **61 nouveaux sites** s’ajoutent aux 81 identifiés les années précédentes. Ils appartiennent principalement à l’unité naturelle Jura.
 
 Rappel des principaux critères de choix de site de collecte :
 

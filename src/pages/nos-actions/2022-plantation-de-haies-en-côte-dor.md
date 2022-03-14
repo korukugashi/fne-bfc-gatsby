@@ -2,8 +2,9 @@
 templateKey: action-post
 title: Plantation de haies en Côte d'or
 date: 2022-03-14T08:39:35.668Z
-description: |
-  Plantation de haie à Chambain, FNE BFC, 
+description: >
+  Plantation de haies chez un agriculteur à Chambain (21),  accompagnée par FNE
+  BFC et Nature Haute-Marne et financée par le plan de relance.
 featuredimage: /img/20220303_103228.jpg
 tags:
   - Agriculture

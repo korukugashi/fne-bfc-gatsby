@@ -15,6 +15,8 @@ FNE BFC a accompagné la plantation de haies chez Charles Garandet, un paysan bo
 Les haies sont implantées en bordure de parcelles céréalières et auront comme objectifs de favoriser la biodiversité et d'atténuer la force du vent.
 Cette opération a été financée par le plan de relance. Les plants issus de la marque Végétal local ont été favorisés et fournis par les pépinières Naudet. 
 
+Une émission de radio a été faite par France Bleu pour l'occasion : <https://www.francebleu.fr/infos/societe/cote-d-or-un-agriculteur-replante-1-400-arbres-et-arbustes-autour-de-ses-terres-1647444495>
+
 Deux articles de presse sont disponibles sur les liens suivants :
 
 <https://www.lechatillonnaisetlauxois.fr/actualite-9291-1-5-km-de-haies-pour-proteger-son-exploitation.html>

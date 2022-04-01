@@ -1,4 +1,4 @@
 ---
 templateKey: categories
-label: Débat Public
+label: Débat Public BFC
 ---

@@ -4,6 +4,7 @@ title: "Débat Public BFC : Toutes les publications 2021 !"
 date: 2022-04-01T09:20:07.715Z
 description: Retrouvez l'ensemble des synthèses de débats, rediffusions et
   guides du programme 2021 !
+featuredimage: /img/conférence.jpg
 tags:
   - Agriculture
   - Forêt

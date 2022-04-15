@@ -5,6 +5,8 @@ title: Plantation d’une haie champêtre dans un alpage du Haut Doubs
 location: "Alpage de Cernois Dubief, 25240 Petite-Chaux "
 duration: A partir de 10h
 ---
+![Affiche plantation Cernois Dubief](/img/affiche_plantation_cernois-dubief.png?nf_resize=fit&w=400#img-center "Affiche plantation Cernois Dubief")
+
 Nous organisons un chantier de **plantation d’une haie champêtre dans un alpage du Haut-Doubs**. Celui-ci aura lieu le **mardi 26 avril 2022**.
 
 Le **RDV est fixé à 10h** au bâtiment de l’alpage de Cernois Dubief, 25240 Petite-Chaux (coordonnées GPS : 46.670895, 6.170817).
@@ -15,4 +17,4 @@ Inscription et renseignements auprès de :\
 France Nature Environnement Bourgogne Franche-Comté\
 Tél.: **06 58 65 65 91** – Mail: **animation.biodiversite@fne-bfc.fr**
 
-![](/img/affiche_plantation_reculfoz.jpg?nf_resize=fit&w=4#center)
+![](/img/affiche_plantation_reculfoz.jpg?nf_resize=fit&w=400#center)

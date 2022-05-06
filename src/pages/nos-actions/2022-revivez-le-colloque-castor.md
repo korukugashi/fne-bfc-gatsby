@@ -5,7 +5,7 @@ date: 2022-05-06T13:50:40.482Z
 description: >-
   Retrouvez l'ensemble des 12 conférence du colloque castor en vidéo !
 
-  Le colloque castor est un évènement national qui a eut lieu à Dole en novembre 2021 et qui a été organisé par France Nature Environnement Bourgogne-Franche-Comté, Jura Nature Environnement Dole Environnement, BFC Nature et la SFEPM.
+  Le colloque castor est un évènement national qui a eut lieu à Dole en novembre 2021 et qui a été organisé par France Nature Environnement Bourgogne-Franche-Comté, Jura Nature Environnement, Dole Environnement, BFC Nature et la SFEPM.
 featuredimage: /img/logo-colloque-castor.jpg
 tags:
   - Castor

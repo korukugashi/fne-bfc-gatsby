@@ -1,0 +1,9 @@
+---
+templateKey: documents
+date: 2022-01-19T09:07:04.745Z
+title: Compte-rendu de la journée de lancement du programme Transition Action
+file: /img/cr-journée-ta-3011.pdf
+photo: /img/programme-3011.jpg
+category: Transition Action
+---
+Compte-rendu de la journée du 30 novembre 2021 qui a eu lieu à Besançon. Merci à la MYNE pour la prise de notes (possibilité d'ajouter et de modifier directement le CR dans le pad de prise de notes - lien contenu dans le document).

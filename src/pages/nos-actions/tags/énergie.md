@@ -1,5 +1,5 @@
 ---
 templateKey: actions-tags
-label: Energie
-image: /img/energy.png
+label: Hérisson
+image: /img/hedgehog-2-.png
 ---

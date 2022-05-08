@@ -41,19 +41,22 @@ admins:
     fonction: Administratrice
     photo: /img/user.png
 salaries:
-  - name: Marjorie Tourette
-    fonction: Débat public
+  - name: Laurence Nguyen
+    fonction: Coordinatrice du Débat Public BFC
     photo: /img/user.png
-  - name: Pierre Pécriaux
-    fonction: Coordinateur du Plateau Débat public
-    photo: /img/img_20201114_110955.jpg
+  - name: Laurine Cornaton-Perdrix
+    fonction: Assistante de coordination du Débat Public BFC
+    photo: /img/user.png
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité
     photo: /img/capture-d’écran-2020-10-28-115050.jpg
   - name: Jocelyn Mazuel
-    fonction: Chargé de mission
+    fonction: Chargé de mission biodiversité
     photo: /img/user.png
   - name: Élise Chatelain
     fonction: Secrétariat
+    photo: /img/user.png
+  - name: Lou-Ann Hennequin
+    fonction: Chargée de mission Transition-Action
     photo: /img/user.png
 ---

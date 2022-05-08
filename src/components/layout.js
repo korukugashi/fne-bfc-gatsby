@@ -36,9 +36,9 @@ const Layout = ({ children }) => {
           { ' - ' }
           <Link to="/contact/">Contactez-nous</Link>
         </div>
-        <div className="mt-4">
+        <div className="has-text-centered">
           Rejoignez-nous sur{ ' ' }
-          <a href="https://www.youtube.com/channel/UCtAtLPHHo-JXdwOgCtU3dcw">Facebook</a>
+          <a href="https://www.youtube.com/channel/UCtAtLPHHo-JXdwOgCtU3dcw">Youtube</a>
           { ' - ' }
           <a href="https://www.linkedin.com/company/fne-bfc">Linkedin</a>
         </div>

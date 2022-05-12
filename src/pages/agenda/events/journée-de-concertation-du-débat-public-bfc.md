@@ -25,6 +25,21 @@ Nous avons besoin de vous pour mettre en lumière des sujets qui nécessitent un
 
 Vous souhaitez apporter vos idées, vos connaissances, vos expériences et sélectionner des sujets qui vous semblent pertinents sur le territoire ? Participez avec nous !
 
+#### Programme
+
+9h30 – 10h : Accueil café\
+10h – 10h15 : Introduction de la journée\
+10h15 - 10h45 : Activité 1\
+10h45 - 12h00 : Atelier participatif 1
+
+12h00 – 13h30 : Repas tiré du sac
+
+13h30 – 13h45 : Atelier participatif 2\
+13h45-15h15 : World café\
+15h15-15h25 : Pause\
+15h25 – 15h40 : Débriefing\
+15h40 – 16h : Temps d’échanges et pot de convivialité
+
 #### Inscription obligatoire
 
 Inscription au 06 52 18 06 93 ou sur [](http://linktr.ee/DebatPublicBFC)<https://forms.gle/ficLubxna7Kvduo89>

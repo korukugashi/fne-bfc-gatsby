@@ -16,3 +16,7 @@ Chaque année, nous organisons entre six et neuf débats publics. Les thèmes so
 Notre action repose sur **l'implication tout au long du processus des acteurs de la vie publique**, auxquels nous ajoutons les scientifiques qui apportent leurs connaissances factuelles. Nous nous appuyons également sur le réseau associatif de Bourgogne-Franche-Comté qui apporte sa connaissance détaillée des territoires.
 
 Enfin, pour assurer le bon déroulement de ce processus et la confiance de chacun des participants nous appliquons les principes de la **Charte de la Participation**. Nous, les coordinateurs du Plateau Débat Public, nous positionnons comme des tiers-garants. C'est à dire que nous veillons au respect des valeurs de la concertation.
+
+#### Découvrez les synthèses des débats et nos publications :
+
+<https://www.fne-bfc.fr/documentation/categories/d%C3%A9bat-public/>

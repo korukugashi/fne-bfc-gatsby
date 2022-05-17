@@ -8,4 +8,4 @@ featuredimage: /img/haie-icon.png
 tags:
   - Haies et arbres têtards
 ---
-A suivre
+Plus de détails sur ce lien : <a href="/img/recrutement-à-france-nature-environnement-bourgogne-franche.pdf" target="_blank">Annonce recrutemment service civique</a>

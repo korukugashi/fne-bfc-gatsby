@@ -28,7 +28,15 @@ Bien que traduit localement dans le Schéma Régional d’Aménagement, de Déve
 
 #### **Liste des intervenants :**
 
-À venir.
+\- Claude Mercier, Conseil Régional Bourgogne Franche-Comté
+
+\- Auréien Laroppe, Vice-Président en charge du PLUi, Grand Besançon Métropole
+
+\- Michel Maya, maire de la commune de Tramayes
+
+\- Brian Padilla, écologue, chef du projet de recherche et d'expertise sur la compensation écologique
+
+\- Luc Terraz, Directeur de l'Agence Régionale de la Biodiversité Bourgogne Franche-Comté
 
 - - -
 

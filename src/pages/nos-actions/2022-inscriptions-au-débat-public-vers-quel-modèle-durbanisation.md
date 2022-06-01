@@ -30,6 +30,8 @@ Bien que traduit localement dans le Schéma Régional d’Aménagement, de Déve
 
 \- Claude Mercier, Conseil Régional Bourgogne Franche-Comté
 
+\- Jean Cavailhès, chercheur associé INRAE
+
 \- Auréien Laroppe, Vice-Président en charge du PLUi, Grand Besançon Métropole
 
 \- Michel Maya, maire de la commune de Tramayes

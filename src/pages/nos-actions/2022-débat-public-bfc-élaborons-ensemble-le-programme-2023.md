@@ -1,7 +1,7 @@
 ---
 templateKey: action-post
 title: "Débat Public BFC : Élaborons ensemble le programme 2023 !"
-date: 2022-05-12T09:24:26.341Z
+date: 2022-06-03T11:39:43.355Z
 description: Inscrivez-vous dès aujourd'hui à notre journée de concertation le 5
   juillet 2022 à Besançon 👍
 featuredimage: /img/illus_journéeconcert.png

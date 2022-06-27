@@ -32,11 +32,11 @@ Bien que traduit localement dans le Schéma Régional d’Aménagement, de Déve
 
 \- Jean Cavailhès, chercheur associé INRAE
 
-\- Auréien Laroppe, Vice-Président en charge du PLUi, Grand Besançon Métropole
+\- Aurélien Laroppe, Vice-Président en charge du PLUi, Grand Besançon Métropole
 
 \- Michel Maya, maire de la commune de Tramayes
 
-\- Brian Padilla, écologue, chef du projet de recherche et d'expertise sur la compensation écologique
+\- Brian Padilla, écologue, chef du projet de recherche et d'expertise sur la compensation écologique, Muséum National d'Histoire Naturelle
 
 \- Luc Terraz, Directeur de l'Agence Régionale de la Biodiversité Bourgogne Franche-Comté
 

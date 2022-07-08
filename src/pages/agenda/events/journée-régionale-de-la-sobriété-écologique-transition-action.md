@@ -2,7 +2,7 @@
 templateKey: agenda
 date: 2022-07-08T09:43:34.980Z
 title: Journée régionale de la sobriété écologique - Transition Action
-location: 17 Bouelvard de la Trémouille à Dijon
+location: 17 Boulevard de la Trémouille à Dijon
 duration: 27 septembre de 9h à 17h
 ---
 Participez à la journée régionale sur la sobriété écologique qui aura lieu le 27 septembre 2022 à Dijon. 

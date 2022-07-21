@@ -56,6 +56,8 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 
   ![](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=120#img-center)![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=99#img-center)![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=100#img-center)![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=120?nf_resize=fit&w=30#img-center "](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=120#img-center)![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=99#img-center)![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=100#img-center)!["?nf_resize=fit&w=400#img-center "](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=120#img-center)![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=99#img-center)![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=100#img-center)![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=120?nf_resize=fit&w=30#img-center \"](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=120#img-center)![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=99#img-center)![")
 
+  ![](/img/logo-regionnoir.jpg?nf_resize=fit&w=400#img-center)
+
   ![](/img/logo-fnadt-plan-de-relance.png?nf_resize=fit&w=400#img-center)
 
   ![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=400#img-center)

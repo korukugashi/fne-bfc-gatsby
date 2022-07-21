@@ -58,6 +58,8 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 
   ![](/img/logo-fnadt-plan-de-relance.png?nf_resize=fit&w=400#img-center)
 
+  ![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=400#img-center)
+
   ![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=400#img-center)
 
   ![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=400#img-center)

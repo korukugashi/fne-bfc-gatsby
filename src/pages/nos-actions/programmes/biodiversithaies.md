@@ -54,8 +54,6 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 * Mais également grâce à d’autres associations partenaires : Dole Environnement, CPIE Vallée de l’Ognon, LPO BFC, SHNA, les amis de la Nature et des Vosges Saônoise
 * **Ces actions sont également possibles grâce au soutien de nos financeurs : Conseil régional de Bourgogne-Franche-Comté, DREAL, Agence de l’eau Rhône Méditerranée Corse, SNCF Réseau, Commissariat de Massif du Jura**
 
-  ![](?nf_resize=fit&w=400#img-center)
-
   ![](/img/logo-regionnoir.jpg?nf_resize=fit&w=400#img-center)
 
   ![](/img/logo-fnadt-plan-de-relance.png?nf_resize=fit&w=400#img-center)

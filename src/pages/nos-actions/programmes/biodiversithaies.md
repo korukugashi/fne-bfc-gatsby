@@ -50,7 +50,7 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 
 ## Un réseau d’acteurs autour du programme Biodiversit’haies
 
-* Ces actions sont déclinées de manière opérationnelle sur le territoire régional grâce au réseau fédéral de FNE : FNE 25-90, JNE, FNE 70, FNE 21, CAPEN.
+* Ces actions sont déclinées de manière opérationnelle sur le territoire régional grâce au réseau fédéral de FNE : FNE 25, FNE 90, JNE, FNE 70, FNE 21, FNE 71.
 * Mais également grâce à d’autres associations partenaires : Dole Environnement, CPIE Vallée de l’Ognon, LPO BFC, SHNA, les amis de la Nature et des Vosges Saônoise
 * **Ces actions sont également possibles grâce au soutien de nos financeurs : Conseil régional de Bourgogne-Franche-Comté, DREAL, Agence de l’eau Rhône Méditerranée Corse, SNCF Réseau, Commissariat de Massif du Jura**
 

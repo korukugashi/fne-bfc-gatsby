@@ -38,9 +38,9 @@ const Layout = ({ children }) => {
         </div>
         <div className="has-text-centered">
           Rejoignez-nous sur{ ' ' }
-          <a href="https://www.youtube.com/channel/UCtAtLPHHo-JXdwOgCtU3dcw">Youtube</a>
+          <a href="https://www.youtube.com/channel/UCtAtLPHHo-JXdwOgCtU3dcw" target="_blank">Youtube</a>
           { ' - ' }
-          <a href="https://www.linkedin.com/company/fne-bfc">Linkedin</a>
+          <a href="https://www.linkedin.com/company/fne-bfc" target="_blank">Linkedin</a>
         </div>
       </footer>
     </>

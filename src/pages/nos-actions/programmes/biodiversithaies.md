@@ -50,11 +50,19 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 
 ## Un réseau d’acteurs autour du programme Biodiversit’haies
 
-* Ces actions sont déclinées de manière opérationnelle sur le territoire régional grâce au réseau fédéral de FNE : FNE 25-90, JNE, FNE 70, FNE 21, CAPEN.
+* Ces actions sont déclinées de manière opérationnelle sur le territoire régional grâce au réseau fédéral de FNE : FNE 25, FNE 90, JNE, FNE 70, FNE 21, FNE 71.
 * Mais également grâce à d’autres associations partenaires : Dole Environnement, CPIE Vallée de l’Ognon, LPO BFC, SHNA, les amis de la Nature et des Vosges Saônoise
-* **Ces actions sont également possibles grâce au soutien de nos financeurs : Conseil régional de Bourgogne-Franche-Comté, DREAL, Agence de l’eau Rhône Méditerranée Corse, SNCF Réseau**
+* **Ces actions sont également possibles grâce au soutien de nos financeurs : Conseil régional de Bourgogne-Franche-Comté, DREAL, Agence de l’eau Rhône Méditerranée Corse, SNCF Réseau, Commissariat de Massif du Jura**
 
-  ![](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=120#img-center)![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=99#img-center)![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=100#img-center)![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=120?nf_resize=fit&w=30#img-center "](/img/logo-regioncmjn_detoure.png?nf_resize=fit&w=120#img-center)![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=99#img-center)![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=100#img-center)![")
+  ![](/img/logo-regionnoir.jpg?nf_resize=fit&w=400#img-center)
+
+  ![](/img/logo-fnadt-plan-de-relance.png?nf_resize=fit&w=400#img-center)
+
+  ![](/img/bm_reg-bourg-franc-comte_hd.jpg?nf_resize=fit&w=400#img-center)
+
+  ![](/img/logo-sncf-reseau.jpg?nf_resize=fit&w=400#img-center)
+
+  ![](/img/2017-logo-aermc-cartouche-cmjn_2017-03-27_12-52-20_492.jpg?nf_resize=fit&w=400#img-center)
 
 ## FNE BFC en lien avec les réseaux régionaux et nationaux
 

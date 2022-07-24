@@ -44,8 +44,8 @@ salaries:
   - name: Laurence Nguyen
     fonction: Coordinatrice du Débat Public BFC
     photo: /img/user.png
-  - name: Laurine Cornaton-Perdrix
-    fonction: Assistante de coordination du Débat Public BFC
+  - name: Marine Luczak
+    fonction: Chargée de communication du Débat Public BFC
     photo: /img/user.png
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité

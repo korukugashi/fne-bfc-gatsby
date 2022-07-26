@@ -7,9 +7,7 @@ onHome: true
 tags:
   - Territoire
 ---
-<p><a href="https://debatpublic-bfc.org" targer="_blank>
-<img src="/img/jpeg-fond-blanc.jpg?nf_resize=fit&w=300#img-center "Logo Débat Public BFC"" alt="Plateau Débat Public BFC" />
-</a></p>
+<a href="https://debatpublic-bfc.org" target="_blank"><img src="/img/jpeg-fond-blanc.jpg?nf_resize=fit&w=300#img-center" alt="Plateau Débat Public BFC" /></a>
 
 Le [programme Débat Public](https://debatpublic-bfc.org/) a été créé en 2011. Il est porté par France Nature Environnement
 

@@ -27,7 +27,7 @@ Le Plateau Débat Public répond à plusieurs objectifs :
 
 [](<>)● **Développer la culture de la participation** à l’échelle de la Bourgogne-Franche-Comté pour ouvrir le débat public au plus grand nombre.
 
-Plus d’informations sur le site **[www.debatpublic-mefc.org](http://www.debatpublic-mefc.org/)** et sur Facebook « Plateau Débat Public »
+Plus d’informations sur le site **[debatpublic-bfc.org](https://debatpublic-bfc.org/)** et sur Facebook « Plateau Débat Public »
 
 ## **Mission**
 

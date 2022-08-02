@@ -1,7 +1,8 @@
 ---
 templateKey: programmes
 title: Débat public
-description: Favoriser le dialogue environnemental sur notre territoire
+description: Favoriser le dialogue environnemental sur notre territoire et
+  générer une prise de conscience
 featuredimage: /img/jpeg-fond-blanc.jpg
 onHome: true
 tags:

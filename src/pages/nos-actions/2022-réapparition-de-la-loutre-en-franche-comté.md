@@ -11,7 +11,7 @@ tags:
 
 # Réapparition de la Loutre en Franche-Comté : l’arbre qui cache la forêt des espèces aquatiques menacées
 
-![](/img/loutres.png?nf_resize=fit&w=400#center)
+![](/img/loutres.png#center)
 
 #### [Article de SOS LRC](https://www.soslrc.com/2022/07/27/reapparition-de-la-loutre-en-franche-comte-larbre-qui-cache-la-foret-des-especes-aquatiques-menacees/)
 

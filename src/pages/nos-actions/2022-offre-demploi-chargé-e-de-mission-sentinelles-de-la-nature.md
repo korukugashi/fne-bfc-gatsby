@@ -8,7 +8,7 @@ featuredimage: /img/logo_sentinelles_nature-fne.png
 tags:
   - Vie associative
 ---
-**FNE Bourgogne Franche-Comté recherche un animateur/trice de réseau de référents bénévoles en CDD sur 1 an et temps partiel à 80% avec possible évolution vers un CDI temps plein, à Dijon.**
+## **FNE Bourgogne Franche-Comté recherche un animateur/trice de réseau de référents bénévoles en CDD sur 1 an et temps partiel à 80% avec possible évolution vers un CDI temps plein, à Dijon.**
 
 ![](/img/logo_sentinelles_nature-fne.png?nf_resize=fit&w=400#center)
 

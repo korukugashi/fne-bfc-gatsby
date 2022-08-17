@@ -7,3 +7,5 @@ photo: /img/urbanisation-débat.png
 category: Débat Public BFC
 ---
 Débat qui a eu lieu le 28 juin 2022 à Besançon.
+
+<a href="/img/2019-CR Artificialisation des sols.pdf" target="_blank">artificialisation des sol</a>

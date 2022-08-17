@@ -1,8 +1,8 @@
 ---
 templateKey: documents
-date: 2022-08-11T14:32:40.841Z
+date: 2022-06-28T14:32:40.841Z
 title: "Compte rendu débat : \"Vers quel modèle d'urbanisation ?\""
-file: /img/cr_debat_urbanisation_2022.pdf
+file: /img/cr_urbanisation_2022.pdf
 photo: /img/urbanisation-débat.png
 category: Débat Public BFC
 ---

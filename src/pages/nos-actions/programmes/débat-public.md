@@ -10,17 +10,13 @@ tags:
 ---
 <a href="https://debatpublic-bfc.org" target="_blank"><img src="/img/jpeg-fond-blanc.jpg?nf_resize=fit&w=300#img-center" alt="Plateau Débat Public BFC" /></a>
 
-**Le programme débat public**
-
 Le [programme Débat Public](https://debatpublic-bfc.org/), animé par **[France Nature Environnement Bourgogne Franche-Comté](https://www.fne-bfc.fr/)**, permet de favoriser, à travers l’organisation de débats, **le dialogue entre l’État, élus locaux, entreprises, syndicats et associations,** collaborant ainsi à la gouvernance à cinq, instauré par le Grenelle II de l’Environnement. **Scientifiques** et **chercheurs** sont également conviés à ce dialogue. Ce programme permet de développer **la culture de la participation** en Bourgogne-Franche-Comté et s’inspire du travail de la **Commission Nationale du Débat Public** (créée en 1995 pour assurer la concertation pour tout projet d’aménagement ayant un impact sur l’environnement et dépassant 300 millions d’euros).
 
-Chaque année, six débats publics sont organisés.
+Ses actions 
 
-La réalisation des actions du programme Débat Public repose sur l’implication des acteurs de la vie publique et du réseau associatif.
+Chaque année, six débats publics sont organisés avec l'appui du réseau d'acteurs autour du programme Débat Public. L'équipe veille au respect des principes du débat et de la [Charte de la Participation](https://www.ecologie.gouv.fr/charte-participation-du-public).
 
-Dans le cadre de l’animation du programme Débat Public, FNE BFC se positionne comme tiers-garant du débat public et veille au respect des principes du débat et de la [Charte de la Participation](https://www.ecologie.gouv.fr/charte-participation-du-public).
-
-**Ses objectifs**
+Ses objectifs
 
 * **Organiser le débat public** en Bourgogne-Franche-Comté et mobiliser l’ensemble des acteurs concernés sur le territoire
 * **Permettre le dialogue environnemental** sur le territoire pour une meilleure prise en compte des enjeux environnementaux en amont de tout projet

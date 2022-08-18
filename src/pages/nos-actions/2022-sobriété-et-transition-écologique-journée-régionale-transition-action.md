@@ -24,8 +24,34 @@ Rejoignez nous le 27 Septembre à Dijon pour échanger sur la thématique de la 
 
 **« La « sobriété » renvoie à des démarches multiples, dont le dénominateur commun est une recherche de « moins », de modération des biens et des services produits et consommés, tout en recherchant un « mieux », notamment une augmentation de la qualité de vie et du bien-être – où le« mieux » et le « moins » sont des notions relatives »**. (*Définition de l'ADEME*)
 
-
-
 Paroles d'experts et témoignages de collectivités dans la matinée ; Ateliers collaboratifs dans l'après-midi : un programme plus précis vous sera rapidement communiqué. 
+
+
+
+**Programme de la journée**\
+\
+8h30 - 9h Accueil\
+\
+9h - 9h30 Introduction de la journée\
+\
+9h30 - 10h30 **Paroles d'experts**
+
+* Présentation des Scénarios prospectifs 2050 de l'ADEME par **Jean-Louis Bergey**, expert ADEME\
+* Retour sur la notion de sobriété par **Thierry Brugvin**, professeur en psycho-sociologie à l'université de Besançon\
+  \
+  10h30 - 12h30 **Témoignages de collectivités**
+* **Muttersholtz**, Grand Est
+* **Cluny,** Bourgogne Franche Comté\
+  \
+  Les témoignages seront suivis d'un temps d'échanges entre collectivités et experts ainsi que d'un temps de questions.\
+  \
+  12h30 - 14h Repas végétarien préparé par la fée Végé (un mail vous sera envoyé début septembre pour confirmer votre présence à la journée, vous pourrez également vous inscrire au repas)\
+  \
+  14h - 17h **Ateliers collaboratifs**\
+  Quelles stratégies pour faire de la sobriété le pilier de la transition écologique de la région ?\
+  Plusieurs angles d'approches : la culture de la sobriété, la mobilité, l'alimentation.\
+  L'atelier est préparé avec **William Bernaud**, chercheur - formateur et consultant en redirection écologique et philosophie.
+
+
 
 Lien de pré-inscription : https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/pre-inscription-journee-regionale-de-la-sobriete

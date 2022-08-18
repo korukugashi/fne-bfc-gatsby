@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2022-07-08T09:43:34.980Z
+date: 2022-09-27T09:43:34.980Z
 title: "Transition et sobriété écologique - Journée régionale à Dijon ! "
 location: 17 Boulevard de la Trémouille à Dijon
 duration: 27 septembre de 9h à 17h

@@ -5,6 +5,8 @@ title: Collecte de fruits Végétal local
 location: Monts de Gy (70)
 duration: A partir de 9h30
 ---
+![](/img/logo-végétal-local.png?nf_resize=fit&w=400#center)
+
 La saison de collecte de graines Végétal local a déjà bien commencé, et en ce moment le cornouiller mâle, qui nous a déjà bien régalé avec sa floraison jaune de fin d’hiver, arbore ses éclatants fruits rouges qui arrivent à maturité. Nous organisons donc une **collecte ce jeudi 25/08 pour cueillir des cornouilles sur le secteur des Monts de Gy en Haute-Saône.**
 
 Le **RDV est fixé à 9h30** (lieu donné lors de l’inscription). Au programme de cette journée : présentation de la démarche Végétal local et son intérêt pour la biodiversité, formation sur l'identification des arbres rencontrés, collecte de cornouilles.

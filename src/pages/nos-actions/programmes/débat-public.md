@@ -10,7 +10,7 @@ tags:
 ---
 <a href="https://debatpublic-bfc.org" target="_blank"><img src="/img/jpeg-fond-blanc.jpg?nf_resize=fit&w=300#img-center" alt="Plateau Débat Public BFC" /></a>
 
-Le [programme Débat Public](https://debatpublic-bfc.org/), animé par **[France Nature Environnement Bourgogne Franche-Comté](https://www.fne-bfc.fr/)**, permet de favoriser, à travers l’organisation de débats, **le dialogue entre l’État, élus locaux, entreprises, syndicats et associations,** collaborant ainsi à la gouvernance à cinq, instauré par le Grenelle II de l’Environnement. **Scientifiques** et **chercheurs** sont également conviés à ce dialogue. Ce programme permet de développer **la culture de la participation** en Bourgogne-Franche-Comté et s’inspire du travail de la **Commission Nationale du Débat Public** (créée en 1995 pour assurer la concertation pour tout projet d’aménagement ayant un impact sur l’environnement et dépassant 300 millions d’euros).
+Le [programme Débat Public](https://debatpublic-bfc.org/), animé par [France Nature Environnement Bourgogne Franche-Comté](https://www.fne-bfc.fr/), permet de favoriser, à travers l’organisation de débats, **le dialogue entre l’État, élus locaux, entreprises, syndicats et associations,** collaborant ainsi à la gouvernance à cinq, instauré par le Grenelle II de l’Environnement. **Scientifiques** et **chercheurs** sont également conviés à ce dialogue. Ce programme permet de développer **la culture de la participation** en Bourgogne-Franche-Comté et s’inspire du travail de la **Commission Nationale du Débat Public** (créée en 1995 pour assurer la concertation pour tout projet d’aménagement ayant un impact sur l’environnement et dépassant 300 millions d’euros).
 
 Ses actions 
 

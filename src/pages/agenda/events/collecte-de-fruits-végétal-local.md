@@ -11,10 +11,12 @@ Le **RDV est fixé à 9h30** (lieu donné lors de l’inscription). Au programme
 
 Nous fournissons tout le matériel de collecte nécessaire. Prévoyez simplement de l’eau, et un repas tiré du sac si vous souhaitez manger avec nous le midi et continuer un peu la collecte l’après-midi.
 
-
-
 Journée gratuite et ouverte à tou.te.s \
 Inscription obligatoire et renseignements auprès de :
 
 France Nature Environnement Bourgogne Franche-Comté
 Tél.: 06 58 65 65 91 – Mail: animation.biodiversite@fne-bfc.fr
+
+
+
+![](/img/coma.jpg?nf_resize=fit&w=400#center)

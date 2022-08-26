@@ -1,7 +1,7 @@
 ---
 templateKey: agenda
-date: 2022-09-07T08:00:00.000Z
-title: Assises nationales de la biodiversité - Stand Végétal local
+date: 2022-09-08T08:00:00.000Z
+title: Assises nationales de la biodiversité - Stand Végétal local par FNE BFC
 location: Besançon - micropolis
 duration: journée
 ---

@@ -9,7 +9,7 @@ description: >+
 
   Forêt & Société : Quelles adaptations face aux changements climatiques ?
 
-featuredimage: /img/2022_nl-dp-bfc_.png
+featuredimage: /img/1e.jpg
 tags:
   - Forêt
 ---

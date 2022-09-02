@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2022-09-02T08:42:57.063Z
+date: 2022-09-22T08:42:57.063Z
 title: "Forêt & Société : Quelles adaptions face aux changements climatiques ?"
 location: Tonnellerie Charlois, Bâtiment La Grange - Le Bourg - 58700 Murlin
   dans la Nièvre

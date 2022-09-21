@@ -2,8 +2,14 @@
 templateKey: action-post
 title: "Débat Public : QUELLE PLACE POUR LA BIODIVERSITÉ ET LES ESPÈCES ?"
 date: 2022-11-08T08:30:00.000Z
-description: L’équipe du Programme Débat Public vous invite à participer à son
-  prochain débat sur le thème de la biodiversité.
+description: >-
+  Inscrivez-vous maintenant ! 
+
+
+  https://rb.gy/8nks4c
+
+
+  L’équipe du Programme Débat Public vous invite à participer à son prochain débat sur le thème de la biodiversité.
 featuredimage: /img/2022_nl-dp-bfc_-6-.png
 tags:
   - Agriculture

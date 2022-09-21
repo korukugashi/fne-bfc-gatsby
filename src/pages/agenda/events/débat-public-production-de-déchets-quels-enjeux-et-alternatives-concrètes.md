@@ -1,8 +1,8 @@
 ---
 templateKey: agenda
 date: 2022-11-22T16:00:00.000Z
-title: 'Débat Public : "Production de déchets : quels enjeux et alternatives
-  concrètes ?"'
+title: "Débat Public : Production de déchets : quels enjeux et alternatives
+  concrètes ?"
 location: Cluny (71)
 duration: 17h à 22h
 ---

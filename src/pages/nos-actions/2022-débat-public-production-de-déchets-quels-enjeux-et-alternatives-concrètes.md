@@ -23,23 +23,13 @@ Adoptée en février 2020, **la loi Anti-Gaspillage** pour une Économie Circula
 En Bourgogne Franche-Comté, le plan régional de prévention et de gestion des déchets fixe les objectifs suivants : réduire la production des DMA de 15% entre 2010 et 2025 et de 20% entre 2010 et 2031[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn5).\
 Depuis 2010, **le Syndicat Intercommunal de Ramassage et Traitement des Ordures Ménagère (SIRTOM) de la Vallée de la Grosne** (constitué de la communauté de communes du Clunisois et Saint Cyr Mère Boitier) **est engagé dans un programme local de prévention des DMA fixant un objectif de réduction de 17% entre 2010 et 2026**[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn6). Comment ce territoire peut-il atteindre cet objectif en tenant compte de ses spécificités ?
 
-
-
 **\#1 Réduction des déchets, quels sont les enjeux et les défis pour le territoire ?**
 
 Qu’est-ce qu’un déchet ? Quels champs d’actions sur le territoire ? Comment les collectivités, l’État, les consommateurs et les producteurs de déchets peuvent-ils s’organiser pour atteindre les objectifs ? Quels leviers mobilisables à l’échelle locale ? Quels freins ? Quels retours d'expériences des autres territoires ?
 
-
-
 **\#2 Comment pouvons-nous agir individuellement et collectivement pour réduire nos déchets ?**
 
 Comment limiter sa production de déchets ? Quel ordre de priorité des actions pour réduire la quantité de déchets générés ? Quelles solutions locales ? Quelles solutions à plus grande échelle ?
-
-
-
-
-
-
 
 **\> Déroulement de la soirée :**
 
@@ -49,8 +39,6 @@ Comment limiter sa production de déchets ? Quel ordre de priorité des actions 
 
 1﻿9h - 22h : Débat
 
-
-
 **Intervenant.e.s :**
 
 * Liste des intervenant.e.s. à venir !
@@ -59,4 +47,4 @@ Inscription obligatoire sur ce lien <https://rb.gy/8nks4c> ou au 06 52 18 06 93
 
 Vous souhaitez proposer ou trouver un covoiturage pour cet évènement ? [Cliquez ici](https://rb.gy/vbbvpa) !
 
-Ce débat s’inscrit dans le cadre du [Grand Défi Écologique](https://www.legranddefiecologique.ademe.fr/) de l’ADEME Bourgogne-Franche-Comté. Le Programme Débat Public est porté par France Nature Environnement Bourgogne Franche-Comté et financé par la Région Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté.
+Le Programme Débat Public est porté par France Nature Environnement Bourgogne Franche-Comté et financé par la Région Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté.

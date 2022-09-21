@@ -2,7 +2,7 @@
 templateKey: action-post
 title: "Débat Public : Production de déchets : quels enjeux et alternatives
   concrètes ?"
-date: 2022-09-21T13:02:54.330Z
+date: 2022-11-22T16:00:00.000Z
 description: |-
   Inscrivez-vous dès maintenant ! 
   https://rb.gy/8nks4c
@@ -10,8 +10,6 @@ featuredimage: /img/2022_nl-dp-bfc_-7-.png
 tags:
   - Déchets
 ---
-<!--StartFragment-->
-
 L'équipe du Programme Débat Public vous invite à participer au débat sur le thème de la production des déchets.
 
 **Mardi 22 novembre 2022 de 17h à 22h - Salle Justice de paix - 1 rue porte des prés - 71250 Cluny**

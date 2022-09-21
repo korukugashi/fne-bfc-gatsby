@@ -9,7 +9,7 @@ description: >-
   https://rb.gy/8nks4c
 
 
-  L’équipe du Programme Débat Public vous invite à participer à son prochain débat sur le thème de la biodiversité.
+  L’équipe du Programme Débat Public vous invite à participer à son prochain débat sur le thème de la biodiversité. 
 featuredimage: /img/biodiv.jpg
 tags:
   - Agriculture

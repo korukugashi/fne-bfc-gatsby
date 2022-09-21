@@ -1,6 +1,6 @@
 ---
 templateKey: action-post
-title: "ALIMENTATION LOCALE : QUELS ENJEUX SUR LE TERRITOIRE YONNE-NIÈVRE ?"
+title: "Alimentation locale : Quels enjeux sur le territoire Yonne-Nièvre ?"
 date: 2022-10-20T15:40:37.245Z
 description: >-
   Inscrivez-vous dès maintenant !

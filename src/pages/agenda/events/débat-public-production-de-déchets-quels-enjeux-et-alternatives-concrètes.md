@@ -43,4 +43,4 @@ Inscription obligatoire sur ce lien <https://rb.gy/8nks4c> ou au 06 52 18 06 93
 
 Vous souhaitez proposer ou trouver un covoiturage pour cet évènement ? [Cliquez ici](https://rb.gy/vbbvpa) !
 
-Ce débat s’inscrit dans le cadre du [Grand Défi Écologique](https://www.legranddefiecologique.ademe.fr/) de l’ADEME Bourgogne-Franche-Comté. Le Programme Débat Public est porté par France Nature Environnement Bourgogne Franche-Comté et financé par la Région Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté.
+Le Programme Débat Public est porté par France Nature Environnement Bourgogne Franche-Comté et financé par la Région Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté.

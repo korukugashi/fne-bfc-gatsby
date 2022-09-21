@@ -1,6 +1,6 @@
 ---
 templateKey: action-post
-title: "Débat Public : QUELLE PLACE POUR LA BIODIVERSITÉ ET LES ESPÈCES ?"
+title: "Débat Public : Quelle place pour la biodiversité et les espèces ?"
 date: 2022-11-08T08:30:00.000Z
 description: >-
   Inscrivez-vous maintenant ! 

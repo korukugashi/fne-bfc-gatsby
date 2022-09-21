@@ -8,8 +8,6 @@ duration: de 19h à 22h
 ---
 Inscrivez-vous dès maintenant à notre prochain débat, jeudi 22 septembre 2022 à Murlin dans la Nièvre (58).
 
-
-
 L'équipe du Programme Débat Public vous invite à participer à son prochain débat sur le thème de la forêt.
 
 **Jeudi 22 septembre 2022de 19h à 22h - Bâtiment la Grange - Le Bourg à Murlin (58)**
@@ -29,8 +27,6 @@ Comment la forêt a-t-elle évolué depuis les 20 millénaires ?
 * Frédéric Beaucher, Groupement Forestier du Chat Sauvage
 * Théo Damasio, Parc naturel régional du Morvan
 
-
-
-Inscription ici : https://rb.gy/hrmjvj
+Inscription ici : https://rb.gy/ujwkvr
 
 Vous souhaitez proposer ou trouver un covoiturage pour cet évènement ? [Cliquez ici](https://rb.gy/0yfweg) !

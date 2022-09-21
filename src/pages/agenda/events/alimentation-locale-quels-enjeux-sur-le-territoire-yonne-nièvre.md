@@ -1,7 +1,8 @@
 ---
 templateKey: agenda
 date: 2022-10-20T15:00:00.000Z
-title: "ALIMENTATION LOCALE : QUELS ENJEUX SUR LE TERRITOIRE YONNE-NIÈVRE ?"
+title: "Débat Public : Alimentation locale : Quels enjeux sur le territoire
+  Yonne-Nièvre ?"
 location: Molesmes (89)
 duration: 17h à 20h
 ---

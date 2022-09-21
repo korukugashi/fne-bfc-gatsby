@@ -10,7 +10,7 @@ description: >-
 
 
   L’équipe du Programme Débat Public vous invite à participer à son prochain débat sur le thème de la biodiversité.
-featuredimage: /img/2022_nl-dp-bfc_-6-.png
+featuredimage: /img/biodiv.jpg
 tags:
   - Agriculture
   - Territoire

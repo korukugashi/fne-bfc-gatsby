@@ -32,6 +32,6 @@ Augustina Michemberg, Groupe Charlois
 Frédéric Beaucher, Groupement Forestier du Chat Sauvage
 Théo Damasio, Parc naturel régional du Morvan
 
-Inscription ici : <https://rb.gy/hrmjvj>
+Inscription ici : [https://rb.gy/hrmjvj](https://docs.google.com/forms/d/e/1FAIpQLSdepeH8J2bOLNcaQDtkKhRS_YWuHrHw-eDmi8JafJB85wc6Jg/viewform?usp=sf_link)
 
 Vous souhaitez proposer ou trouver un covoiturage pour cet évènement ? [Cliquez ici](https://rb.gy/0yfweg) !

@@ -7,6 +7,8 @@ featuredimage: /img/pa061275.jpg
 tags:
   - Végétal local
 ---
+![Collecte le long du vélorail de Vaivre-et-Montoille](/img/pa061269.jpg?nf_resize=fit&w=400#img-center "Collecte le long du vélorail de Vaivre-et-Montoille")
+
 <!--StartFragment-->
 
 Jeudi 6 octobre, nous nous sommes rendus à Vaivre-et-Montoille (70) pour une collecte de graines de végétaux sauvages d’origine locale. 🌿\

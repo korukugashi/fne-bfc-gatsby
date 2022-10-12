@@ -25,3 +25,5 @@ Dans continuité de cette collecte, les élèves planteront l’hiver prochain d
 Cette action, programmée durant la semaine du Développement Durable, contribue aux engagements de notre partenaire et financeur SNCF Réseau : agir pour les territoires et l’environnement, en s’engageant notamment pour la protection de la biodiversité.
 
 <!--EndFragment-->
+
+![14 kilos de troène des bois en une après-midi !](/img/pa061290.jpg?nf_resize=fit&w=400#img-center "14 kilos de troène des bois en une après-midi !")

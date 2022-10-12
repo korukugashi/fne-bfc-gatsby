@@ -1,6 +1,6 @@
 ---
 templateKey: action-post
-title: Collecte de graine Végétal local en Haute-Saône
+title: Collecte de graines Végétal local en Haute-Saône
 date: 2022-10-12T13:41:29.751Z
 description: Collecte de graine Végétal local en Haute-Saône
 featuredimage: /img/pa061275.jpg
@@ -27,3 +27,5 @@ Cette action, programmée durant la semaine du Développement Durable, contribue
 <!--EndFragment-->
 
 ![14 kilos de troène des bois en une après-midi !](/img/pa061290.jpg?nf_resize=fit&w=400#img-center "14 kilos de troène des bois en une après-midi !")
+
+![Une belle fructification de l'Aubépine monogyne](/img/pa061271.jpg?nf_resize=fit&w=400#img-center "Une belle fructification de l'Aubépine monogyne")

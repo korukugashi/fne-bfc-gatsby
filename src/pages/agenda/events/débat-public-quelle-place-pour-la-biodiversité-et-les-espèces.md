@@ -27,11 +27,9 @@ Quelles stratégies mettre en place ? Quel plan d’actions sur le territoire ? 
 
 **\- Vincent Chauvet, Maire d'Autun**
 
-**\- Patrick Coton, porte-parole de Sauvegarde Sud-Morvan et Nature et Paysages en Sud-Morvan**
+**\- Patrick Coton, Association Astacus** 
 
 **\- Patrice Notteghem, Conservatoire d'Espaces Naturels Bourgogne**
-
-
 
 Inscription obligatoire sur ce lien <https://rb.gy/smhv0a> ou au 06 52 18 06 93
 

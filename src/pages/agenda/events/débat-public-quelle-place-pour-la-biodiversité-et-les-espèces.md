@@ -27,7 +27,7 @@ Quelles stratégies mettre en place ? Quel plan d’actions sur le territoire ? 
 
 **\- Vincent Chauvet, Maire d'Autun**
 
-**\- Patrick Coton, Association Astacus** 
+**\- Patrick Coton, Association Astacus**
 
 **\- Patrice Notteghem, Conservatoire d'Espaces Naturels Bourgogne**
 

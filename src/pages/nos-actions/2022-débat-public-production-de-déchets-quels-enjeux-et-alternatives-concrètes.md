@@ -14,7 +14,7 @@ L'équipe du Programme Débat Public vous invite à participer au débat sur le 
 
 **Mardi 22 novembre 2022 de 17h à 22h - Salle Justice de paix - 1 rue porte des prés - 71250 Cluny**
 
-Chaque année, **un français jettent en moyenne 568 kg de déchets**[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn1). Ces derniers représentent une source de pollution importante impactant la biodiversité et les écosystèmes. La collecte et le traitement des déchets sont responsables de 5 % des émissions de gaz à effet de serre au niveau mondial[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn2). **Le recyclage permet d'éviter 23 millions de tonnes de CO2**[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn3). La réduction des déchets représente donc un enjeu clé en termes d'environnement.
+Chaque année, **un français jette en moyenne 568 kg de déchets**[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn1). Ces derniers représentent une source de pollution importante impactant la biodiversité et les écosystèmes. La collecte et le traitement des déchets sont responsables de 5 % des émissions de gaz à effet de serre au niveau mondial[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn2). **Le recyclage permet d'éviter 23 millions de tonnes de CO2**[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn3). La réduction des déchets représente donc un enjeu clé en termes d'environnement.
 
 Adoptée en février 2020, **la loi Anti-Gaspillage** pour une Économie Circulaire[](imap://animation%40debatpublic-bfc%2Eorg@ssl0.ovh.net:993/fetch%3EUID%3E.INBOX.3-D%26AOk-bat%20%22D%26AOk-chets%22%202022%3E6#_ftn4) **fixe un objectif de réduction de 15% des déchets ménagers et assimilés (DMA) entre 2010 et 2030**. Cette loi commence à traduire des objectifs opérationnels et sectoriels notamment pour le vrac, le réemploi, etc. (exemple : usage d’emballages ré-employables pour la restauration collective en 2023).
 
@@ -31,7 +31,7 @@ Comment limiter sa production de déchets ? Quel ordre de priorité des actions 
 
 **\> Déroulement de la soirée :**
 
-1﻿7h - 18h : Visite de la déchèterie de Cluny
+1﻿7h - 18h : Visite de la déchetterie de Cluny
 
 1﻿8h - 19h : Pot de convivialité
 
@@ -39,7 +39,9 @@ Comment limiter sa production de déchets ? Quel ordre de priorité des actions 
 
 **Intervenant.e.s :**
 
-* Liste des intervenant.e.s. à venir !
+* Claire Mallard, Conseil Régional Bourgogne Franche-Comté,
+* Catherine Pegon, Sirtom Vallée de la Grosne
+* Association Le Pont
 
 Inscription obligatoire sur ce lien <https://rb.gy/8nks4c> ou au 06 52 18 06 93
 

@@ -31,7 +31,8 @@ Comment limiter sa production de déchets ? Quel ordre de priorité des actions 
 
 **\> Déroulement de la soirée :**
 
-1﻿7h - 18h : Visite de la déchetterie de Cluny
+1﻿7h - 18h : Visite de la déchetterie et de la ressourcerie de Cluny.\
+RDV au 16 rue Lt Albert Schmitt à Cluny pour le départ. Nous avons la possibilité de véhiculer 12 personnes. Merci de nous contacter au 06 52 18 06 93 pour réserver votre place.
 
 1﻿8h - 19h : Pot de convivialité
 
@@ -41,7 +42,7 @@ Comment limiter sa production de déchets ? Quel ordre de priorité des actions 
 
 * Claire Mallard, Conseil Régional Bourgogne Franche-Comté,
 * Catherine Pegon, Sirtom Vallée de la Grosne
-* Association Le Pont
+* Valérie Daubard, Association Le Pont
 
 Inscription obligatoire sur ce lien <https://rb.gy/8nks4c> ou au 06 52 18 06 93
 

@@ -39,7 +39,7 @@ Comment limiter sa production de déchets ? Quel ordre de priorité des actions 
 
 * Claire Mallard, Conseil Régional Bourgogne Franche-Comté,
 * Catherine Pegon, Sirtom Vallée de la Grosne
-* Association Le Pont
+* Valérie Daubard, Association Le Pont 
 
 Inscription obligatoire sur ce lien <https://rb.gy/8nks4c> ou au 06 52 18 06 93
 

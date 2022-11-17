@@ -4,6 +4,7 @@ title: "﻿ Saison 2022 de collecte des fruits Végétal local ligneux : termin�
 date: 2022-11-17T15:26:58.374Z
 description: La collecte 2022 de Végétal local ligneux pour la zone Rhône-Saône
   et Jura est terminé !
+featuredimage: /img/houx.jpg
 tags:
   - Végétal local
 ---

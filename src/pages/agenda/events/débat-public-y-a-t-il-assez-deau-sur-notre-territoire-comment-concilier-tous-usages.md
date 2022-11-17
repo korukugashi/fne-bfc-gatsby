@@ -2,7 +2,7 @@
 templateKey: agenda
 date: 2022-12-06T17:30:00.000Z
 title: "Débat public : Y a-t-il assez d'eau sur notre territoire ? Comment
-  concilier tous usages ?"
+  concilier tous les usages ?"
 location: Vesoul
 duration: 18h30 à 21h30
 ---

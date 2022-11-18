@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2022-11-18T10:19:22.022Z
+date: 2022-12-06T10:19:00.000Z
 title: Y A-T-IL ASSEZ D’EAU SUR NOTRE TERRITOIRE ? COMMENT CONCILIER TOUS LES USAGES ?
 location: Vesoul (70)
 duration: de 18h30 à 21h30

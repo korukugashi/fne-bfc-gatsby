@@ -1,7 +1,7 @@
 ---
 templateKey: agenda
 date: 2022-12-06T10:19:00.000Z
-title: Y A-T-IL ASSEZ D’EAU SUR NOTRE TERRITOIRE ? COMMENT CONCILIER TOUS LES USAGES ?
+title: Y a-t-il assez d'eau sur notre territoire ? Comment concilier tous les usages ?
 location: Vesoul (70)
 duration: de 18h30 à 21h30
 ---

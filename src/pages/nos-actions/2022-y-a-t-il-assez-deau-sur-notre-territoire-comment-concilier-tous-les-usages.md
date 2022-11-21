@@ -1,7 +1,7 @@
 ---
 templateKey: action-post
 title: Y a-t-il assez d'eau sur notre territoire ? Comment concilier tous les usages ?
-date: 2022-11-18T10:04:12.777Z
+date: 2022-12-06T10:04:12.777Z
 description: "Mardi 8 décembre 2022 de 18h30 à 21h30 – Salle des conférences –
   58 rue Paul Morel, 70000 Vesoul "
 featuredimage: /img/2022_nl-dp-bfc_.jpg

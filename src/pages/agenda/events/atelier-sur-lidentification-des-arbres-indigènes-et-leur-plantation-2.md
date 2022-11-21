@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2022-11-26T08:00:00.000Z
+date: 2022-11-26T08:30:00.000Z
 title: "Atelier sur l'identification des arbres indigènes et leur plantation #2"
 location: Roche-lez-Beaupré
 duration: 3h
@@ -9,7 +9,7 @@ duration: 3h
 
 Initiation à la **plantation et la transplantation de jeunes plants**, de bouturage (Saule, Sureau noir, Noisetier, Erable sycomore, etc.). Sur un site en bord du Doubs pour aider à la reconstitution de la ripisylve.
 
-Le RDV est fixé à **9h au niveau de la guinguette de Roche-lez-Beaupré** au bord de la véloroute. Prévoir des habits adaptés à l'extérieur et au travail dans la terre.
+Le RDV est fixé à **9h30 au niveau de la guinguette de Roche-lez-Beaupré** au bord de la véloroute. Prévoir des habits adaptés à l'extérieur et au travail dans la terre.
 
 Un petit guide sera remis à tous les participants.
 

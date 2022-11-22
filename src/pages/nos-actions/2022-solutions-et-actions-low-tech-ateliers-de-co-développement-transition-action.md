@@ -35,7 +35,7 @@ En français, le terme low-tech se traduit par technologies et techniques sobres
 
 Le low-tech s'inscrit dans le concept d'innovation frugale et consiste à répondre à des besoins déterminés par des solutions dont on pense l'impact environnemental, économique et social. 
 
-**Il implique activement les individus et les communautés, invités à prendre à bras le corps leurs problématiques locales pour les traiter avec les moyens du bord. C’est une forme d’innovation respectant les principes de la [](https://youmatter.world/fr/definition/resilience-definition/)résilience.**
+**Il implique activement les individus et les communautés afin qu'elles solutionnent les problématiques auxquelles elles font face grâce au partage de leurs compétences en utilisant les ressources locales et durables. C’est une forme d’innovation qui respecte les principes de la [](https://youmatter.world/fr/definition/resilience-definition/)résilience.**
 
 <!--EndFragment-->
 

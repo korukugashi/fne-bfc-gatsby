@@ -33,7 +33,7 @@ Cet atelier se base sur le principe du *design thinking :* **Le Design Thinking 
 
 Au sujet des low-tech :
 
-En français, le terme low-tech se traduit par technologies et techniques sobres. Le mouvement low-tech se caractérise par la mise en œuvre de technologies / techniques peu onéreuses, accessibles à tous et toutes, durables faisant appel à des moyens courants et localement disponibles.
+En français, le terme LowTech se traduit par technologies et techniques sobres. Le mouvement Lowtech se caractérise par la mise en œuvre de technologies / techniques peu onéreuses, accessibles à tous et toutes, durables faisant appel à des moyens courants et localement disponibles.
 
 Le low-tech s'inscrit dans le concept d'innovation frugale et consiste à répondre à des besoins déterminés par des solutions dont on pense l'impact environnemental, économique et social. 
 

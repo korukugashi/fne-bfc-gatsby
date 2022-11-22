@@ -21,3 +21,9 @@ Cet atelier est proposé, construit et sera animé par Dominique Bollinger, de l
 Public cible : 30 représentants d’acteurs institutionnels et associatifs, parties prenantes de ce domaine (low-tech ou transition écologique & sociale) et capables de prendre une décision concernant le sujet proposé. Les inscriptions pour l'atelier ne sont pas encore ouvertes, cependant, si vous souhaitez y participer et avoir davantage d'informations, vous pouvez envoyer un mail dès aujourd'hui à transition.action@fne-bfc.fr
 
 Cet atelier se déroule dans le cadre du programme Transition Action qui porte sur les low-tech, les communs et la sobriété. Ce programme a débuté en mars 2021 et il vise à acculturer les acteurs de la région à ces trois thématiques. Il est financé par la région BFC et l'ADEME BFC.
+
+
+
+Lien d'inscription : <https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/solutions-et-actions-low-tech-ateliers-de-co-developpement>
+
+Vous pouvez également vous inscrire par mail : transition.action@fne-bfc.fr

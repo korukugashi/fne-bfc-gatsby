@@ -29,16 +29,33 @@ Ainsi, les participant.e.s seront en mesure au terme de cette journée de :
 
 Cet atelier se base sur le principe du *design thinking :* **Le Design Thinking est une méthode d’intelligence collective centrée sur l’utilisateur (ses usages, ses attentes, ses besoins). C'est une méthode créative pour appréhender et résoudre des problèmes complexes de manière collaborative et empathique en se basant sur les méthodes des designers.** Cet atelier est pensé et sera animé par Dominique Bollinger, Institut d’ingénierie duterritoire (insit) de la Haute École d’Ingénierie et de Gestion du Canton de Vaud (HEIG-VD) en collaboration avec l’alliance des Human-Centric Leaders représentée par Xavier Garcia-Weibel.
 
+
+
 Au sujet des low-tech :
 
 En français, le terme low-tech se traduit par technologies et techniques sobres. Le mouvement low-tech se caractérise par la mise en œuvre de technologies / techniques peu onéreuses, accessibles à tous et toutes, durables faisant appel à des moyens courants et localement disponibles.
 
 Le low-tech s'inscrit dans le concept d'innovation frugale et consiste à répondre à des besoins déterminés par des solutions dont on pense l'impact environnemental, économique et social. 
 
-**Il implique activement les individus et les communautés afin qu'elles solutionnent les problématiques auxquelles elles font face grâce au partage de leurs compétences en utilisant les ressources locales et durables. C’est une forme d’innovation qui respecte les principes de la [](https://youmatter.world/fr/definition/resilience-definition/)résilience.**
+**Il implique activement les individus et les communautés afin qu'elles solutionnent les problématiques auxquelles elles font face grâce au partage de leurs compétences en utilisant les ressources locales et durables.** 
+
+
+
+**C’est une forme d’innovation qui respecte les principes de la [](https://youmatter.world/fr/definition/resilience-definition/)résilience.**
 
 <!--EndFragment-->
 
+
+
 Pour s'inscrire : <https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/evenements/solutions-et-actions-low-tech-ateliers-de-co-developpement>
 
-Ou contacter : transition.action@fne-bfc.fr
+Ou contacter : 
+
+Lou-ann Hennequin
+
+<!--StartFragment-->
+
+Tel : 06 67 44 37 65\
+Mail : [transition.action@fne-bfc.fr](mailto:transition.action@fne-bfc.fr)
+
+<!--EndFragment-->

@@ -60,6 +60,6 @@ salaries:
     fonction: Chargée de mission Transition-Action
     photo: /img/user.png
   - name: Albin Bourg
-    fonction: Volontaire en Service civique
+    fonction: Volontaire en Service civique sur les Haies et Végétal local
     photo: /img/capture-d’écran-2022-11-28-171059.png
 ---

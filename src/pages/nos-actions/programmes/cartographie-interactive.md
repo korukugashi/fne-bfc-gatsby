@@ -3,7 +3,7 @@ templateKey: programmes
 title: Sentinelles de la nature et Cartes vertes
 description: Cartes interactives des atteintes à l'environnement et des actions
   citoyennes en faveur de l’environnement.
-featuredimage: /img/logo-rogne-sentinelles-nature.jpg
+featuredimage: /img/logo-sentinelles-nature3.jpg
 onHome: true
 tags:
   - Territoire

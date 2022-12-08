@@ -4,7 +4,7 @@ title: Sentinelles de la nature et Cartes vertes
 description: Cartes interactives des atteintes à l'environnement et des actions
   citoyennes en faveur de l’environnement.
 featuredimage: /img/logo_sentinelles_nature-fne.png
-onHome: false
+onHome: true
 tags:
   - Territoire
 ---

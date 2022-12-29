@@ -37,7 +37,7 @@ Pour nous signaler une atteinte, il faut donc :
 
 *Pour nous signaler une atteinte à l’environnement directement sur le terrain et même sans connexion, téléchargez l’application Sentinelles de la Nature sur [Apple](https://itunes.apple.com/us/app/sentinelles-de-la-nature/id1357063594) ou [Android](https://play.google.com/store/apps/details?id=fr.sentinellesdelanature).*
 
-![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=600#img-center "Télécharger l'application Sentinelles")
+![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=500#img-center "Télécharger l'application Sentinelles")
 
 #### Et après ?
 

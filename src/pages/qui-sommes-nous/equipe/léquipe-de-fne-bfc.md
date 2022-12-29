@@ -62,4 +62,7 @@ salaries:
   - name: Albin Bourg
     fonction: Volontaire en Service civique sur les Haies et Végétal local
     photo: /img/capture-d’écran-2022-11-28-171059.png
+  - name: Philippine Magnin-Feysot
+    fonction: Chargée de mission Sentinelles de la Nature et Cartes Vertes
+    photo: /img/21316242_1369220386524270_3103866155333227914_o.png
 ---

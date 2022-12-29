@@ -37,7 +37,7 @@ Pour nous signaler une atteinte, il faut donc :
 
 *Pour nous signaler une atteinte à l’environnement directement sur le terrain et même sans connexion, téléchargez l’application Sentinelles de la Nature sur [Apple](https://itunes.apple.com/us/app/sentinelles-de-la-nature/id1357063594) ou [Android](https://play.google.com/store/apps/details?id=fr.sentinellesdelanature).*
 
-![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=695#img-center "Télécharger l'application Sentinelles")
+![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=600#img-center "Télécharger l'application Sentinelles")
 
 #### Et après ?
 
@@ -56,8 +56,8 @@ Consultable sur internet, elle permet à chacun de trouver facilement des action
 
 Pour nous partager une bonne action en faveur de la préservation de l’environnement, la démarche est simple et rapide : 
 
-1. Rendez vous sur <https://www.cartesvertes.fr>
-2. Cliquez sur « **Participer** »
+1. Rendez vous sur <https://www.cartesvertes.fr> ﻿;
+2. Cliquez sur « **Participer** » ;
 3. **Remplissez le formulaire**. 
 
 Tout comme Sentinelles de la Nature, **une équipe traitera votre demande** et veillera à la publication de cette initiative sur la carte publique. 

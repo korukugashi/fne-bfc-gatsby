@@ -16,7 +16,7 @@ T﻿émoin d'une atteinte à la nature ou d'une bonne action ? Devenez acteur et
 
 [Sentinelles de la Nature](https://sentinellesdelanature.fr/) est un projet fédéral du mouvement France Nature Environnement qui permet, à **chaque citoyen et citoyenne**, de **localiser** et de **signaler** des **atteintes** à l’environnement. L’interface Sentinelles de la Nature couvre aujourd’hui tout le territoire métropolitain, ainsi que la Guyane.
 
-![Sentinelles de la nature en Bourgogne Franche Comté](/img/sentinelles-bfc.png?nf_resize=fit&w=600#img-center "Sentinelles de la nature en Bourgogne Franche Comté")
+![Sentinelles de la nature en Bourgogne Franche Comté](/img/sentinelles-bfc.png?nf_resize=fit&w=502#img-center "Sentinelles de la nature en Bourgogne Franche Comté")
 
 #### J’ai été témoin d’une atteinte à l’environnement. Comment déposer un signalement ?
 
@@ -37,7 +37,7 @@ Pour nous signaler une atteinte, il faut donc :
 
 *Pour nous signaler une atteinte à l’environnement directement sur le terrain et même sans connexion, téléchargez l’application Sentinelles de la Nature sur [Apple](https://itunes.apple.com/us/app/sentinelles-de-la-nature/id1357063594) ou [Android](https://play.google.com/store/apps/details?id=fr.sentinellesdelanature).*
 
-![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=603#img-center "Télécharger l'application Sentinelles")
+![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=695#img-center "Télécharger l'application Sentinelles")
 
 #### Et après ?
 

@@ -43,7 +43,7 @@ Pour nous signaler une atteinte, il faut donc :
 
 L’**équipe de référent•e•s** Sentinelles de la Nature de votre département vous répondront. Après avoir validé la publication de votre signalement sur la cartographie publique, ils **vous** **conseilleront** sur les démarches à effectuer ou **vous tiendront informé•e** des actions réalisées par notre association.
 
-## *Cartes vertes*
+## Cartes vertes
 
 #### Qu'est-ce que c'est ?
 
@@ -68,9 +68,9 @@ Tout comme Sentinelles de la Nature, **une équipe traitera votre demande** et v
 
 Par le biais de l’animation de Cartes vertes et Sentinelles de la Nature en Bourgogne Franche Comté, nous visons à : 
 
-1. **Dynamiser la mobilisation** citoyenne, associative, des acteurs privés et publics ;
-2. **Améliorer la prévention et la résorption** des atteintes à l'environnement ;
-3. **Favoriser le développement d'initiatives** **favorables** à l’environnement. 
+1. Dynamiser la mobilisation citoyenne, associative, des acteurs privés et publics ;
+2. Améliorer la prévention et la résorption des atteintes à l'environnement ;
+3. Favoriser le développement d'initiatives favorables à l’environnement. 
 
 
 

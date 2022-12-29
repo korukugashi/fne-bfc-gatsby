@@ -8,7 +8,7 @@ onHome: true
 tags:
   - Territoire
 ---
-T﻿émoin d'une atteinte à la nature ou d'une bonne action ? Devenez acteur de la préservation de l'environnement en les recensant sur les plateformes Sentinelles de la Nature et Cartes Vertes. 
+T﻿émoin d'une atteinte à la nature ou d'une bonne action ? Devenez acteur et actrice de la préservation de l'environnement en les recensant sur les plateformes Sentinelles de la Nature et Cartes Vertes. 
 
 ## Sentinelles de la nature
 
@@ -16,7 +16,7 @@ T﻿émoin d'une atteinte à la nature ou d'une bonne action ? Devenez acteur de
 
 [Sentinelles de la Nature](https://sentinellesdelanature.fr/) est un projet fédéral du mouvement France Nature Environnement qui permet, à **chaque citoyen et citoyenne**, de **localiser** et de **signaler** des **atteintes** à l’environnement. L’interface Sentinelles de la Nature couvre aujourd’hui tout le territoire métropolitain, ainsi que la Guyane.
 
-![Sentinelles de la nature en Bourgogne Franche Comté](/img/sentinelles-bfc.png?nf_resize=fit&w=31#img-center "Sentinelles de la nature en Bourgogne Franche Comté")
+![Sentinelles de la nature en Bourgogne Franche Comté](/img/sentinelles-bfc.png?nf_resize=fit&w=600#img-center "Sentinelles de la nature en Bourgogne Franche Comté")
 
 #### J’ai été témoin d’une atteinte à l’environnement. Comment déposer un signalement ?
 
@@ -35,9 +35,9 @@ Pour nous signaler une atteinte, il faut donc :
    -﻿L’ajout de photos illustrant l’ampleur de la situation.
 5. **Envoyer** votre signalement.
 
-*Pour nous signaler une atteinte à l’environnement directement sur le terrain et même sans connexion, téléchargez l’application Sentinelles de la Nature sur [Apple](https://itunes.apple.com/us/app/sentinelles-de-la-nature/id1357063594) ou [Android](https://play.google.com/store/apps/details?id=fr.sentinellesdelanature)*
+*Pour nous signaler une atteinte à l’environnement directement sur le terrain et même sans connexion, téléchargez l’application Sentinelles de la Nature sur [Apple](https://itunes.apple.com/us/app/sentinelles-de-la-nature/id1357063594) ou [Android](https://play.google.com/store/apps/details?id=fr.sentinellesdelanature).*
 
-![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=31#img-center "Télécharger l'application Sentinelles")
+![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=603#img-center "Télécharger l'application Sentinelles")
 
 #### Et après ?
 
@@ -62,7 +62,7 @@ Pour nous partager une bonne action en faveur de la préservation de l’environ
 
 Tout comme Sentinelles de la Nature, **une équipe traitera votre demande** et veillera à la publication de cette initiative sur la carte publique. 
 
-![Cartes Vertes](/img/logocartesvertes.png?nf_resize=fit&w=39#img-center "Cartes Vertes")
+![Cartes Vertes](/img/logocartesvertes.png?nf_resize=fit&w=400#img-center "Cartes Vertes")
 
 ## Nos objectifs
 
@@ -74,8 +74,8 @@ Par le biais de l’animation de Cartes vertes et Sentinelles de la Nature en Bo
 
 
 
+
+
 **Pour plus d’information, merci de contacter** 
 
 ***Philippine MAGNIN-FEYSOT***, *Chargée d’animation Sentinelles de la Nature et Cartes Vertes* à l'adresse **sentinelles@fne-bfc.fr**
-
-![Cartes vertes](#img-center "Cartes vertes")

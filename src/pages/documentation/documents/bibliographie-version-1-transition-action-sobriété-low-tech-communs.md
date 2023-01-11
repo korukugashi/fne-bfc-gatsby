@@ -2,12 +2,8 @@
 templateKey: documents
 date: 2022-05-13T12:36:58.224Z
 title: Bibliographie - Version 2 Transition Action - Sobriété Low-tech Communs
-file: /img/bibliographie-transition-action-1-.pdf
+file: /img/bibliographie-transition-action-1-.jpg
 photo: /img/bibliographie-transition-action-1-.jpg
 category: Transition Action
 ---
-Première version de la bibliographie du programme Transition Action. \
-Vous pourrez y piocher des articles, liens vers des livres, rapports pour en apprendre davantage sur les communs, les low-tech et la sobriété.\
-La bibliographie sera mise à jour en fonction de l'actualité dans ces trois thématiques.
-
-BONNE LECTURE !
+En cours de mise à jour

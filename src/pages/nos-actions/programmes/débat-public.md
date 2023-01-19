@@ -24,6 +24,10 @@ Ses objectifs
 
 Le Programme Débat Public est financé par le Conseil Régional Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté.
 
+L﻿aurence Nguyen, coordinatrice du programme - coordination@debatpublic-bfc.org - 06.52.18.06.93
+
+M﻿arine Luczak, chargée de communication - animation@debatpublic-bfc.org - 06.58.70.64.67
+
 <!--EndFragment-->
 
 [Découvrez les synthèses des débats et nos publications](https://debatpublic-bfc.org/bibliotheque/)

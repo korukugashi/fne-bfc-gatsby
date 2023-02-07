@@ -18,4 +18,6 @@ Le GAEC des azurés est accompagné par **France Nature Environnement Bourgogne-
 
 **Le chantier de plantation a été organisé** le **3 février 2023 par FNE BFC (France Nature Environnement Bourgogne-Franche-Comté) en partenariat et avec l’aide précieuse du** CAP agricole jardinier paysagiste du LEAP St Joseph des Fontenelles (25210) qui avait mobilisé une classe l’occasion. La plantation fut l’occasion d’une mise en pratique concrète et très appréciée des jeunes apprenants.
 
+![](/img/p2031351.jpg?nf_resize=fit&w=400#center)
+
 ![](/img/messaging1675780687579.jpg?nf_resize=fit&w=400#img-center)

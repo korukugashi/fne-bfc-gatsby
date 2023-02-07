@@ -14,7 +14,7 @@ Le GAEC des azurés est accompagné par **France Nature Environnement Bourgogne-
 
 **13 essences différentes** ont été implantées : Charme, Érable champêtre, Sorbier des oiseleurs, Chêne sessile, Noisetier, Sureau noir, Troène, Viorne lantane, Prunelier, Cornouiller sanguin, Fusain d’Europe, épine vinette, groseillier rouge
 
-85% des jeunes plants proviennent d’une pépinière locale et sont labélisé « Végétal local ». Ils sont donc issus de graines prélevées en milieu sauvage et locale et adaptés à leur air biogéographique.
+85% des jeunes plants proviennent d’une pépinière local et sont labélisé « Végétal local ». Ils sont donc issus de graines prélevées en milieu sauvage et locale et adaptés à leur air biogéographique.
 
 **Le chantier de plantation a été organisé** le **3 février 2023 par FNE BFC (France Nature Environnement Bourgogne-Franche-Comté) en partenariat et avec l’aide précieuse du** CAP agricole jardinier paysagiste du LEAP St Joseph des Fontenelles (25210) qui avait mobilisé une classe l’occasion. La plantation fut l’occasion d’une mise en pratique concrète et très appréciée des jeunes apprenants.
 

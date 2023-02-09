@@ -28,4 +28,4 @@ Le GAEC des azurés est accompagné par **France Nature Environnement Bourgogne-
 
 ![](/img/p2031343.jpg?nf_resize=fit&w=400#img-center)
 
-![](/img/p2031347.jpg?nf_resize=fit&w=400#center)
+![](/img/p2031347.jpg?nf_resize=fit&w=400#img-center)

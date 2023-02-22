@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2022-01-19T09:07:04.745Z
-title: Compte-rendu de la journée de lancement du programme Transition Action
+title: TA - CR journée de lancement du programme Transition Action - 30 novembre 2021
 file: /img/cr-journée-ta-3011.pdf
 photo: /img/programme-3011.jpg
 category: Transition Action

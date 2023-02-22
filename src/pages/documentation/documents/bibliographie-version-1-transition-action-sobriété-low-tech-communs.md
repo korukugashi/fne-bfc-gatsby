@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2022-05-13T12:36:58.224Z
-title: Bibliographie - Version 3 Transition Action - Sobriété Low-tech Communs
+title: TA- Bibliographie - Version 3 - Sobriété Low-tech Communs
 file: /img/biblio-v3-transitionaction.pdf
 photo: /img/le-projet-transition-action-souhaite-sensibiliser-décideurs-et-responsables-politiques-et-territoriaux-à-trois-thèmes-les-low-tech-la-sobriété-et-les-communs-afin-de-pouvoir-accompagner-les-territoires-qui-le-so-1.jpg
 category: Transition Action

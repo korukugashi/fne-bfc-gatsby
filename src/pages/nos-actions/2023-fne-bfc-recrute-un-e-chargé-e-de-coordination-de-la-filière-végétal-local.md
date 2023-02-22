@@ -9,4 +9,4 @@ featuredimage: /img/img_7253-1024x768.jpg
 tags:
   - Végétal local
 ---
-à venir
+tous les détails sur ce lien : <a href="/img/offre-d-emploi-chargé-de-mission-filière-vl.pdf" target="_blank">Offre d'emploi chargé.e de coordination de la filière Végétal local</a>

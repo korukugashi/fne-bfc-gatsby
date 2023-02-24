@@ -52,7 +52,7 @@ const Join = () => (
           id="haWidget"
           allowtransparency="true"
           scrolling="auto"
-          src="https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/adhesions/test/widget"
+          src="https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/adhesions/adherez-a-fne-bfc/widget"
           style={{ width: "100%", height: 850, border: "none" }}
           title="Adhésion en ligne FNE-BFC"
         ></iframe>

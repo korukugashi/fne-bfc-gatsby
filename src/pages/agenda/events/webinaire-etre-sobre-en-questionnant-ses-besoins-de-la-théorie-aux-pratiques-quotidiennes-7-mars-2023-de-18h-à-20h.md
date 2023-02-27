@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2023-02-27T09:17:51.846Z
+date: 2023-03-07T17:00:00.000Z
 title: "WEBINAIRE | Etre sobre en questionnant ses besoins : de la théorie aux
   pratiques quotidiennes | 7 mars 2023 de 18h à 20h"
 location: En ligne (lien à venir)

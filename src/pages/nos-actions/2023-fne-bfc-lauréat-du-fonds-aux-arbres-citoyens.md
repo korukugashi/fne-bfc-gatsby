@@ -28,10 +28,10 @@ Il ressort 3 principaux objectifs de notre projet Biodiversit’haies 2023-2025 
 
 • Objectif 2 : Préserver le patrimoine génétique des plants d’arbres et d’arbustes en développant la filière de végétaux d’origine locale « Végétal local » sur la zone Rhône-Saône et Jura pour laquelle FNE BFC est chargé de l’animation.
 
-![](/img/dsc_0200-1024x576.jpg?nf_resize=fit&w=400#center)
+![](/img/dsc_0200-1024x576.jpg?nf_resize=fit&w=400#img-center)
 
 • Objectif 3 : Faire prendre conscience aux acteurs locaux de l'importance du maintien d'un maillage bocager au niveau environnemental, économique et social.
 
-![](?nf_resize=fit&w=400#img-center)
+![](/img/dsc_0509-2-.jpg?nf_resize=fit&w=400#img-center)
 
 <!--EndFragment-->

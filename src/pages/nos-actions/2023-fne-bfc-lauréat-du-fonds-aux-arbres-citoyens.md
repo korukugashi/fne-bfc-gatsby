@@ -32,4 +32,6 @@ Il ressort 3 principaux objectifs de notre projet Biodiversit’haies 2023-2025 
 
 • Objectif 3 : Faire prendre conscience aux acteurs locaux de l'importance du maintien d'un maillage bocager au niveau environnemental, économique et social.
 
+![](?nf_resize=fit&w=400#img-center)
+
 <!--EndFragment-->

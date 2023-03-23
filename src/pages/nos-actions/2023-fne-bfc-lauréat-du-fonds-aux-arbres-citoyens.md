@@ -3,7 +3,8 @@ templateKey: action-post
 title: FNE BFC lauréat du fonds "Aux arbres citoyens" !
 date: 2023-03-23T09:06:24.973Z
 description: Le projet Biodiversit'haies fait partie des 39 projets soutenus par
-  le fonds aux Arbres citoyens
+  le fonds aux Arbres citoyens. Mille Mercis aux français pour leur générosité
+  et au jury pour sa confiance !
 featuredimage: /img/___aac_logo_4k_black_00000.png
 tags:
   - Haies et arbres têtards

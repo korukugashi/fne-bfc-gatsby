@@ -16,6 +16,8 @@ C'est une minorité au comportement dangereux, or si cette action "n'est pas cau
 
 Mettre des pneus, des tuyaux en plastique ailleurs qu'en déchetterie c'est ne rien comprendre à son époque. La pollution est une arme massive.
 
+![](/img/2-768x576.png?nf_resize=fit&w=300#img-center)
+
 NE 17 parle de « La détresse incontestable de la profession », le président de la chambre d’agriculture du 17 dit des agriculteurs "Ils sont au bout du rouleau, ils ont l'impression d'être les vilains".
 
 Il faudrait sortir des impasses et des goulots d’étranglement. La profession n’a effectivement pas vu, et peut-être pas voulu voir, ce qui arrivait, notamment le changement climatique avec ses irrégularités, ses pics de sécheresse et de température, la raréfaction des ressources, les besoins de sobriétés, le besoin de partage et de transparence. Et la soupape saute, mais pour toute la société et pas que pour les céréaliers.

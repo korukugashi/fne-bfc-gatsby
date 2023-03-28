@@ -15,7 +15,7 @@ La présence de bénévoles permettra une surveillance de nuit ponctuelle chez l
 
 #### FERUS organise deux week-end de formation des bénévoles ce printemps chez deux éleveurs partenaires : un dans le Haut-Jura (les 22 et 23 avril, commune Les Rousses) et un dans le Doubs en mai (date à venir).
 
-![](/img/unnamed-3-.jpg?nf_resize=fit&w=31#img-center)
+![](/img/unnamed-3-.jpg?nf_resize=fit&w=30#img-center)
 
 FERUS cherche prioritairement des bénévoles proches de ces zones pouvant intervenir de manière réactive et dans l'urgence, pour renforcer la présence humaine et soulager temporairement les éleveurs.
 

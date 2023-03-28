@@ -4,7 +4,7 @@ date: 2021-05-28T14:13:52.848Z
 title: Comment se procurer du Végétal local en BFC ?
 file: /img/les-végétaux-d-origine-locale-dans-les-marchés.pdf
 photo: /img/capturevl.png
-category: Végétal local
+category: Vegetal local
 ---
 Plusieurs pépinières peuvent vous fournir des végétaux de la marque Végétal local en région Bourgogne-Franche-Comté. L'ensemble des producteurs est mis à jour sur cette page <https://www.vegetal-local.fr/vegetaux-producteurs/recherche>
 

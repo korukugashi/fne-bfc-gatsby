@@ -12,7 +12,7 @@ tags:
 ---
 FNE BFC est émue et scandalisée par [les attaques menées par des militants non contrôlés de la FNSEA 17 partis](https://www.ne17.fr/nouvelle-agression-du-vice-president-de-nature-environnement-17-va-t-on-parler-dagri-terrorisme/), après une manifestation à la Rochelle, en divagation punitives intentionnelle. 
 
-C'est une minorité au comportement dangereux, or si cette action "n'est pas cautionnée" par le président de la FNSEA 17 il dit cependant « comprendre les gars ». Quand il ajoute :"Peut-être aussi que cette personne a bien cherché ce qui lui arrive" et que c'est le retour de "la monnaie de sa pièce», FNE BFC trouve que c’est une pratique de la communication du genre à mettre de l'huile sur le feu. Ce n'est pas ce que l’on est en droit d’espérer d'un responsable de ce niveau.
+C'est une minorité au comportement dangereux, or si cette action "n'est pas cautionnée" par le président de la FNSEA 17 il dit cependant « comprendre les gars ». Quand il ajoute : "Peut-être aussi que cette personne a bien cherché ce qui lui arrive" et que c'est le retour de "la monnaie de sa pièce», FNE BFC trouve que c’est une pratique de la communication du genre à mettre de l'huile sur le feu. Ce n'est pas ce que l’on est en droit d’espérer d'un responsable de ce niveau.
 
 Mettre des pneus, des tuyaux en plastique ailleurs qu'en déchetterie c'est ne rien comprendre à son époque. La pollution est une arme massive.
 

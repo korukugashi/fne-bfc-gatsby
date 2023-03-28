@@ -24,6 +24,8 @@ Il faudrait sortir des impasses et des goulots d’étranglement. La profession 
 
 Nous sommes solidaires de [NE17](https://www.ne17.fr/) dans cet épisode difficile et au fond nous sommes solidaires de tous ceux qui cherchent des solutions à des problèmes qui dépassent toutes les catégories sociales. Sans cette hauteur de vue, notre société s’effondrera et évoluera encore vers plus de  violence La violence du réel est la seule qui soit à affronter. Celles des catégories sociales compliquent et sèment la confusion.
 
+###### E﻿n complément :
+
 <!--StartFragment-->
 
 **[https://france3-regions.​francetvinfo.fr/nouvelle-​aquitaine/charente-maritime/​la-rochelle/la-maison-d-un-​militant-ecologiste-saccagee-​par-des-agriculteurs-en-marge-​d-une-manifestation-de-la-​fnsea-a-la-rochelle-2738562.​html](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/la-maison-d-un-militant-ecologiste-saccagee-par-des-agriculteurs-en-marge-d-une-manifestation-de-la-fnsea-a-la-rochelle-2738562.html)**

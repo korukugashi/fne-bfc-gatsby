@@ -1,4 +1,4 @@
 ---
 templateKey: categories
-label: Vegetal local
+label: Végétal local
 ---

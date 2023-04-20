@@ -50,8 +50,8 @@ salaries:
   - name: Maxence Belle
     fonction: Chargé de mission biodiversité
     photo: /img/capture-d’écran-2020-10-28-115050.jpg
-  - name: Jocelyn Mazuel
-    fonction: Chargé de mission biodiversité
+  - name: Salomé Dittiere
+    fonction: Chargée de projet biodiversité
     photo: /img/user.png
   - name: Élise Chatelain
     fonction: Secrétariat

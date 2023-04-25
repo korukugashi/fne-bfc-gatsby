@@ -15,7 +15,7 @@ duration: 10h à 17h
 
 <!--StartFragment-->
 
-France Nature Environnement Bourgogne Franche-Comté (FNE BFC), fédération régionale des associations de protection de la nature et de l’environnement, vous invite à une journée de concertation réunissant tous les acteurs du territoire pour contribuer aux orientations futures de son programme Débat Public Bourgogne Franche-Comté.
+France Nature Environnement Bourgogne Franche-Comté (FNE BFC), vous invite à une journée de concertation réunissant tous les acteurs du territoire pour contribuer aux orientations futures de son programme Débat Public Bourgogne Franche-Comté.
 
 #### En quoi consiste le programme Débat Public Bourgogne Franche-Comté ?
 

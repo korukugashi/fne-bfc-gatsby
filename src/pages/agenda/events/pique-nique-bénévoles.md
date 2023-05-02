@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2023-05-02T09:30:51.939Z
+date: 2023-05-24T10:30:00.000Z
 title: Pique-nique bénévoles
 location: Jardin partagé de Battant - 26 rue Marulaz à Besançon
 duration: 12h30

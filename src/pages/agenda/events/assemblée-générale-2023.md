@@ -5,9 +5,9 @@ title: Assemblée Générale 2023
 location: Mairie de Dole
 duration: 14h30 - 19h00
 ---
-![](/img/agfnebfc-1-.png?nf_resize=fit&w=400#img-center)
+![](/img/agfnebfc-1-.png#img-center)
 
-## l'AG de FNE-BFC se déroulera le 17 mai 2023 à 14h30 à DOLE 
+## l'AG de FNE-BFC se déroulera le 17 mai 2023 à 14h30 à DOLE
 
 ![](/img/ra2022.png?nf_resize=fit&w=200#center)
 

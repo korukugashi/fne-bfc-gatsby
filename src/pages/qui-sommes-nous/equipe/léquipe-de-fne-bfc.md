@@ -65,4 +65,7 @@ salaries:
   - name: Philippine Magnin-Feysot
     fonction: Chargée de mission Sentinelles de la Nature et Cartes Vertes
     photo: /img/21316242_1369220386524270_3103866155333227914_o.png
+  - name: Adrien Léturgie
+    fonction: Chargé de développement de la filière Végétal local
+    photo: /img/user.png
 ---

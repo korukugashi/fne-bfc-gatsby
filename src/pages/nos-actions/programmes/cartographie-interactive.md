@@ -1,20 +1,22 @@
 ---
 templateKey: programmes
 title: Sentinelles de la nature et Cartes vertes
-description: Cartes interactives des atteintes à l'environnement et des actions
+description: Cartes interactives des atteintes à la nature et des actions
   citoyennes en faveur de l’environnement.
 featuredimage: /img/sentinelles.png
 onHome: true
 tags:
   - Territoire
 ---
-T﻿émoin d'une atteinte à la nature ou d'une bonne action ? Devenez acteur et actrice de la préservation de l'environnement en les recensant sur les plateformes Sentinelles de la Nature et Cartes Vertes. 
+T﻿émoin d'une atteinte à la nature ou d'une bonne action ? Devenez acteur de la préservation de l'environnement en les recensant sur les plateformes Sentinelles de la Nature et Cartes Vertes. 
 
 ## Sentinelles de la nature
 
-#### Q﻿u'est-ce que c'est ?
+Pour nous signaler une atteinte à l’environnement, rendez-vous sur notre [site internet](https://sentinellesdelanature.fr/) ou téléchargez l’application Sentinelles de la Nature sur  [Apple](https://itunes.apple.com/us/app/sentinelles-de-la-nature/id1357063594) ou [Android](https://play.google.com/store/apps/details?id=fr.sentinellesdelanature).
 
-[Sentinelles de la Nature](https://sentinellesdelanature.fr/) est un projet fédéral du mouvement France Nature Environnement qui permet, à **chaque citoyen et citoyenne**, de **localiser** et de **signaler** des **atteintes** à l’environnement. L’interface Sentinelles de la Nature couvre aujourd’hui tout le territoire métropolitain, ainsi que la Guyane.
+![Télécharger l'application Sentinelles](/img/qr-code-2.jpg#img-center "Télécharger l'application Sentinelles")
+
+[Sentinelles de la Nature](https://sentinellesdelanature.fr/) est un projet fédéral du mouvement France Nature Environnement qui permet, à **chaque citoyen**, de **localiser** et de **signaler** des **atteintes** à l’environnement. L’interface Sentinelles de la Nature couvre aujourd’hui tout le territoire métropolitain, ainsi que la Guyane et Mayotte.
 
 ![Sentinelles de la nature en Bourgogne Franche Comté](/img/sentinelles-bfc.png?nf_resize=fit&w=502#img-center "Sentinelles de la nature en Bourgogne Franche Comté")
 
@@ -35,10 +37,6 @@ Pour nous signaler une atteinte, il faut donc :
    -﻿L’ajout de photos illustrant l’ampleur de la situation.
 5. **Envoyer** votre signalement.
 
-*Pour nous signaler une atteinte à l’environnement directement sur le terrain et même sans connexion, téléchargez l’application Sentinelles de la Nature sur [Apple](https://itunes.apple.com/us/app/sentinelles-de-la-nature/id1357063594) ou [Android](https://play.google.com/store/apps/details?id=fr.sentinellesdelanature).*
-
-![Télécharger l'application Sentinelles](/img/sentinelles-appli.png?nf_resize=fit&w=500#img-center "Télécharger l'application Sentinelles")
-
 #### Et après ?
 
 L’**équipe de référent•e•s** Sentinelles de la Nature de votre département vous répondront. Après avoir validé la publication de votre signalement sur la cartographie publique, ils **vous** **conseilleront** sur les démarches à effectuer ou **vous tiendront informé•e** des actions réalisées par notre association.
@@ -49,10 +47,9 @@ L’**équipe de référent•e•s** Sentinelles de la Nature de votre départe
 
 Le réseau FNE franc-comtois est à l’initiative des [Cartes Vertes](https://www.cartesvertes.fr). Cette interface, également **interactive** et **participative**, permet de cartographier les **démarches en faveur de l’environnement**. 
 
-
 Consultable sur internet, elle permet à chacun de trouver facilement des actions solidaires en faveur de l’environnement, les moyens de s’informer et surtout, les moyens concrets pour agir.
 
-#### Comment mettre en avant une action en faveur de l’environnement sur Cartes Vertes ? 
+#### Comment mettre en avant une action en faveur de l’environnement sur Cartes Vertes ?
 
 Pour nous partager une bonne action en faveur de la préservation de l’environnement, la démarche est simple et rapide : 
 
@@ -71,10 +68,6 @@ Par le biais de l’animation de Cartes vertes et Sentinelles de la Nature en Bo
 1. Dynamiser la mobilisation citoyenne, associative, des acteurs privés et publics ;
 2. Améliorer la prévention et la résorption des atteintes à l'environnement ;
 3. Favoriser le développement d'initiatives favorables à l’environnement. 
-
-
-
-
 
 **Pour plus d’information, merci de contacter** 
 

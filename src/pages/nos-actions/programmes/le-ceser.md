@@ -36,6 +36,6 @@ Par arrêté préfectoral en date du 27 novembre 2017, l'assemblée renouvelée 
 
 L’assemblée plénière élit le Président, le Bureau, et procède à la désignation des conseillers chargés de représenter le CESER dans des instances extérieures.  Elle se réunit plusieurs fois par an pour valider les travaux conduits au sein des différentes commissions. C'est alors que ses travaux deviennent publics et sont diffusés largement. Les membres sont désignés (et non élus) pour six ans renouvelables.
 
-FNE-BFC a deux représentants au CESER : Martine Petit, présidente de FNE 21 et Pascal Blain de JNE (FNE 39) vice-président de la commission mobilité.
+FNE-BFC a deux représentants au CESER : Martine Petit, présidente de FNE BFC et Dominique Guyon, Administrateur de FNE BFC
 
 [Consulter les pièces officielles émises par le CESER](/documentation/categories/ceser/)

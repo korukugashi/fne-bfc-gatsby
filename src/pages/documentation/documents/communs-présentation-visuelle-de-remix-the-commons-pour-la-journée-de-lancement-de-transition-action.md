@@ -1,8 +1,8 @@
 ---
 templateKey: documents
 date: 2022-01-12T08:54:56.956Z
-title: Communs - Présentation visuelle de Remix the Commons pour la journée de
-  lancement de Transition Action
+title: Communs - Suupot visuel de Remix the Commons - Journée de lancement -
+  Novembre 2021
 file: /img/presentationcommuns.pdf
 photo: /img/pres-communs-3011.jpg
 category: Transition Action

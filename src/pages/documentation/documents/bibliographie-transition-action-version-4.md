@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2023-04-26T08:10:29.116Z
-title: Bibliographie - Transition Action - Version 4
+title: Bibliographie - 2022
 file: /img/le-projet-transition-action-souhaite-sensibiliser-décideurs-et-responsables-politiques-et-territoriaux-à-trois-thèmes-les-low-tech-la-sobriété-et-les-communs-afin-de-pouvoir-accompagner-les-territoires-qui-le-so-2.pdf
 photo: /img/le-projet-transition-action-souhaite-sensibiliser-décideurs-et-responsables-politiques-et-territoriaux-à-trois-thèmes-les-low-tech-la-sobriété-et-les-communs-afin-de-pouvoir-accompagner-les-territoires-qui-le-so-2.jpg
 category: Transition Action

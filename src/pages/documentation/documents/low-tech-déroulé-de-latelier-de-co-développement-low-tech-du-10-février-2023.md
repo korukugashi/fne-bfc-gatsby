@@ -1,7 +1,8 @@
 ---
 templateKey: documents
 date: 2023-03-10T14:23:31.036Z
-title: Low-tech - Déroulé de l'atelier de co-développement low-tech du 10 février 2023
+title: LowTech - Déroulé de l'atelier de co-développement low-tech - 10 février
+  2023 à Quétigny
 file: /img/atelier-low-tech_20230210.pdf
 photo: /img/img_20230210_163634.jpg
 category: Transition Action

@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2023-03-08T08:42:50.601Z
-title: SObriété - Support visuel de l'introduction - Webinaire "Etre sobre en
+title: Sobriété - Support visuel de l'introduction - Webinaire "Etre sobre en
   questionnant ses besoins" - mars 2023
 file: /img/pres-webinairesobriété.pdf
 photo: /img/sobriété-2-.jpg

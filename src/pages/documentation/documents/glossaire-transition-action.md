@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2022-11-14T09:08:58.075Z
-title: TA - Glossaire - Version 1 - hiver 2021
+title: " Glossaire - 2021"
 file: /img/transition-action-glossaire-3-.pdf
 photo: /img/transition-action-glossaire.jpg
 category: Transition Action

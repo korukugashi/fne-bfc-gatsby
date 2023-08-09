@@ -1,6 +1,6 @@
 ---
 templateKey: action-post
-title: Webinaire Sentinelles de la Nuit
+title: Webinaire Sentinelles de la Nuit ✨
 date: 2023-07-12T10:08:01.041Z
 description: "Luttez contre la pollution lumineuse en devenant une Sentinelles
   de la Nuit ! "

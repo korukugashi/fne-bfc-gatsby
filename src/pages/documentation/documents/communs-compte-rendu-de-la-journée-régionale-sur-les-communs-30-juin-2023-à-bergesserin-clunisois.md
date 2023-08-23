@@ -3,7 +3,7 @@ templateKey: documents
 date: 2023-07-26T13:20:29.504Z
 title: Communs - Compte-rendu de la journée régionale sur les Communs - 30 juin
   2023 à Bergesserin, Clunisois
-file: /img/cr-journée-communs-2023-1-.pdf
+file: /img/cr-journée-communs-2023-2-.pdf
 photo: /img/cr-journée-communs-2023.jpg
 category: Transition Action
 ---

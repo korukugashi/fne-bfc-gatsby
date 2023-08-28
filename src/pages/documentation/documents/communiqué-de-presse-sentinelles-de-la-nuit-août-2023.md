@@ -8,7 +8,7 @@ category: Communiqués de presse
 ---
 Lancement de la campagne *Sentinelles de la Nuit,* du 11 août au 14 octobre 2023*.*
 
-[T﻿élécharger](https://www.fne-bfc.fr/documentation/categories/communiqu%C3%A9s-de-presse/)
+[T﻿élécharger](/img/cp-fne-bfc-sentinelles-de-la-nuit.pdf)
 
 ![](/img/1.jpg?nf_resize=fit&w=400#center)
 

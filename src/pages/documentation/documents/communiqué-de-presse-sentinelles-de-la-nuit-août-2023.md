@@ -3,7 +3,7 @@ templateKey: documents
 date: 2023-08-28T14:11:33.207Z
 title: "[COMMUNIQUÉ DE PRESSE] Sentinelles de la Nuit - Août 2023"
 file: /img/cp-fne-bfc-sentinelles-de-la-nuit.pdf
-photo: /img/1.jpg
+photo: /img/presse-site.jpg
 category: Communiqués de presse
 ---
 Lancement de la campagne *Sentinelles de la Nuit,* du 11 août au 14 octobre 2023*.*

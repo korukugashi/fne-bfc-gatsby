@@ -10,9 +10,7 @@ tags:
 ---
 <!--StartFragment-->
 
-[\[C﻿OMMUNIQUÉ DE PRESSE] Sentinelles de la Nuit ](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.fne-bfc.fr/img/cp-fne-bfc-sentinelles-de-la-nuit.pdf)
-
-
+[\[C﻿OMMUNIQUÉ DE PRESSE] Sentinelles de la Nuit](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.fne-bfc.fr/img/cp-fne-bfc-sentinelles-de-la-nuit.pdf)
 
 ## QU’EST-CE QUE LA POLLUTION LUMINEUSE ?
 

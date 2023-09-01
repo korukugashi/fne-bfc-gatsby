@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2023-09-01T08:33:17.750Z
+date: 2023-09-05T07:30:00.000Z
 title: Collecte Végétal Local
 location: Commune de Bucey-Lès-Gy (70)
 duration: 9h30

@@ -10,3 +10,5 @@ duration: 18h à 20h
 R﻿endez-vous le 15 octobre 2023 au (LI)VE à Besançon.
 
 É﻿tudiant.e ? Engagé.e ou non ? Viens t'exprimer et trouver une nouvelle voie de mobilisation.
+
+I﻿nscription : https://forms.gle/d5J59dQqyc25iDak6

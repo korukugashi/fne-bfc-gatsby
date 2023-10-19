@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2023-10-19T08:43:09.512Z
+date: 2023-11-15T17:00:00.000Z
 title: "🗣  ÉVÉNEMENT : Pour toi, la mobilisation c'est quoi ?"
 location: Au (LI)VE, 40 rue de l'observatoire à Besançon
 duration: 18h à 20h

@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2023-10-19T09:31:04.672Z
+date: 2023-11-24T08:00:00.000Z
 title: "🗣  ÉVÉNEMENT Entreprise : Climat & Énergie, Comment se projeter à
   l'horizon de 2030 ?"
 location: Salle Ory, Grand Kursaal à Besançon

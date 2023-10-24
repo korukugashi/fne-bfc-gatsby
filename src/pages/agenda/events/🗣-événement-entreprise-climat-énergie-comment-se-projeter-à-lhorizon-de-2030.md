@@ -4,7 +4,7 @@ date: 2023-11-24T08:00:00.000Z
 title: "🗣  ÉVÉNEMENT Entreprise : Climat & Énergie, Comment se projeter à
   l'horizon de 2050 ?"
 location: Salle Ory, Grand Kursaal à Besançon
-duration: 9h à 12h45 et de 14h à 16h30
+duration: 9h à 12h15 et de 14h à 16h30
 ---
 <!--StartFragment-->
 

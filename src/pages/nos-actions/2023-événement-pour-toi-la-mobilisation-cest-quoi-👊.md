@@ -23,4 +23,10 @@ Avec la participation d'Alternatiba Besançon : mouvement citoyen pour le climat
 
 Fais circuler l'info autour de toi ! ![🤓](https://static.xx.fbcdn.net/images/emoji.php/v9/tc/1.5/16/1f913.png)
 
+<!--StartFragment-->
+
+Inscription : https://forms.gle/d5J59dQqyc25iDak6
+
+<!--EndFragment-->
+
 <!--EndFragment-->

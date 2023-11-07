@@ -27,7 +27,9 @@ Afin d’anticiper les prochaines mutations et d’adapter votre entreprise à s
 
 <!--EndFragment-->
 
-Possibilité de réserver un repas pour le midi au 06.52.18.06.93 jusqu'au 21 novembre.
+<!--StartFragment-->
+
+Pour réserver votre déjeuner, merci de contacter le 06 52 18 06 93 jusqu'au 21 novembre.
 
 Programme de la journée :
 

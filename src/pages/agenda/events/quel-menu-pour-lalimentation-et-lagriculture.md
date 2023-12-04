@@ -9,13 +9,9 @@ duration: 19h à 22h
 
 \> Comment nos choix alimentaires influencent-ils l’agriculture et quelles conséquences cela engendre sur le développement agricole local ?
 
-
-
 \> Quelles actions concrètes pour favoriser des pratiques plus durables dans nos modes de consommation alimentaire ? Quel rôle chacun de nous peut jouer ?
 
 <!--StartFragment-->
-
-
 
 Intervenants :
 
@@ -39,9 +35,7 @@ Intervenants :
 
 [Inscription recommandée](https://shorturl.at/bfmqS)
 
-
-
-![](/img/1.jpg?nf_resize=fit&w=400#center)
+![](/img/1.jpg#center)
 
 <!--EndFragment-->
 

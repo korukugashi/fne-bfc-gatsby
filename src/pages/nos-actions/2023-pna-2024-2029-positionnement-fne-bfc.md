@@ -11,8 +11,4 @@ featuredimage: /img/french-1-.jpg
 tags:
   - Territoire
 ---
-
-
-![](/img/pna1.jpg?nf_resize=fit&w=400#center)
-
-![](/img/pna2.jpg?nf_resize=fit&w=400#center)
+[Document consultable ici.](https://www.fne-bfc.fr/img/pna-positionnement-de-fne-bfc.pdf)

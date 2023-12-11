@@ -99,9 +99,9 @@ const Header = class extends React.Component {
                   </Link>
     
                   <div className="navbar-dropdown">
-                    <Link className="navbar-item" to="/nous-rejoindre/">
+                    {/*<Link className="navbar-item" to="/nous-rejoindre/">
                       Adhérer
-                    </Link>
+    </Link>*/}
                     <Link className="navbar-item" to="/nous-rejoindre/participer/">
                       Agir avec nous
                     </Link>

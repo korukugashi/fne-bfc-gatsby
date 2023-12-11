@@ -42,7 +42,7 @@ const Join = () => (
           sont priées de nous contacter par email à{" "}
           <Obfuscate email="contact@fne-bfc.fr" />.
         </p>
-        <h2>Particuliers</h2>
+        {/*<h2>Particuliers</h2>
         <p className="is-italic">
           <span className="has-text-weight-bold">NB :</span> par défaut, HelloAsso ajoute un don de 
           2,35€ pour la maintenance de leur système. Ce don est facultatif (cliquez sur
@@ -55,7 +55,7 @@ const Join = () => (
           src="https://www.helloasso.com/associations/france-nature-environnement-bourgogne-franche-comte/adhesions/adherez-a-fne-bfc/widget"
           style={{ width: "100%", height: 850, border: "none" }}
           title="Adhésion en ligne FNE-BFC"
-        ></iframe>
+          ></iframe>*/}
       </div>
     </section>
   </Layout>

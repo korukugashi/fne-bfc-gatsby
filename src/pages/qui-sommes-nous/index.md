@@ -42,11 +42,12 @@ Par ses bénévoles, FNE-BFC :
   Nous sommes interlocuteur du **Conseil Régional**, de la [Préfecture de Région](https://www.prefectures-regions.gouv.fr/bourgogne-franche-comte), de l’[ADEME](https://www.ademe.fr/) et de toutes les **structures institutionnelles** que nous sommes amenés à rencontrer dans nos démarches. 
 * Protège la nature. FNE BFC est propriétaire d’environ 75 hectares d'espaces naturels, tels que la [Réserve Naturelle Régionale de Fontenelay (70)](http://cen-franchecomte.org/vallon-fontenelay-art161), pour laquelle la gestion est confiée au [Conservatoire des Espaces Naturels de Franche-Comté](http://cen-franchecomte.org/).
 
-Par ses salarié·e·s, FNE-BFC élargit et spécialise ses missions et objectifs par trois pôles complémentaires :
+Par ses salarié·e·s, FNE-BFC élargit et spécialise ses missions et objectifs par quatre pôles complémentaires :
 
 * [Débat Public Bourgogne Franche-Comté](https://www.fne-bfc.fr/nos-actions/programmes/d%C3%A9bat-public/)
 * [Biodiversit’haie](https://www.fne-bfc.fr/nos-actions/programmes/biodiversithaies/)
 * [Transition Action](https://www.fne-bfc.fr/nos-actions/programmes/transition-action/)
+* [S﻿entinelles de la Nature et Cartes Vertes](https://www.fne-bfc.fr/nos-actions/programmes/cartographie-interactive/)
 
 ## Nos statuts
 

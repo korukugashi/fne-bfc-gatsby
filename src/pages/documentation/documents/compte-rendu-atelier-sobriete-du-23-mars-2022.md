@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2022-06-06T08:47:38.244Z
-title: "Compte-rendu - Atelier SOBRIETE du 23 mars 2022 "
+title: "Sobriété - CR Atelier SOBRIETE - mars 2022 "
 file: /img/cr-atelier-sobriété.pdf
 photo: /img/cr-atelier-sobriété.jpg
 category: Transition Action

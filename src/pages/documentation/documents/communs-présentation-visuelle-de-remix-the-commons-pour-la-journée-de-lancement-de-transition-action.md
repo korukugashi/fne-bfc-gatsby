@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2022-01-12T08:54:56.956Z
-title: Communs - Suupot visuel de Remix the Commons - Journée de lancement -
+title: Communs - Support visuel de Remix the Commons - Journée de lancement -
   Novembre 2021
 file: /img/presentationcommuns.pdf
 photo: /img/pres-communs-3011.jpg

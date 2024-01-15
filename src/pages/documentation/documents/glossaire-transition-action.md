@@ -6,4 +6,4 @@ file: /img/transition-action-glossaire-3-.pdf
 photo: /img/transition-action-glossaire.jpg
 category: Transition Action
 ---
-Glossaire du programme Transition Action qui revient sur des termes importants et renvoient vers des ressources intéressantes pour explorer certaines thématiques - enjeux liés au programme.
+Glossaire du programme Transition Action. Comprendre les termes clés et trouver des ressources pour explorer certaines thématiques - enjeux liés au programme.

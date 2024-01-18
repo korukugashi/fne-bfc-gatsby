@@ -1,8 +1,8 @@
 ---
 templateKey: documents
 date: 2022-11-14T09:08:58.075Z
-title: " Glossaire - 2021"
-file: /img/transition-action-glossaire-3-.pdf
+title: " Glossaire - 2022"
+file: /img/glossaire-v2-ta.pdf
 photo: /img/transition-action-glossaire.jpg
 category: Transition Action
 ---

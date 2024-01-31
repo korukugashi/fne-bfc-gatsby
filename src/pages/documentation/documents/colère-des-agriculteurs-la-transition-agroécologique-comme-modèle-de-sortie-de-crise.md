@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2024-01-30T09:51:25.994Z
-title: "Colère des agriculteurs : La transition agroécologique comme modèle de
+title: "Soutient aux agriculteurs : La transition agroécologique comme modèle de
   sortie de crise"
 file: /img/cp-fne-bfc-colere-des-agriculteurs.pdf
 photo: /img/tractor-3739203_1280.jpg

@@ -4,7 +4,7 @@ date: 2023-04-24T14:39:43.251Z
 title: Communs - CR webinaire "L'eau comme bien commun" - 19 avril 2023
 file: /img/cr-webinaire-eau-bien-commun.pdf
 photo: /img/copie-de-sobriété.jpg
-category: Transition Action
+category: TRANSITION ACTION - Sobriété, low-tech et communs
 ---
 <!--StartFragment-->
 

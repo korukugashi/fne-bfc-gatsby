@@ -5,6 +5,6 @@ title: LowTech - CR de l'atelier de co-développement low-tech - 10 février 202
   à Quétigny
 file: /img/compte-rendu-séminaire-low-tech-dijon-avec-photos.pdf
 photo: /img/solutions-actions.jpg
-category: Transition Action
+category: TRANSITION ACTION - Sobriété, low-tech et communs
 ---
 Compte-rendu de l'atelier réalisé en février sur la thématique des low-tech dans le cadre du programme Transition Action.

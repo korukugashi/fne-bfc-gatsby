@@ -4,7 +4,7 @@ date: 2023-06-20T14:12:42.113Z
 title: Sobriété - CR rencontre sur les choix d'habitat - 13 juin 2023
 file: /img/cr-rencontre-sobriété-choix-d-habitat.pdf
 photo: /img/couverture_cr.jpg
-category: Transition Action
+category: TRANSITION ACTION - Sobriété, low-tech et communs
 ---
 <!--StartFragment-->
 

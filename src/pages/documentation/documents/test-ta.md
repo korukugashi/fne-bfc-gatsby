@@ -4,7 +4,7 @@ date: 2024-02-05T09:24:55.495Z
 title: "TEST TA "
 file: /img/cr-rencontre-sobriété-pratiques-de-mobilité.pdf
 photo: /img/capture-d’écran-2024-02-05-102655.jpg
-category: Communiqués de presse
+category: Transition Action - 2023
 ---
 <!--StartFragment-->
 

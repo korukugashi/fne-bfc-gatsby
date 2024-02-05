@@ -4,7 +4,7 @@ date: 2023-07-21T10:31:01.814Z
 title: Sobriété - CR rencontre sur les pratiques sobres de mobilité - 17 juillet 2023
 file: /img/cr-rencontre-sobriété-pratiques-de-mobilité.pdf
 photo: /img/image-cr.jpg
-category: Transition Action
+category: TRANSITION ACTION - Sobriété, low-tech et communs
 ---
 <!--StartFragment-->
 

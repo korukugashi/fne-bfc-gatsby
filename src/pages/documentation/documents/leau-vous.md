@@ -14,8 +14,6 @@ category: Eau
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 Le projet a démarré par une enquête citoyenne pour :
@@ -31,8 +29,8 @@ Le projet a démarré par une enquête citoyenne pour :
 
 <!--EndFragment-->
 
-![](/img/1.jpg?nf_resize=fit&w=400#center)
+![](#center)
 
-![](/img/2.jpg?nf_resize=fit&w=400#center)
+![](#center)
 
-![](/img/3.jpg?nf_resize=fit&w=400#center)
+![](#center)

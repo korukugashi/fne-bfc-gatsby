@@ -41,15 +41,9 @@ admins:
     fonction: Administrateur
     photo: /img/user.png
 salaries:
-  - name: Laurence Nguyen
-    fonction: Coordinatrice du Débat Public BFC
-    photo: /img/user.png
   - name: Marine Luczak
     fonction: Chargée de communication du Débat Public BFC
     photo: /img/user.png
-  - name: Maxence Belle
-    fonction: Directeur et chargé de projet Biodiversité
-    photo: /img/capture-d’écran-2020-10-28-115050.jpg
   - name: Salomé Dittiere
     fonction: Chargée de projet biodiversité
     photo: /img/user.png
@@ -58,9 +52,6 @@ salaries:
     photo: /img/user.png
   - name: Lou-Ann Hennequin
     fonction: Chargée de mission Transition-Action
-    photo: /img/user.png
-  - name: Léonie Friot
-    fonction: Chargée de mission (stagiaire) pour Transition-Action
     photo: /img/user.png
   - name: Philippine Magnin-Feysot
     fonction: Chargée de mission Sentinelles de la Nature et Cartes Vertes

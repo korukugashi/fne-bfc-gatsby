@@ -3,7 +3,7 @@ templateKey: agenda
 date: 2024-03-02T08:30:00.000Z
 title: Plantation d'une haies champêtres
 location: Audeux (25)
-duration: 9:30
+duration: 9h30
 ---
 <!--StartFragment-->
 

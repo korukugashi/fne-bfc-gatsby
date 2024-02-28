@@ -1,7 +1,7 @@
 ---
 templateKey: agenda
 date: 2024-02-22T08:00:00.000Z
-title: Plantation d’une haie champêtre
+title: Plantation d’une haies champêtres
 location: Avoudrey (25690)
 duration: À partir de 9h
 ---

@@ -2,7 +2,7 @@
 templateKey: agenda
 date: 2024-03-22T17:30:00.000Z
 title: Ruralité & Alimentation dans le contexte du changement climatique
-location: Clyny (71)
+location: Cluny (71)
 duration: 18h30
 ---
 <!--StartFragment-->

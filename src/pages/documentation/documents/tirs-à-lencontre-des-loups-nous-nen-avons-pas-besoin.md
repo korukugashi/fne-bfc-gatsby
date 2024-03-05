@@ -7,7 +7,6 @@ photo: /img/captuggre.jpg
 category: Communiqués de presse
 ---
 Le Gouvernement vient de publier l'arrêté facilitant les tirs à l'encontre des loups
-(JORF n°0045 - 23 février 2024) :
 NOUS N'EN AVONS PAS BESOIN
 
 F﻿erus, Vigie Jura et FNE BFC réagissent.

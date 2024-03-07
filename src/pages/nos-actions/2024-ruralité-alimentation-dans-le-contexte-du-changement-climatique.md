@@ -1,6 +1,6 @@
 ---
 templateKey: action-post
-title: Ruralité & Alimentation dans le contexte du changement climatique
+title: "[ÉVÈNEMENT] Ruralité & Alimentation dans le contexte du changement climatique"
 date: 2024-03-07T13:56:53.308Z
 description: >-
   Vendredi 22 mars 2024
@@ -9,7 +9,7 @@ description: >-
 
 
   Aura lieu pendant la deuxième édition des Rencontres des Pensées de l’Écologie.
-featuredimage: /img/dp-alimentation-2024-affiche.jpg
+featuredimage: /img/2022_nl-dp-bfc_-6-.jpg
 tags:
   - Agriculture
   - Territoire

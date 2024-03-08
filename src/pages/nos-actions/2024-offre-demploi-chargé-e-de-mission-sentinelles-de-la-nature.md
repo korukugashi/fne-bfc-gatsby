@@ -4,8 +4,8 @@ title: "[OFFRE D'EMPLOI] Chargé.e de mission Sentinelles de la Nature"
 date: 2024-03-08T10:38:01.963Z
 description: |-
   Date limite des candidatures : 31 mars 2024
-  CV et LM uniquement par mail à l'adresse contact@fne-bfc.fr
-  Prise de poste : début mai 2024
+  // CV et LM uniquement par mail à l'adresse contact@fne-bfc.fr
+  // Prise de poste : début mai 2024
 featuredimage: /img/copie-de-sentinelles.jpg
 tags:
   - Vie associative

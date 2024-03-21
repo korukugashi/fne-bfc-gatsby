@@ -42,7 +42,7 @@ admins:
     photo: /img/user.png
 salaries:
   - name: Marine Luczak
-    fonction: Chargée de communication du Débat Public BFC
+    fonction: Chargée de communication
     photo: /img/user.png
   - name: Salomé Dittiere
     fonction: Chargée de projet biodiversité
@@ -53,10 +53,10 @@ salaries:
   - name: Lou-Ann Hennequin
     fonction: Chargée de mission Transition-Action
     photo: /img/user.png
-  - name: Philippine Magnin-Feysot
-    fonction: Chargée de mission Sentinelles de la Nature et Cartes Vertes
-    photo: /img/21316242_1369220386524270_3103866155333227914_o.png
   - name: Adrien Léturgie
     fonction: Chargé de développement de la filière Végétal local
+    photo: /img/user.png
+  - name: Noé Rivallain
+    fonction: Chargé de mission programme Débat Public
     photo: /img/user.png
 ---

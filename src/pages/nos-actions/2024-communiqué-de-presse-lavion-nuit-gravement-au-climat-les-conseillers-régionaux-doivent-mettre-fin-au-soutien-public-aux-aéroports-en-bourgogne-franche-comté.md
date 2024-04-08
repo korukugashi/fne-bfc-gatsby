@@ -18,6 +18,6 @@ R﻿etrouvez le communiqué de presse rédigé par France Nature Environnement e
 
 <!--StartFragment-->
 
-<https://www.fne-bfc.fr/documentation/categories/communiqu%C3%A9s-de-presse/>
+<https://www.fne-bfc.fr/img/2024-04-08cp-aeroports_bfc.pdf>
 
 <!--EndFragment-->

@@ -17,3 +17,5 @@ tags:
 R﻿etrouvez le communiqué de presse rédigé par France Nature Environnement et ses associations fédérées, FNE Bourgogne Franche-Comté et Serre Vivante, appuyées par Agir Pour l’environnement, les Amis de la Terre de Côte d’Or et Greenpeace Dijon, associations partenaires, en appellent à un tourisme plus durable et à la réduction du trafic aérien.
 
 <https://www.fne-bfc.fr/documentation/categories/communiqu%C3%A9s-de-presse/>
+
+[www.fne-bfc.fr/img/2024-04-08cp-aeroports_bfc.pdf](www.fne-bfc.fr/img/2024-04-08cp-aeroports_bfc.pdf)

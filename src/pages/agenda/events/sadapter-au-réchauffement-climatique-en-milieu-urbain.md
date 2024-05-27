@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2024-05-27T08:11:27.895Z
+date: 2024-06-20T08:11:27.895Z
 title: S'adapter au réchauffement climatique en milieu urbain
 location: Quetigny
 duration: 18h

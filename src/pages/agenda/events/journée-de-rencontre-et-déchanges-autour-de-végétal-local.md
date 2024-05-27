@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2024-06-04T08:30:56.595Z
+date: 2024-07-08T08:30:56.595Z
 title: Journée de rencontre et d'échanges autour de Végétal local
 location: Besançon
 duration: 9h à 16h30
@@ -9,7 +9,7 @@ duration: 9h à 16h30
 
 ### Journée à destination des Relais locaux de la marque Végétal local
 
-### 📅 *04 juin 2024 de 09h00 à 16h30*
+### 📅 *08 juillet 2024 de 09h00 à 16h30* 
 
 ### 📍*Centre Pierre Mendes France, 3 rue Beauregard - 25000 Besançon*
 
@@ -20,9 +20,10 @@ Les relais locaux sont pour nous des **ambassadeurs** de la marque, des structur
 
 \
 Nous vous proposons une **1ère journée de rencontre** :\
-- Pour vous donner des **éléments de langage** autour de la marque et des outils pour mieux en parler.\
-- Pour définir avec vous **le rôle d'ambassadeur.**\
-- Pour **mieux comprendre la filière Végétal local** sur le territoire.
+
+* Pour vous donner des **éléments de langage** autour de la marque et des outils pour mieux en parler.\
+* Pour définir avec vous **le rôle d'ambassadeur.**\
+* Pour **mieux comprendre la filière Végétal local** sur le territoire.
 
 \
 Temps de présentation, retours d'expériences et ateliers sont au programme de cette journée.\

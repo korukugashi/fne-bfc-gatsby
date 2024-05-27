@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2024-05-27T08:30:56.595Z
+date: 2024-06-04T08:30:56.595Z
 title: Journée de rencontre et d'échanges autour de Végétal local
 location: Besançon
 duration: 9h à 16h30

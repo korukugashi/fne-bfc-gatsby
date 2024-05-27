@@ -5,13 +5,13 @@ title: S'adapter au réchauffement climatique en milieu urbain
 location: Quetigny
 duration: 18h
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ duration: 18h
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -623,9 +623,9 @@ duration: 18h
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -652,20 +652,20 @@ duration: 18h
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-L’adaptation des villes au changement climatique : comment agir ?
+**L’adaptation des villes au changement climatique : comment agir ?**
 
 Jeudi 20 juin à 18h à la Fédération de foot de Quetigny, 21800
 
-Site accessible en Tram (ligne 1, arrêt Cap Vert)
+*Site accessible en Tram (ligne 1, arrêt Cap Vert)*
 
 Le changement climatique en ville : quels problèmes ? quelles actions ? Retrouvons-nous pour choisir ensemble les solutions de demain !
 
 Au programme : ateliers de concertation, présentation d’actions locales, jeu sérieux…
 
-[I﻿nscription recommandée](https://debatpublic-bfc.org/agenda/sadapter-au-rechauffement-climatique-en-milieu-urbain/)
+# [I﻿nscription recommandée](https://debatpublic-bfc.org/agenda/sadapter-au-rechauffement-climatique-en-milieu-urbain/)
 
 <!--EndFragment-->

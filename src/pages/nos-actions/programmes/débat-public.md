@@ -14,7 +14,7 @@ Le [programme Débat Public](https://debatpublic-bfc.org/), animé par [France N
 
 Ses actions 
 
-Chaque année, six débats publics sont organisés avec l'appui du réseau d'acteurs autour du programme Débat Public. L'équipe veille au respect des principes du débat et de la [Charte de la Participation](https://www.ecologie.gouv.fr/charte-participation-du-public).
+Chaque année, quatre débats publics sont organisés avec l'appui du réseau d'acteurs autour du programme Débat Public. L'équipe veille au respect des principes du débat et de la [Charte de la Participation](https://www.ecologie.gouv.fr/charte-participation-du-public).
 
 Ses objectifs
 
@@ -24,9 +24,7 @@ Ses objectifs
 
 Le Programme Débat Public est financé par le Conseil Régional Bourgogne-Franche-Comté, la DREAL Bourgogne-Franche-Comté et l’ADEME Bourgogne-Franche-Comté.
 
-L﻿aurence Nguyen, coordinatrice du programme - coordination@debatpublic-bfc.org - 06.52.18.06.93
 
-M﻿arine Luczak, chargée de communication - animation@debatpublic-bfc.org - 06.58.70.64.67
 
 <!--EndFragment-->
 

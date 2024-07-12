@@ -6,4 +6,4 @@ file: /img/rapport-d-activités_fnebfc_2023.pdf
 photo: /img/comartine-rapport-d-activité_fnebfc_2023.pdf.jpg
 category: Rapports d'activités
 ---
-Nos actions et les actions de notre réseau.
+Nos actions et les actions de notre réseau

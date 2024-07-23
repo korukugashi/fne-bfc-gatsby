@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2024-07-22T08:59:49.788Z
+date: 2024-08-09T08:59:49.788Z
 title: 34ème édition des Nuits des Etoiles
 location: A l'observatoire des Hautes Plates, entre Dijon et Corcelles les Monts.
 duration: 9 et 10 Août 2024

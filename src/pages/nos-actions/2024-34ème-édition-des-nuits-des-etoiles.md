@@ -2,11 +2,14 @@
 templateKey: action-post
 title: 34ème édition des Nuits des Etoiles
 date: 2024-07-22T08:51:02.253Z
-description: >-
-  Le 9 et 10 août participez à la 34ème édition des Nuits des Etoiles, sur le
-  thème de *La Quête des Origines.*
+description: >
+  ✨🌠 34ème édition de la Nuit des Étoiles ! ✨🌠 
 
-  À l'observatoire des Hautes Plates, entre Dijon et Corcelles les Monts.
+
+  Vous êtes prêts à passer une nuit magique sous les étoiles ? 
+
+
+  Nous serons présents le 9 août pour vous présenter notre programme Sentinelles de la Nature et les effets néfastes des éclairages artificiels.
 featuredimage: /img/1_affichende_a3.jpg
 tags:
   - Territoire

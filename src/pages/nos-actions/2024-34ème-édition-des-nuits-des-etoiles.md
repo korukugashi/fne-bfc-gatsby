@@ -9,7 +9,7 @@ description: >
   Vous êtes prêts à passer une nuit magique sous les étoiles ? 
 
 
-  Nous serons présents le 9 août pour vous présenter notre programme Sentinelles de la Nature et les effets néfastes des éclairages artificiels.
+  Nous serons présents pour vous présenter notre programme Sentinelles de la Nature et les effets néfastes des éclairages artificiels.
 featuredimage: /img/1_affichende_a3.jpg
 tags:
   - Territoire

@@ -4,7 +4,7 @@ date: 2024-08-05T14:09:22.351Z
 title: Offre d'emploi Transition Action
 file: /img/chargé.e-de-mission-transition-action-offre-d-emploi.pdf
 photo: /img/new-life-1207327_1280.jpg
-category: TRANSITION ACTION - Sobriété, low-tech et communs
+category: Offres d'emploi
 ---
 <!--StartFragment-->
 

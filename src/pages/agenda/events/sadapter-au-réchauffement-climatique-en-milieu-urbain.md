@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2024-09-04T06:19:20.836Z
+date: 2024-10-02T16:00:00.000Z
 title: S'adapter au réchauffement climatique en milieu urbain
 location: La Coursive - 33 place Galilée, 21000 Dijon
 duration: 18h

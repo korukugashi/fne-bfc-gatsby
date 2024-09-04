@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2024-09-02T08:10:47.560Z
+date: 2024-09-06T18:00:00.000Z
 title: "Conférence : Le retour naturel du loup"
 location: Champagnole - Salle du Rex, 26 rue Baronne Delort
 duration: 20h

@@ -2,17 +2,8 @@
 templateKey: action-post
 title: Éco-émotions & changement climatique
 date: 2024-11-26T15:43:41.924Z
-description: >
-  Et si on prenait le temps d’explorer ensemble nos émotions face aux
-  bouleversements climatiques ? 🌱
-
-  Nous avons le plaisir de vous inviter à un événement unique et chaleureux autour des éco-émotions et du changement climatique, le :
-
-  🗓 Mercredi 11 décembre 2024
-
-  ⏰ À 18h
-
-  📍 Au Kursaal de Besançon, salle Proudhon
+description: Rejoignez-nous le 11 décembre 2024 à 18h au Kursaal Besançon, salle
+  Proudhon pour une soirée riche en échanges et en expériences émotionnelles.
 featuredimage: /img/eco-emotion-2024-affiche.jpg
 tags:
   - Territoire

@@ -1,6 +1,6 @@
 ---
 templateKey: agenda
-date: 2024-11-26T15:42:29.636Z
+date: 2024-12-11T15:42:29.636Z
 title: Éco-émotions & changement climatique
 location: Kursaal, salle Proudhon
 duration: 18h

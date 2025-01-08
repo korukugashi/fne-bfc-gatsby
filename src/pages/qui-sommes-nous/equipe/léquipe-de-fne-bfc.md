@@ -44,19 +44,16 @@ salaries:
   - name: Marine Luczak
     fonction: Chargée de communication
     photo: /img/user.png
-  - name: Salomé Dittiere
-    fonction: Chargée de projet biodiversité
-    photo: /img/user.png
   - name: Élise Chatelain
     fonction: Secrétariat
-    photo: /img/user.png
-  - name: Lou-Ann Hennequin
-    fonction: Chargée de mission Transition-Action
     photo: /img/user.png
   - name: Adrien Léturgie
     fonction: Chargé de développement de la filière Végétal local
     photo: /img/user.png
-  - name: Noé Rivallain
-    fonction: Chargé de mission programme Débat Public
+  - name: Anne-Lise Thevenin
+    fonction: Directrice
+    photo: /img/beaver.png
+  - name: Mathilde Morchain
+    fonction: Transition Action
     photo: /img/user.png
 ---

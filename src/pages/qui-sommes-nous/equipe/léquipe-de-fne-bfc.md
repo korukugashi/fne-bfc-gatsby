@@ -25,21 +25,15 @@ admins:
   - name: Pascal Blain
     fonction: Administrateur
     photo: /img/user.png
-  - name: Michèle Durand Migeon
-    fonction: Administratrice
-    photo: /img/user.png
-  - name: Jean-Yves Chalumeaux
-    fonction: Administrateur
-    photo: /img/user.png
   - name: Dominique Guyon
-    fonction: Administrateur
-    photo: /img/user.png
-  - name: Bernard Rousseau
     fonction: Administrateur
     photo: /img/user.png
   - name: Dominique Jamet
     fonction: Administrateur
     photo: /img/user.png
+  - name: Joelle Pienoz
+    photo: /img/user.png
+    fonction: Administratrice
 salaries:
   - name: Marine Luczak
     fonction: Chargée de communication

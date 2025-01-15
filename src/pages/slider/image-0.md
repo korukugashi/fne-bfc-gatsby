@@ -1,5 +1,5 @@
 ---
 templateKey: slider
-label: IMAGE 0
+label: banniere
 photo: /img/bannière-site-fne-bfc.jpg
 ---

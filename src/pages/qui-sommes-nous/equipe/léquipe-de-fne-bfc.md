@@ -37,7 +37,7 @@ admins:
 salaries:
   - name: Marine Luczak
     fonction: Chargée de communication
-    photo: /img/user.png
+    photo: /img/marine-luczak_fne.jpg
   - name: Élise Chatelain
     fonction: Secrétariat
     photo: /img/user.png

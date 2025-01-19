@@ -46,7 +46,7 @@ salaries:
     photo: /img/user.png
   - name: Anne-Lise Thevenin
     fonction: Directrice
-    photo: /img/beaver.png
+    photo: /img/anne-lise-thevenin.jpg
   - name: Mathilde Morchain
     fonction: Transition Action
     photo: /img/user.png

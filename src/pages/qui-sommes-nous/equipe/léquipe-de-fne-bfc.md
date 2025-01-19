@@ -32,7 +32,7 @@ admins:
     fonction: Administrateur
     photo: /img/user.png
   - name: Joelle Pienoz
-    photo: /img/user.png
+    photo: /img/pienoz-joelle_jne.jpg
     fonction: Administratrice
 salaries:
   - name: Marine Luczak

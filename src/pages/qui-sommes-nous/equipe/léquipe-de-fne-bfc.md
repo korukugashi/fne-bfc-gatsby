@@ -14,7 +14,7 @@ admins:
     fonction: Trésorier adjoint
     photo: /img/user.png
   - name: Nicole Sicard
-    fonction: Secrétaire
+    fonction: Administratrice
     photo: /img/nicole-sicard.jpg
   - name: Annette Lapalus
     fonction: Vice présidente

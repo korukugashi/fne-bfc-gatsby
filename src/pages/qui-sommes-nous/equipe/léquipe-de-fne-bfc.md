@@ -43,7 +43,7 @@ salaries:
     photo: /img/user.png
   - name: Adrien Léturgie
     fonction: Chargé de développement de la filière Végétal local
-    photo: /img/user.png
+    photo: /img/adrien-leturgie.jpg
   - name: Anne-Lise Thevenin
     fonction: Directrice
     photo: /img/anne-lise-thevenin.jpg

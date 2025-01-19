@@ -1,8 +1,8 @@
 ---
 templateKey: documents
 date: 2024-01-30T09:51:25.994Z
-title: "Soutient aux agriculteurs : La transition agroécologique comme modèle de
-  sortie de crise"
+title: "[COMMUNIQUÉ DE PRESSE] Soutien aux agriculteurs : La transition
+  agroécologique comme modèle de sortie de crise. 30 janvier 2024"
 file: /img/cp-fne-bfc-colere-des-agriculteurs.pdf
 photo: /img/tractor-3739203_1280.jpg
 category: Communiqués de presse

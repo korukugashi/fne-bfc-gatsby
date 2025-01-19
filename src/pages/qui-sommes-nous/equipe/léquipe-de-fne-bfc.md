@@ -20,7 +20,7 @@ admins:
     fonction: Vice présidente
     photo: /img/user.png
   - name: Gérard Groubatch
-    fonction: Secrétaire
+    fonction: Administrateur
     photo: /img/gerard-groubatch.jpg
   - name: Pascal Blain
     fonction: Administrateur

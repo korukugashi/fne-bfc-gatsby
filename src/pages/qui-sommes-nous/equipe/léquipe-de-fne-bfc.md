@@ -9,7 +9,7 @@ admins:
     photo: /img/user.png
   - name: Jean-Pierre Duplus
     fonction: Trésorier
-    photo: /img/user.png
+    photo: /img/jean-pierre_duplus.webp
   - name: Patrick Laden
     fonction: Trésorier adjoint
     photo: /img/user.png

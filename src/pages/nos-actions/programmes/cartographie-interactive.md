@@ -71,4 +71,4 @@ Par le biais de l’animation de Cartes vertes et Sentinelles de la Nature en Bo
 
 **Pour plus d’information, merci de contacter** 
 
-***Philippine MAGNIN-FEYSOT***, *Chargée de mission Sentinelles de la Nature et Cartes Vertes* à l'adresse **sentinelles@fne-bfc.fr**
+***Héloïse PUGA***, *Chargée de mission Sentinelles de la Nature et Cartes Vertes* à l'adresse **sentinelles@fne-bfc.fr**

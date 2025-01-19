@@ -24,7 +24,7 @@ admins:
     photo: /img/user.png
   - name: Pascal Blain
     fonction: Administrateur
-    photo: /img/user.png
+    photo: /img/blainpascalcarre.jpg
   - name: Dominique Guyon
     fonction: Administrateur
     photo: /img/dominique_guyon.webp

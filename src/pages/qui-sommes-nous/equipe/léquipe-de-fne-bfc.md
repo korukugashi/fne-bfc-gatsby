@@ -27,7 +27,7 @@ admins:
     photo: /img/user.png
   - name: Dominique Guyon
     fonction: Administrateur
-    photo: /img/user.png
+    photo: /img/dominique_guyon.webp
   - name: Dominique Jamet
     fonction: Administrateur
     photo: /img/user.png

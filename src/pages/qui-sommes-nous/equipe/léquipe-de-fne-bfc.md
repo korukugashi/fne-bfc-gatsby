@@ -15,7 +15,7 @@ admins:
     photo: /img/user.png
   - name: Nicole Sicard
     fonction: Secrétaire
-    photo: /img/user.png
+    photo: /img/nicole-sicard.jpg
   - name: Annette Lapalus
     fonction: Vice présidente
     photo: /img/user.png

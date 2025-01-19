@@ -36,7 +36,7 @@ admins:
     fonction: Administratrice
 salaries:
   - name: Marine Luczak
-    fonction: Chargée de communication
+    fonction: Chargée de Dialogue Environnemental et communication
     photo: /img/marine-luczak_fne.jpg
   - name: Élise Chatelain
     fonction: Secrétariat

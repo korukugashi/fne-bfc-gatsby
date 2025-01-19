@@ -50,4 +50,7 @@ salaries:
   - name: Mathilde Morchain
     fonction: Transition Action
     photo: /img/user.png
+  - name: Héloïse PUGA
+    fonction: Chargée de mission Sentinelles de la Nature
+    photo: /img/profil-linkedin.jpg
 ---

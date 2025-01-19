@@ -1,7 +1,7 @@
 ---
 templateKey: documents
 date: 2020-11-28T22:09:25.752Z
-title: Fluvial
+title: Pour une politique réaliste en faveur du transport fluvial
 file: /img/clac_8-pages-fluvial-v36-2017-11-22.pdf
 photo: /img/ceser.png
 category: CESER

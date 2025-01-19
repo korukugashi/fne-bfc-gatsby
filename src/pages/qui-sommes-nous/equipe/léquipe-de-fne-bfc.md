@@ -17,8 +17,8 @@ admins:
     fonction: Administratrice
     photo: /img/nicole-sicard.jpg
   - name: Annette Lapalus
-    fonction: Vice présidente
-    photo: /img/user.png
+    fonction: Administratrice
+    photo: /img/lapalus-annette.jpg
   - name: Gérard Groubatch
     fonction: Administrateur
     photo: /img/gerard-groubatch.jpg

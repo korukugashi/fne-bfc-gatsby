@@ -21,7 +21,7 @@ admins:
     photo: /img/user.png
   - name: Gérard Groubatch
     fonction: Secrétaire
-    photo: /img/user.png
+    photo: /img/gerard-groubatch.jpg
   - name: Pascal Blain
     fonction: Administrateur
     photo: /img/blainpascalcarre.jpg

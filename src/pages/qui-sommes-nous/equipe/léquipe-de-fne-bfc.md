@@ -5,7 +5,7 @@ admins:
     fonction: Administratrice
     photo: /img/petit_martine.webp
   - name: Patrick Bourque
-    fonction: Vice-Président
+    fonction: Représentant légal
     photo: /img/user.png
   - name: Jean-Pierre Duplus
     fonction: Trésorier

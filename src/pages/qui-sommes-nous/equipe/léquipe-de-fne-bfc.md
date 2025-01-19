@@ -3,7 +3,7 @@ title: L'équipe de FNE BFC
 admins:
   - name: Martine Petit
     fonction: Présidente
-    photo: /img/user.png
+    photo: /img/petit_martine.webp
   - name: Patrick Bourque
     fonction: Vice-Président
     photo: /img/user.png

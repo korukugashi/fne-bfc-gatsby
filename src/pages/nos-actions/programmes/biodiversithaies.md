@@ -54,8 +54,6 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 * Mais également grâce à d’autres associations partenaires : Dole Environnement, CPIE Vallée de l’Ognon, LPO BFC, SHNA, les amis de la Nature et des Vosges Saônoise
 * **Ces actions sont également possibles grâce au soutien de nos financeurs : Conseil régional de Bourgogne-Franche-Comté, DREAL, Agence de l’eau Rhône Méditerranée Corse, SNCF Réseau, Commissariat de Massif du Jura, *fonds Aux Arbres Citoyens !***
 
-  <!--EndFragment-->
-
   ![](/img/logo-regionnoir.jpg?nf_resize=fit&w=400#img-center)
 
   ![](/img/logo-fnadt-plan-de-relance.png?nf_resize=fit&w=400#img-center)
@@ -81,3 +79,19 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 * FNE BFC est correspondant local de l’Afac-Agroforesteries pour le développement de la marque **Végétal local**.
 
   ![](/img/p7120131.jpg?nf_resize=fit&w=400#img-center)
+
+R﻿etrouvez les newsletter Végétal local 2024 ici :
+
+[Janvier ](https://mailchi.mp/7dad60fe4b17/vegetal-local-17371197)
+
+[M﻿ars ](https://mailchi.mp/89006c3e2286/vegetal-local-17369429)
+
+[M﻿ai](https://mailchi.mp/893c75949313/vegetal-local-17374430)
+
+[Juin](https://mailchi.mp/7a07b60e7ed0/vegetal-local-17388106)
+
+[A﻿out](https://mailchi.mp/0fe2c5dff7c5/vegetal-local-17402894)
+
+[O﻿ctobre](https://mailchi.mp/655857ca3178/vegetal-local-17436675)
+
+[D﻿écembre](https://mailchi.mp/881bdbc5ed8c/vegetal-local-17438156)

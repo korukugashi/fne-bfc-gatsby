@@ -80,7 +80,7 @@ Récolter et nettoyer des graines pour Végétal local, mobiliser et accompagner
 
   ![](/img/p7120131.jpg?nf_resize=fit&w=400#img-center)
 
-R﻿etrouvez les newsletter Végétal local 2024 ici :
+R﻿etrouvez les newsletters Végétal local 2024 ici :
 
 [Janvier ](https://mailchi.mp/7dad60fe4b17/vegetal-local-17371197)
 

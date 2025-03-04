@@ -12,8 +12,6 @@ tags:
 ---
 <!--StartFragment-->
 
-🤩 Avec plus de 860 participant·es et près de 1260 observations, 2024 a été une riche année pour l’Opération Hérisson en région BFC, et c’est grâce à vous !
-
 🤗 Ce programme de recensement n’existerait pas sans la mobilisation et la régularité de nos participant·es qui, pour certain·es, sont à nos côtés depuis 2018 ! Toute notre reconnaissance pour votre engagement envers l’Opération Hérisson 💚
 
 🙏 En 2025, restons mobilisé·es ! Nous comptons sur vous pour rester vigilant·es afin de renseigner hérissons vivants, morts et indices de présence. N’hésitez pas à parler du programme à votre entourage afin d’être encore plus nombreux·ses cette année pour préserver le hérisson d’Europe !

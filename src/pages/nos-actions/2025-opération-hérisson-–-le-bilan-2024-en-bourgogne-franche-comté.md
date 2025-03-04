@@ -5,7 +5,7 @@ date: 2025-03-03T09:42:39.971Z
 description: 🤩 Avec plus de 860 participant·es et près de 1260 observations,
   2024 a été une riche année pour l’Opération Hérisson en région BFC, et c’est
   grâce à vous !
-featuredimage: /img/08_11-nuit-des-etoiles-2.png
+featuredimage: /img/1.jpg
 tags:
   - Territoire
   - Hérisson

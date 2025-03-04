@@ -18,8 +18,6 @@ tags:
 
 🙏 En 2025, restons mobilisé·es ! Nous comptons sur vous pour rester vigilant·es afin de renseigner hérissons vivants, morts et indices de présence. N’hésitez pas à parler du programme à votre entourage afin d’être encore plus nombreux·ses cette année pour préserver le hérisson d’Europe !
 
-
-
 Vous connaissez par cœur le refrain ou peut-être souhaitez-vous nous rejoindre ? Dans tous les cas, pour participer à l’Opération Hérisson, suivez les étapes ci-dessous :
 
 1️⃣ Rendez-vous sur herisson.fne25.fr
@@ -28,20 +26,12 @@ Vous connaissez par cœur le refrain ou peut-être souhaitez-vous nous rejoindre
 
 3️⃣ Parlez-en autour de vous !
 
-
-
 Découvrez le bilan 2024 de l’Opération Hérisson en BFC ➡️ [https://www.fne25.fr/2025/02/20/operation-herisson-bilan-2024-en-bfc/](https://www.fne25.fr/2025/02/20/operation-herisson-bilan-2024-en-bfc/ "https\://www.fne25.fr/2025/02/20/operation-herisson-bilan-2024-en-bfc/")
 
-
-
 Pour plus d’informations sur le hérisson ➡️ [https://fne.asso.fr/dossiers/tout-savoir-sur-le-herisson-et-comment-le-proteger](https://fne.asso.fr/dossiers/tout-savoir-sur-le-herisson-et-comment-le-proteger "https\://fne.asso.fr/dossiers/tout-savoir-sur-le-herisson-et-comment-le-proteger")
-
-
 
 Pour plus d’informations sur l’Opération Hérisson ➡️ [https://fne.asso.fr/operation-herisson](https://fne.asso.fr/operation-herisson "https\://fne.asso.fr/operation-herisson")
 
 <!--EndFragment-->
 
-
-
-![](/img/2.jpg?nf_resize=fit&w=400#center)
+![](#center)

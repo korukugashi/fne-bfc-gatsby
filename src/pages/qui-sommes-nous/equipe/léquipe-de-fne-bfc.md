@@ -51,6 +51,6 @@ salaries:
     fonction: Transition Action
     photo: /img/user.png
   - name: Héloïse PUGA
-    fonction: Chargée de mission Sentinelles de la Nature et Cartes Vertes
+    fonction: Chargée de mission Sentinelles de la Nature
     photo: /img/puga_heloise.jpg
 ---

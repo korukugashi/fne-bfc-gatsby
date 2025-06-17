@@ -31,9 +31,9 @@ admins:
   - name: Jacques Cardis (21)
     fonction: Administrateur
     photo: /img/cardis-jacques.jpg
-  - name: Joelle Pienoz
-    photo: /img/pienoz-joelle_jne.jpg
-    fonction: Administratrice
+  - name: Jean André Guillermin (71)
+    photo: /img/guillermain-jean-andré.jpg
+    fonction: Administrateur
   - name: Patrick Ferrandiz (25)
     fonction: administrateur
     photo: /img/hedgehog-2-.png

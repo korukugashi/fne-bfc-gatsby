@@ -1,7 +1,7 @@
 ---
 title: L'équipe de FNE BFC
 admins:
-  - name: Patrick Bourque
+  - name: Patrick Bourque (25)
     fonction: Représentant légal
     photo: /img/patrick-bourque.jpg
   - name: Nicole Sicard

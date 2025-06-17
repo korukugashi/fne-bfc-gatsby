@@ -7,9 +7,9 @@ admins:
   - name: Patrick Bourque
     fonction: Représentant légal
     photo: /img/patrick-bourque.jpg
-  - name: Jean-Pierre Duplus
-    fonction: Trésorier
-    photo: /img/jean-pierre_duplus.webp
+  - name: Daniel Schlatter
+    fonction: administrateur
+    photo: /img/daniel-schlatter2.jpg
   - name: Patrick Laden
     fonction: Trésorier adjoint
     photo: /img/patrick-laden.jpg

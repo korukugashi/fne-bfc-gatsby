@@ -25,7 +25,7 @@ admins:
   - name: Martine Petit (21)
     fonction: Administratrice
     photo: /img/petit-martine-esther.jpg
-  - name: Daniel Schlatter
+  - name: Daniel Schlatter (25)
     fonction: administrateur
     photo: /img/daniel-schlatter2.jpg
   - name: Jacques Cardis (21)

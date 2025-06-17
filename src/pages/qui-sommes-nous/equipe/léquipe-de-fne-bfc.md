@@ -4,12 +4,6 @@ admins:
   - name: Patrick Bourque
     fonction: Représentant légal
     photo: /img/patrick-bourque.jpg
-  - name: Martine Petit
-    fonction: Administratrice
-    photo: /img/petit-martine-esther.jpg
-  - name: Daniel Schlatter
-    fonction: administrateur
-    photo: /img/daniel-schlatter2.jpg
   - name: Nicole Sicard
     fonction: Administratrice
     photo: /img/nicole-sicard.jpg
@@ -19,21 +13,30 @@ admins:
   - name: Annette Lapalus
     fonction: Administratrice
     photo: /img/lapalus-annette.jpg
-  - name: Gérard Groubatch
-    fonction: Administrateur
-    photo: /img/gerard-groubatch.jpg
   - name: Pascal Blain
     fonction: Administrateur
     photo: /img/blainpascalcarre.jpg
+  - name: Gérard Groubatch
+    fonction: Administrateur
+    photo: /img/gerard-groubatch.jpg
   - name: Jean-Claude Lambert
     fonction: Administrateur
     photo: /img/lambert.jpg
-  - name: Jacques Cardis
+  - name: Martine Petit
+    fonction: Administratrice
+    photo: /img/petit-martine-esther.jpg
+  - name: Daniel Schlatter
+    fonction: administrateur
+    photo: /img/daniel-schlatter2.jpg
+  - name: Jacques Cardis (21)
     fonction: Administrateur
     photo: /img/cardis-jacques.jpg
   - name: Joelle Pienoz
     photo: /img/pienoz-joelle_jne.jpg
     fonction: Administratrice
+  - name: Patrick Ferrandiz (25)
+    fonction: administrateur
+    photo: /img/hedgehog-2-.png
 salaries:
   - name: Marine Luczak
     fonction: Chargée de mission Dialogue Environnemental et communication

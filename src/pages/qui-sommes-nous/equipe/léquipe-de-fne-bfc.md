@@ -7,7 +7,7 @@ admins:
   - name: Nicole Sicard (71)
     fonction: Administratrice
     photo: /img/nicole-sicard.jpg
-  - name: Patrick Laden
+  - name: Patrick Laden (71)
     fonction: Trésorier adjoint
     photo: /img/patrick-laden.jpg
   - name: Annette Lapalus

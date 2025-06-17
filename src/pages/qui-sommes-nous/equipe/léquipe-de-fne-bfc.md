@@ -1,21 +1,21 @@
 ---
 title: L'équipe de FNE BFC
 admins:
-  - name: Martine Petit
-    fonction: Administratrice
-    photo: /img/petit_martine.webp
   - name: Patrick Bourque
     fonction: Représentant légal
     photo: /img/patrick-bourque.jpg
+  - name: Martine Petit
+    fonction: Administratrice
+    photo: /img/petit-martine-esther.jpg
   - name: Daniel Schlatter
     fonction: administrateur
     photo: /img/daniel-schlatter2.jpg
-  - name: Patrick Laden
-    fonction: Trésorier adjoint
-    photo: /img/patrick-laden.jpg
   - name: Nicole Sicard
     fonction: Administratrice
     photo: /img/nicole-sicard.jpg
+  - name: Patrick Laden
+    fonction: Trésorier adjoint
+    photo: /img/patrick-laden.jpg
   - name: Annette Lapalus
     fonction: Administratrice
     photo: /img/lapalus-annette.jpg
@@ -28,9 +28,9 @@ admins:
   - name: Jean-Claude Lambert
     fonction: Administrateur
     photo: /img/lambert.jpg
-  - name: Dominique Jamet
+  - name: Jacques Cardis
     fonction: Administrateur
-    photo: /img/user.png
+    photo: /img/cardis-jacques.jpg
   - name: Joelle Pienoz
     photo: /img/pienoz-joelle_jne.jpg
     fonction: Administratrice

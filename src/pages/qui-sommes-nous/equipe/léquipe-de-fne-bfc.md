@@ -25,9 +25,9 @@ admins:
   - name: Pascal Blain
     fonction: Administrateur
     photo: /img/blainpascalcarre.jpg
-  - name: Dominique Guyon
+  - name: Jean-Claude Lambert
     fonction: Administrateur
-    photo: /img/dominique_guyon.webp
+    photo: /img/lambert.jpg
   - name: Dominique Jamet
     fonction: Administrateur
     photo: /img/user.png

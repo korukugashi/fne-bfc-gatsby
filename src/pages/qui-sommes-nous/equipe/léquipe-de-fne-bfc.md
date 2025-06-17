@@ -38,9 +38,6 @@ salaries:
   - name: Marine Luczak
     fonction: Chargée de mission Dialogue Environnemental et communication
     photo: /img/marine-luczak_fne.jpg
-  - name: Élise Chatelain
-    fonction: Secrétariat
-    photo: /img/user.png
   - name: Adrien Léturgie
     fonction: Chargé de développement de la filière Végétal local
     photo: /img/adrien-leturgie.jpg
@@ -49,7 +46,7 @@ salaries:
     photo: /img/anne-lise-thevenin.jpg
   - name: Mathilde Morchain
     fonction: Transition Action
-    photo: /img/user.png
+    photo: /img/mathilde-morchain.jpg
   - name: Héloïse PUGA
     fonction: Chargée de mission Sentinelles de la Nature
     photo: /img/puga_heloise.jpg

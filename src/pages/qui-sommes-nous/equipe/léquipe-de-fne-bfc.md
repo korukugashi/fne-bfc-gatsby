@@ -19,7 +19,7 @@ admins:
   - name: Gérard Groubatch
     fonction: Administrateur
     photo: /img/gerard-groubatch.jpg
-  - name: Jean-Claude Lambert
+  - name: Jean-Claude Lambert (39)
     fonction: Administrateur
     photo: /img/lambert.jpg
   - name: Martine Petit

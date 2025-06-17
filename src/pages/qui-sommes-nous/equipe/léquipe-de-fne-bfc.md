@@ -22,7 +22,7 @@ admins:
   - name: Jean-Claude Lambert (39)
     fonction: Administrateur
     photo: /img/lambert.jpg
-  - name: Martine Petit
+  - name: Martine Petit (21)
     fonction: Administratrice
     photo: /img/petit-martine-esther.jpg
   - name: Daniel Schlatter

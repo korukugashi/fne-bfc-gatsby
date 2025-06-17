@@ -13,7 +13,7 @@ admins:
   - name: Annette Lapalus
     fonction: Administratrice
     photo: /img/lapalus-annette.jpg
-  - name: Pascal Blain
+  - name: Pascal Blain (39)
     fonction: Administrateur
     photo: /img/blainpascalcarre.jpg
   - name: Gérard Groubatch (90)

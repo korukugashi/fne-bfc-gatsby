@@ -16,7 +16,7 @@ admins:
   - name: Pascal Blain
     fonction: Administrateur
     photo: /img/blainpascalcarre.jpg
-  - name: Gérard Groubatch
+  - name: Gérard Groubatch (90)
     fonction: Administrateur
     photo: /img/gerard-groubatch.jpg
   - name: Jean-Claude Lambert (39)

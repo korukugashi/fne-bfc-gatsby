@@ -36,7 +36,7 @@ admins:
     fonction: Administrateur
   - name: Patrick Ferrandiz (25)
     fonction: administrateur
-    photo: /img/hedgehog-2-.png
+    photo: /img/patrick-ferrandiz.jpg
 salaries:
   - name: Marine Luczak
     fonction: Chargée de mission Dialogue Environnemental et communication

@@ -6,13 +6,13 @@ admins:
     photo: /img/petit_martine.webp
   - name: Patrick Bourque
     fonction: Représentant légal
-    photo: /img/user.png
+    photo: /img/patrick-bourque.jpg
   - name: Jean-Pierre Duplus
     fonction: Trésorier
     photo: /img/jean-pierre_duplus.webp
   - name: Patrick Laden
     fonction: Trésorier adjoint
-    photo: /img/user.png
+    photo: /img/patrick-laden.jpg
   - name: Nicole Sicard
     fonction: Administratrice
     photo: /img/nicole-sicard.jpg

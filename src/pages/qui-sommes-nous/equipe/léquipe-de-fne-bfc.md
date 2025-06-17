@@ -8,9 +8,9 @@ admins:
     fonction: Administratrice
     photo: /img/nicole-sicard.jpg
   - name: Patrick Laden (71)
-    fonction: Trésorier adjoint
+    fonction: Trésorier
     photo: /img/patrick-laden.jpg
-  - name: Annette Lapalus
+  - name: Annette Lapalus (70)
     fonction: Administratrice
     photo: /img/lapalus-annette.jpg
   - name: Pascal Blain (39)

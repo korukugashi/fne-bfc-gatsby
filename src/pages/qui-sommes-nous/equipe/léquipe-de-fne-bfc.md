@@ -4,7 +4,7 @@ admins:
   - name: Patrick Bourque (25)
     fonction: Représentant légal
     photo: /img/patrick-bourque.jpg
-  - name: Nicole Sicard
+  - name: Nicole Sicard (71)
     fonction: Administratrice
     photo: /img/nicole-sicard.jpg
   - name: Patrick Laden
